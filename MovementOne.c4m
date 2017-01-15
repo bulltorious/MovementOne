@@ -1,0 +1,3965 @@
+icon "MovementOne/banner.tga"
+description "This mod just makes all terrain only cost 1 movement."
+
+selectterr 1
+apcost 1
+
+selectterr 2
+apcost 1
+
+selectterr 3
+apcost 1
+
+selectterr 4
+apcost 1
+
+selectterr 5
+apcost 1
+
+selectterr 6
+apcost 1
+
+selectterr 7
+apcost 1
+
+selectterr 8
+apcost 1
+
+selectterr 9
+apcost 1
+
+selectterr 10
+apcost 1
+
+selectterr 11
+apcost 1
+
+selectterr 12
+apcost 1
+
+selectterr 13
+apcost 1
+
+selectterr 14
+apcost 1
+
+selectterr 15
+apcost 1
+
+selectterr 16
+apcost 1
+
+selectterr 17
+apcost 1
+
+selectterr 18
+apcost 1
+
+selectterr 19
+apcost 1
+
+selectterr 20
+apcost 1
+
+selectterr 21
+apcost 1
+
+selectterr 22
+apcost 1
+
+selectterr 23
+apcost 1
+
+selectterr 24
+apcost 1
+
+selectterr 25
+apcost 1
+
+selectterr 26
+apcost 1
+
+selectterr 27
+apcost 1
+
+selectterr 28
+apcost 1
+
+selectterr 29
+apcost 1
+
+selectterr 30
+apcost 1
+
+selectterr 31
+apcost 1
+
+selectterr 32
+apcost 1
+
+selectterr 33
+apcost 1
+
+selectterr 34
+apcost 1
+
+selectterr 35
+apcost 1
+
+selectterr 36
+apcost 1
+
+selectterr 37
+apcost 1
+
+selectterr 38
+apcost 1
+
+selectterr 39
+apcost 1
+
+selectterr 40
+apcost 1
+
+selectterr 41
+apcost 1
+
+selectterr 42
+apcost 1
+
+selectterr 43
+apcost 1
+
+selectterr 44
+apcost 1
+
+selectterr 45
+apcost 1
+
+selectterr 46
+apcost 1
+
+selectterr 47
+apcost 1
+
+selectterr 48
+apcost 1
+
+selectterr 49
+apcost 1
+
+selectterr 50
+apcost 1
+
+selectterr 51
+apcost 1
+
+selectterr 52
+apcost 1
+
+selectterr 53
+apcost 1
+
+selectterr 54
+apcost 1
+
+selectterr 55
+apcost 1
+
+selectterr 56
+apcost 1
+
+selectterr 57
+apcost 1
+
+selectterr 58
+apcost 1
+
+selectterr 59
+apcost 1
+
+selectterr 60
+apcost 1
+
+selectterr 61
+apcost 1
+
+selectterr 62
+apcost 1
+
+selectterr 63
+apcost 1
+
+selectterr 64
+apcost 1
+
+selectterr 65
+apcost 1
+
+selectterr 66
+apcost 1
+
+selectterr 67
+apcost 1
+
+selectterr 68
+apcost 1
+
+selectterr 69
+apcost 1
+
+selectterr 70
+apcost 1
+
+selectterr 71
+apcost 1
+
+selectterr 72
+apcost 1
+
+selectterr 73
+apcost 1
+
+selectterr 74
+apcost 1
+
+selectterr 75
+apcost 1
+
+selectterr 76
+apcost 1
+
+selectterr 77
+apcost 1
+
+selectterr 78
+apcost 1
+
+selectterr 79
+apcost 1
+
+selectterr 80
+apcost 1
+
+selectterr 81
+apcost 1
+
+selectterr 82
+apcost 1
+
+selectterr 83
+apcost 1
+
+selectterr 84
+apcost 1
+
+selectterr 85
+apcost 1
+
+selectterr 86
+apcost 1
+
+selectterr 87
+apcost 1
+
+selectterr 88
+apcost 1
+
+selectterr 89
+apcost 1
+
+selectterr 90
+apcost 1
+
+selectterr 91
+apcost 1
+
+selectterr 92
+apcost 1
+
+selectterr 93
+apcost 1
+
+selectterr 94
+apcost 1
+
+selectterr 95
+apcost 1
+
+selectterr 96
+apcost 1
+
+selectterr 97
+apcost 1
+
+selectterr 98
+apcost 1
+
+selectterr 99
+apcost 1
+
+selectterr 100
+apcost 1
+
+selectterr 101
+apcost 1
+
+selectterr 102
+apcost 1
+
+selectterr 103
+apcost 1
+
+selectterr 104
+apcost 1
+
+selectterr 105
+apcost 1
+
+selectterr 106
+apcost 1
+
+selectterr 107
+apcost 1
+
+selectterr 108
+apcost 1
+
+selectterr 109
+apcost 1
+
+selectterr 110
+apcost 1
+
+selectterr 111
+apcost 1
+
+selectterr 112
+apcost 1
+
+selectterr 113
+apcost 1
+
+selectterr 114
+apcost 1
+
+selectterr 115
+apcost 1
+
+selectterr 116
+apcost 1
+
+selectterr 117
+apcost 1
+
+selectterr 118
+apcost 1
+
+selectterr 119
+apcost 1
+
+selectterr 120
+apcost 1
+
+selectterr 121
+apcost 1
+
+selectterr 122
+apcost 1
+
+selectterr 123
+apcost 1
+
+selectterr 124
+apcost 1
+
+selectterr 125
+apcost 1
+
+selectterr 126
+apcost 1
+
+selectterr 127
+apcost 1
+
+selectterr 128
+apcost 1
+
+selectterr 129
+apcost 1
+
+selectterr 130
+apcost 1
+
+selectterr 131
+apcost 1
+
+selectterr 132
+apcost 1
+
+selectterr 133
+apcost 1
+
+selectterr 134
+apcost 1
+
+selectterr 135
+apcost 1
+
+selectterr 136
+apcost 1
+
+selectterr 137
+apcost 1
+
+selectterr 138
+apcost 1
+
+selectterr 139
+apcost 1
+
+selectterr 140
+apcost 1
+
+selectterr 141
+apcost 1
+
+selectterr 142
+apcost 1
+
+selectterr 143
+apcost 1
+
+selectterr 144
+apcost 1
+
+selectterr 145
+apcost 1
+
+selectterr 146
+apcost 1
+
+selectterr 147
+apcost 1
+
+selectterr 148
+apcost 1
+
+selectterr 149
+apcost 1
+
+selectterr 150
+apcost 1
+
+selectterr 151
+apcost 1
+
+selectterr 152
+apcost 1
+
+selectterr 153
+apcost 1
+
+selectterr 154
+apcost 1
+
+selectterr 155
+apcost 1
+
+selectterr 156
+apcost 1
+
+selectterr 157
+apcost 1
+
+selectterr 158
+apcost 1
+
+selectterr 159
+apcost 1
+
+selectterr 160
+apcost 1
+
+selectterr 161
+apcost 1
+
+selectterr 162
+apcost 1
+
+selectterr 163
+apcost 1
+
+selectterr 164
+apcost 1
+
+selectterr 165
+apcost 1
+
+selectterr 166
+apcost 1
+
+selectterr 167
+apcost 1
+
+selectterr 168
+apcost 1
+
+selectterr 169
+apcost 1
+
+selectterr 170
+apcost 1
+
+selectterr 171
+apcost 1
+
+selectterr 172
+apcost 1
+
+selectterr 173
+apcost 1
+
+selectterr 174
+apcost 1
+
+selectterr 175
+apcost 1
+
+selectterr 176
+apcost 1
+
+selectterr 177
+apcost 1
+
+selectterr 178
+apcost 1
+
+selectterr 179
+apcost 1
+
+selectterr 180
+apcost 1
+
+selectterr 181
+apcost 1
+
+selectterr 182
+apcost 1
+
+selectterr 183
+apcost 1
+
+selectterr 184
+apcost 1
+
+selectterr 185
+apcost 1
+
+selectterr 186
+apcost 1
+
+selectterr 187
+apcost 1
+
+selectterr 188
+apcost 1
+
+selectterr 189
+apcost 1
+
+selectterr 190
+apcost 1
+
+selectterr 191
+apcost 1
+
+selectterr 192
+apcost 1
+
+selectterr 193
+apcost 1
+
+selectterr 194
+apcost 1
+
+selectterr 195
+apcost 1
+
+selectterr 196
+apcost 1
+
+selectterr 197
+apcost 1
+
+selectterr 198
+apcost 1
+
+selectterr 199
+apcost 1
+
+selectterr 200
+apcost 1
+
+selectterr 201
+apcost 1
+
+selectterr 202
+apcost 1
+
+selectterr 203
+apcost 1
+
+selectterr 204
+apcost 1
+
+selectterr 205
+apcost 1
+
+selectterr 206
+apcost 1
+
+selectterr 207
+apcost 1
+
+selectterr 208
+apcost 1
+
+selectterr 209
+apcost 1
+
+selectterr 210
+apcost 1
+
+selectterr 211
+apcost 1
+
+selectterr 212
+apcost 1
+
+selectterr 213
+apcost 1
+
+selectterr 214
+apcost 1
+
+selectterr 215
+apcost 1
+
+selectterr 216
+apcost 1
+
+selectterr 217
+apcost 1
+
+selectterr 218
+apcost 1
+
+selectterr 219
+apcost 1
+
+selectterr 220
+apcost 1
+
+selectterr 221
+apcost 1
+
+selectterr 222
+apcost 1
+
+selectterr 223
+apcost 1
+
+selectterr 224
+apcost 1
+
+selectterr 225
+apcost 1
+
+selectterr 226
+apcost 1
+
+selectterr 227
+apcost 1
+
+selectterr 228
+apcost 1
+
+selectterr 229
+apcost 1
+
+selectterr 230
+apcost 1
+
+selectterr 231
+apcost 1
+
+selectterr 232
+apcost 1
+
+selectterr 233
+apcost 1
+
+selectterr 234
+apcost 1
+
+selectterr 235
+apcost 1
+
+selectterr 236
+apcost 1
+
+selectterr 237
+apcost 1
+
+selectterr 238
+apcost 1
+
+selectterr 239
+apcost 1
+
+selectterr 240
+apcost 1
+
+selectterr 241
+apcost 1
+
+selectterr 242
+apcost 1
+
+selectterr 243
+apcost 1
+
+selectterr 244
+apcost 1
+
+selectterr 245
+apcost 1
+
+selectterr 246
+apcost 1
+
+selectterr 247
+apcost 1
+
+selectterr 248
+apcost 1
+
+selectterr 249
+apcost 1
+
+selectterr 250
+apcost 1
+
+selectmonster "Baron"                                                       #    0
+snow
+
+selectmonster "High Lord"                                                   #    1
+snow
+
+selectmonster "King"                                                        #    2
+snow
+
+selectmonster "Princess"                                                    #    3
+snow
+
+selectmonster "Court Mage"                                                  #    4
+snow
+
+selectmonster "Magus"                                                       #    5
+snow
+
+selectmonster "High Magus"                                                  #    6
+snow
+
+selectmonster "Alchemist"                                                   #    7
+snow
+
+selectmonster "Master Alchemist"                                            #    8
+snow
+
+selectmonster "Monk"                                                        #    9
+snow
+
+selectmonster "Captain"                                                     #   10
+snow
+
+selectmonster "Spearman"                                                    #   11
+snow
+
+selectmonster "Archer"                                                      #   12
+snow
+
+selectmonster "Swordsman"                                                   #   13
+snow
+
+selectmonster "Pikeneer"                                                    #   14
+snow
+
+selectmonster "Halberdier"                                                  #   15
+snow
+
+selectmonster "Zweihander"                                                  #   16
+snow
+
+selectmonster "Longbowman"                                                  #   17
+snow
+
+selectmonster "Crossbowman"                                                 #   18
+snow
+
+selectmonster "Heavy Infantry"                                              #   19
+snow
+
+selectmonster "Cavalryman"                                                  #   20
+snow
+
+selectmonster "Tower Guard"                                                 #   21
+snow
+
+selectmonster "Knight"                                                      #   22
+snow
+
+selectmonster "Unicorn Knight"                                              #   23
+snow
+
+selectmonster "War Dog"                                                     #   24
+snow
+
+selectmonster "Levy"                                                        #   25
+snow
+
+selectmonster "Levy"                                                        #   26
+snow
+
+selectmonster "Militia"                                                     #   27
+snow
+
+selectmonster "Slinger"                                                     #   28
+snow
+
+selectmonster "Brigand"                                                     #   29
+snow
+
+selectmonster "Bandit"                                                      #   30
+snow
+
+selectmonster "Angry Peasant"                                               #   31
+snow
+
+selectmonster "Caravan Guard"                                               #   32
+snow
+
+selectmonster "Bard"                                                        #   33
+snow
+
+selectmonster "Scout"                                                       #   34
+snow
+
+selectmonster "Unexpected Hero"                                             #   35
+snow
+
+selectmonster "Hero"                                                        #   36
+snow
+
+selectmonster "Heroine"                                                     #   37
+snow
+
+selectmonster "Old Weapon Master"                                           #   38
+snow
+
+selectmonster "Old Wizard"                                                  #   39
+snow
+
+selectmonster "Dark Wizard"                                                 #   40
+snow
+
+selectmonster "Master of Darkness"                                          #   41
+snow
+
+selectmonster "Pyromancer"                                                  #   42
+snow
+
+selectmonster "Adept of Pyriphlegeton"                                      #   43
+snow
+
+selectmonster "Animist"                                                     #   44
+snow
+
+selectmonster "Master Animist"                                              #   45
+snow
+
+selectmonster "Ice Druid"                                                   #   46
+snow
+
+selectmonster "Frost Father"                                                #   47
+snow
+
+selectmonster "Sea Father"                                                  #   48
+snow
+
+selectmonster "Grandfather of the Sea"                                      #   49
+snow
+
+selectmonster "Ice Witch"                                                   #   50
+snow
+
+selectmonster "Frost Hag"                                                   #   51
+snow
+
+selectmonster "Sorceress"                                                   #   52
+snow
+
+selectmonster "Great Sorceress"                                             #   53
+snow
+
+selectmonster "Black Sorceress"                                             #   54
+snow
+
+selectmonster "Mother Superior"                                             #   55
+snow
+
+selectmonster "Green Enchantress"                                           #   56
+snow
+
+selectmonster "High Enchantress"                                            #   57
+snow
+
+selectmonster "Scarlet Sister"                                              #   58
+snow
+
+selectmonster "Scarlet Mother"                                              #   59
+snow
+
+selectmonster "Moon Mage"                                                   #   60
+snow
+
+selectmonster "Moon Master"                                                 #   61
+snow
+
+selectmonster "Astrologer"                                                  #   62
+snow
+
+selectmonster "High Astrologer"                                             #   63
+snow
+
+selectmonster "White Wizard"                                                #   64
+snow
+
+selectmonster "Grand Wizard"                                                #   65
+snow
+
+selectmonster "Golden Wizard"                                               #   66
+snow
+
+selectmonster "Master Arch Wizard"                                          #   67
+snow
+
+selectmonster "Initiate of the Metal Orders"                                #   68
+snow
+
+selectmonster "Adept of the Silver Order"                                   #   69
+snow
+
+selectmonster "Adept of the Golden Order"                                   #   70
+snow
+
+selectmonster "Adept of the Iron Order"                                     #   71
+snow
+
+selectmonster "Master of the Silver Order"                                  #   72
+snow
+
+selectmonster "Master of the Golden Order"                                  #   73
+snow
+
+selectmonster "Master of the Iron Order"                                    #   74
+snow
+
+selectmonster "Hedge Wizard"                                                #   75
+snow
+
+selectmonster "Archmage"                                                    #   76
+snow
+
+selectmonster "Assassin"                                                    #   77
+snow
+
+selectmonster "Assassin"                                                    #   78
+snow
+
+selectmonster "Assassin"                                                    #   79
+snow
+
+selectmonster "Assassin"                                                    #   80
+snow
+
+selectmonster "Merchant"                                                    #   81
+snow
+
+selectmonster "Peddlar"                                                     #   82
+snow
+
+selectmonster "Unknown Priest"                                              #   83
+snow
+
+selectmonster "Ballista"                                                    #   84
+snow
+
+selectmonster "Catapult"                                                    #   85
+snow
+
+selectmonster "Trebuchet"                                                   #   86
+snow
+
+selectmonster "Wooden Gate"                                                 #   87
+snow
+
+selectmonster "Iron Gate"                                                   #   88
+snow
+
+selectmonster "Enchanted Gate"                                              #   89
+snow
+
+selectmonster "Small Wooden Gate"                                           #   90
+snow
+
+selectmonster "Small Iron Gate"                                             #   91
+snow
+
+selectmonster "Small Enchanted Gate"                                        #   92
+snow
+
+selectmonster "Barbarian Leader"                                            #   93
+snow
+
+selectmonster "Mounted Chief"                                               #   94
+snow
+
+selectmonster "Barbarian Lancer"                                            #   95
+snow
+
+selectmonster "Barbarian Cavalry"                                           #   96
+snow
+
+selectmonster "Barbarian Warrior"                                           #   97
+snow
+
+selectmonster "Barbarian Swordsman"                                         #   98
+snow
+
+selectmonster "Barbarian Bowman"                                            #   99
+snow
+
+selectmonster "Barbarian Werebear"                                          #  100
+snow
+
+selectmonster "Barbarian Warrior"                                           #  101
+snow
+
+selectmonster "Mounted Scout"                                               #  102
+snow
+
+selectmonster "Elder Enarie"                                                #  103
+snow
+
+selectmonster "Enarie"                                                      #  104
+snow
+
+selectmonster "Spirit Guide"                                                #  105
+snow
+
+selectmonster "Soothsayer"                                                  #  106
+snow
+
+selectmonster "Effigy"                                                      #  107
+snow
+
+selectmonster "Thunder Totem"                                               #  108
+snow
+
+selectmonster "Beast Totem"                                                 #  109
+snow
+
+selectmonster "Warrior Totem"                                               #  110
+snow
+
+selectmonster "Totem of Maladies"                                           #  111
+snow
+
+selectmonster "Wolf Tribe Shaman"                                           #  112
+snow
+
+selectmonster "Wolf Tribe Warrior"                                          #  113
+snow
+
+selectmonster "Wolf Tribe Bowman"                                           #  114
+snow
+
+selectmonster "Deer Tribe Shaman"                                           #  115
+snow
+
+selectmonster "Deer Tribe Warrior"                                          #  116
+snow
+
+selectmonster "Deer Tribe Bowman"                                           #  117
+snow
+
+selectmonster "Senator"                                                     #  118
+snow
+
+selectmonster "Emperor"                                                     #  119
+snow
+
+selectmonster "Empress"                                                     #  120
+snow
+
+selectmonster "God Emperor"                                                 #  121
+snow
+
+selectmonster "God Empress"                                                 #  122
+snow
+
+selectmonster "Centurion"                                                   #  123
+snow
+
+selectmonster "Leo"                                                         #  124
+snow
+
+selectmonster "Heliodromus"                                                 #  125
+snow
+
+selectmonster "Renata"                                                      #  126
+snow
+
+selectmonster "Renatus"                                                     #  127
+snow
+
+selectmonster "Serpent Acolyte"                                             #  128
+snow
+
+selectmonster "Serpent Priest"                                              #  129
+snow
+
+selectmonster "Pontifex Serpentis"                                          #  130
+snow
+
+selectmonster "Reveler"                                                     #  131
+snow
+
+selectmonster "Satyr"                                                       #  132
+snow
+
+selectmonster "Maenad"                                                      #  133
+snow
+
+selectmonster "Hamadryad"                                                   #  134
+snow
+
+selectmonster "Flamen"                                                      #  135
+snow
+
+selectmonster "Augur"                                                       #  136
+snow
+
+selectmonster "Veles"                                                       #  137
+snow
+
+selectmonster "Hastatus"                                                    #  138
+snow
+
+selectmonster "Princeps"                                                    #  139
+snow
+
+selectmonster "Triarius"                                                    #  140
+snow
+
+selectmonster "Standard"                                                    #  141
+snow
+
+selectmonster "Gladiator"                                                   #  142
+snow
+
+selectmonster "Retiarius"                                                   #  143
+snow
+
+selectmonster "Praetorian Guard"                                            #  144
+snow
+
+selectmonster "Princeps Solaris"                                            #  145
+snow
+
+selectmonster "Imperial Statue"                                             #  146
+snow
+
+selectmonster "War Elephant"                                                #  147
+snow
+
+selectmonster "Fakir"                                                       #  148
+snow
+
+selectmonster "Snake Charmer"                                               #  149
+snow
+
+selectmonster "Rakshasa"                                                    #  150
+snow
+
+selectmonster "Winged Monkey"                                               #  151
+snow
+
+selectmonster "Mirror Image"                                                #  152
+snow
+
+selectmonster "Mirror Image"                                                #  153
+snow
+
+selectmonster "Mirror Image"                                                #  154
+snow
+
+selectmonster "Pontiff"                                                     #  155
+snow
+
+selectmonster "Cardinal"                                                    #  156
+snow
+
+selectmonster "Arch Bishop"                                                 #  157
+snow
+
+selectmonster "Bishop"                                                      #  158
+snow
+
+selectmonster "Grand Master"                                                #  159
+snow
+
+selectmonster "High Inquisitor"                                             #  160
+snow
+
+selectmonster "Inquisitor"                                                  #  161
+snow
+
+selectmonster "Saint"                                                       #  162
+snow
+
+selectmonster "Pilgrim"                                                     #  163
+snow
+
+selectmonster "Paladin"                                                     #  164
+snow
+
+selectmonster "Paladin"                                                     #  165
+snow
+
+selectmonster "Paladin"                                                     #  166
+snow
+
+selectmonster "Templar"                                                     #  167
+snow
+
+selectmonster "Temple Guard"                                                #  168
+snow
+
+selectmonster "Flagellant"                                                  #  169
+snow
+
+selectmonster "Crusader"                                                    #  170
+snow
+
+selectmonster "Angel"                                                       #  171
+snow
+
+selectmonster "Harbinger"                                                   #  172
+snow
+
+selectmonster "Arch Angel"                                                  #  173
+snow
+
+selectmonster "Seraph"                                                      #  174
+snow
+
+selectmonster "Ophan"                                                       #  175
+snow
+
+selectmonster "Celestial Lion"                                              #  176
+snow
+
+selectmonster "Apocalyptic Rider"                                           #  177
+snow
+
+selectmonster "Apocalyptic Rider"                                           #  178
+snow
+
+selectmonster "Apocalyptic Rider"                                           #  179
+snow
+
+selectmonster "Apocalyptic Rider"                                           #  180
+snow
+
+selectmonster "God"                                                         #  181
+snow
+
+selectmonster "Anointed Priestess"                                          #  182
+snow
+
+selectmonster "High Priestess"                                              #  183
+snow
+
+selectmonster "Hierodule"                                                   #  184
+snow
+
+selectmonster "Ba'alite Spearman"                                           #  185
+snow
+
+selectmonster "Ba'alite Archer"                                             #  186
+snow
+
+selectmonster "Ba'alite Zealot"                                             #  187
+snow
+
+selectmonster "Ba'alite Heavy Infantry"                                     #  188
+snow
+
+selectmonster "Gibbor"                                                      #  189
+snow
+
+selectmonster "Anakite"                                                     #  190
+snow
+
+selectmonster "Anakite Captain"                                             #  191
+snow
+
+selectmonster "Adon"                                                        #  192
+snow
+
+selectmonster "Zamzummite"                                                  #  193
+snow
+
+selectmonster "Rephaite"                                                    #  194
+snow
+
+selectmonster "Melqart"                                                     #  195
+snow
+
+selectmonster "Ditanu"                                                      #  196
+snow
+
+selectmonster "Malik"                                                       #  197
+snow
+
+selectmonster "Watcher"                                                     #  198
+snow
+
+selectmonster "Nephil"                                                      #  199
+snow
+
+selectmonster "Large Spider Familiar"                                       #  200
+snow
+
+selectmonster "Small Spider"                                                #  201
+snow
+
+selectmonster "Large Spider"                                                #  202
+snow
+
+selectmonster "Giant Spider"                                                #  203
+snow
+
+selectmonster "Scorpion"                                                    #  204
+snow
+
+selectmonster "Giant Scorpion"                                              #  205
+snow
+
+selectmonster "Scorpion Beast"                                              #  206
+snow
+
+selectmonster "Mazzik"                                                      #  207
+snow
+
+selectmonster "Se'ir"                                                       #  208
+snow
+
+selectmonster "Shed"                                                        #  209
+snow
+
+selectmonster "Lilot"                                                       #  210
+snow
+
+selectmonster "Lammashta"                                                   #  211
+snow
+
+selectmonster "Manticore"                                                   #  212
+snow
+
+selectmonster "Sirrush"                                                     #  213
+snow
+
+selectmonster "Desert Sun"                                                  #  214
+snow
+
+selectmonster "Scorpion Man"                                                #  215
+snow
+
+selectmonster "Goetic Master"                                               #  216
+snow
+
+selectmonster "Demonologist"                                                #  217
+snow
+
+selectmonster "Cultist"                                                     #  218
+snow
+
+selectmonster "Imp"                                                         #  219
+snow
+
+selectmonster "Imp Familiar"                                                #  220
+snow
+
+selectmonster "Harlequin"                                                   #  221
+snow
+
+selectmonster "Shadow Imp"                                                  #  222
+snow
+
+selectmonster "Fiery Imp"                                                   #  223
+snow
+
+selectmonster "Ice Imp"                                                     #  224
+snow
+
+selectmonster "Bone Imp"                                                    #  225
+snow
+
+selectmonster "Imp Messenger"                                               #  226
+snow
+
+selectmonster "Demonic Locust"                                              #  227
+snow
+
+selectmonster "Serpent Fiend"                                               #  228
+snow
+
+selectmonster "Lesser Demon"                                                #  229
+snow
+
+selectmonster "Bone Devil"                                                  #  230
+snow
+
+selectmonster "Spine Devil"                                                 #  231
+snow
+
+selectmonster "Fiend of Darkness"                                           #  232
+snow
+
+selectmonster "Frost Fiend"                                                 #  233
+snow
+
+selectmonster "Bloodsworn"                                                  #  234
+snow
+
+selectmonster "Demon Knight"                                                #  235
+snow
+
+selectmonster "Disease Demon"                                               #  236
+snow
+
+selectmonster "Storm Demon"                                                 #  237
+snow
+
+selectmonster "Devil"                                                       #  238
+snow
+
+selectmonster "Hellhound"                                                   #  239
+snow
+
+selectmonster "Succubus"                                                    #  240
+snow
+
+selectmonster "Greater Demon"                                               #  241
+snow
+
+selectmonster "Ice Devil"                                                   #  242
+snow
+
+selectmonster "Greater Devil"                                               #  243
+snow
+
+selectmonster "Heliophagus"                                                 #  244
+snow
+
+selectmonster "Demon Lord"                                                  #  245
+snow
+
+selectmonster "Arch Devil"                                                  #  246
+snow
+
+selectmonster "Duke of Hell"                                                #  247
+snow
+
+selectmonster "Prince of Death"                                             #  248
+snow
+
+selectmonster "Goat Sun"                                                    #  249
+snow
+
+selectmonster "Monster of Fraud"                                            #  250
+snow
+
+selectmonster "Lord of Corruption"                                          #  251
+snow
+
+selectmonster "Captain"                                                     #  252
+snow
+
+selectmonster "Sinner"                                                      #  253
+snow
+
+selectmonster "Damned Merchant"                                             #  254
+snow
+
+selectmonster "Damned Merchant"                                             #  255
+snow
+
+selectmonster "Grand Necromancer"                                           #  256
+snow
+
+selectmonster "Necromancer"                                                 #  257
+snow
+
+selectmonster "Necromancer's Apprentice"                                    #  258
+snow
+
+selectmonster "Raven Familiar"                                              #  259
+snow
+
+selectmonster "Raven Spy"                                                   #  260
+snow
+
+selectmonster "Longdead"                                                    #  261
+snow
+
+selectmonster "Longdead"                                                    #  262
+snow
+
+selectmonster "Longdead"                                                    #  263
+snow
+
+selectmonster "Longdead"                                                    #  264
+snow
+
+selectmonster "Longdead"                                                    #  265
+snow
+
+selectmonster "Longdead"                                                    #  266
+snow
+
+selectmonster "Longdead"                                                    #  267
+snow
+
+selectmonster "Longdead"                                                    #  268
+snow
+
+selectmonster "Longdead"                                                    #  269
+snow
+
+selectmonster "Longdead"                                                    #  270
+snow
+
+selectmonster "Armored Longdead"                                            #  271
+snow
+
+selectmonster "Bane Fire Archer"                                            #  272
+snow
+
+selectmonster "Bane-Bones"                                                  #  273
+snow
+
+selectmonster "Mound King"                                                  #  274
+snow
+
+selectmonster "Longdead Velite"                                             #  275
+snow
+
+selectmonster "Longdead Hastatus"                                           #  276
+snow
+
+selectmonster "Longdead Principe"                                           #  277
+snow
+
+selectmonster "Longdead Triarius"                                           #  278
+snow
+
+selectmonster "Soulless"                                                    #  279
+snow
+
+selectmonster "Soulless Soldier"                                            #  280
+snow
+
+selectmonster "Armored Soulless"                                            #  281
+snow
+
+selectmonster "Mummy"                                                       #  282
+snow
+
+selectmonster "Ghoul"                                                       #  283
+snow
+
+selectmonster "Wight"                                                       #  284
+snow
+
+selectmonster "Bane"                                                        #  285
+snow
+
+selectmonster "Bane Lord"                                                   #  286
+snow
+
+selectmonster "Corpse Mage"                                                 #  287
+snow
+
+selectmonster "Wight Mage"                                                  #  288
+snow
+
+selectmonster "Wight King"                                                  #  289
+snow
+
+selectmonster "Ghost"                                                       #  290
+snow
+
+selectmonster "Ghost Mage"                                                  #  291
+snow
+
+selectmonster "Ghost King"                                                  #  292
+snow
+
+selectmonster "Ancestral Archer"                                            #  293
+snow
+
+selectmonster "Ancestral Warrior"                                           #  294
+snow
+
+selectmonster "Ghost Captain"                                               #  295
+snow
+
+selectmonster "Ghost Warrior"                                               #  296
+snow
+
+selectmonster "Spectral Archer"                                             #  297
+snow
+
+selectmonster "Spectral Horseman"                                           #  298
+snow
+
+selectmonster "Shade Beast"                                                 #  299
+snow
+
+selectmonster "Dire Wolf"                                                   #  300
+snow
+
+selectmonster "Abomination"                                                 #  301
+snow
+
+selectmonster "Wraith"                                                      #  302
+snow
+
+selectmonster "Wraith Lord"                                                 #  303
+snow
+
+selectmonster "Wraith King"                                                 #  304
+snow
+
+selectmonster "Stygian Ghost"                                               #  305
+snow
+
+selectmonster "Stygian King"                                                #  306
+snow
+
+selectmonster "Unfinished Monument"                                         #  307
+snow
+
+selectmonster "Monument of Hades"                                           #  308
+snow
+
+selectmonster "Banshee"                                                     #  309
+snow
+
+selectmonster "Carrion"                                                     #  310
+snow
+
+selectmonster "Death Knight"                                                #  311
+snow
+
+selectmonster "Vampire"                                                     #  312
+snow
+
+selectmonster "Vampire Count"                                               #  313
+snow
+
+selectmonster "Lich"                                                        #  314
+snow
+
+selectmonster "Demilich"                                                    #  315
+snow
+
+selectmonster "Dracolich"                                                   #  316
+snow
+
+selectmonster "Tartarian Spirit"                                            #  317
+snow
+
+selectmonster "Ziz"                                                         #  318
+snow
+
+selectmonster "Shade"                                                       #  319
+snow
+
+selectmonster "Shade Lord"                                                  #  320
+snow
+
+selectmonster "Shade Mage"                                                  #  321
+snow
+
+selectmonster "Dusk Elder"                                                  #  322
+snow
+
+selectmonster "Dispossessed Spirit"                                         #  323
+snow
+
+selectmonster "Ancestor Spirit"                                             #  324
+snow
+
+selectmonster "Ancestral Archer"                                            #  325
+snow
+
+selectmonster "Ancestral Warrior"                                           #  326
+snow
+
+selectmonster "Ancestral Hero"                                              #  327
+snow
+
+selectmonster "Ancestor Guide"                                              #  328
+snow
+
+selectmonster "Ancestral Shaman"                                            #  329
+snow
+
+selectmonster "Ancestral Chief"                                             #  330
+snow
+
+selectmonster "Ancestral Lancer"                                            #  331
+snow
+
+selectmonster "Wight Lord"                                                  #  332
+snow
+
+selectmonster "Dust Walker"                                                 #  333
+snow
+
+selectmonster "Dust King"                                                   #  334
+snow
+
+selectmonster "Dust Priest"                                                 #  335
+snow
+
+selectmonster "Unfrozen"                                                    #  336
+snow
+
+selectmonster "Unfrozen Warrior"                                            #  337
+snow
+
+selectmonster "Unfrozen Lord"                                               #  338
+snow
+
+selectmonster "Unfrozen Mage"                                               #  339
+snow
+
+selectmonster "Longdead Animal"                                             #  340
+snow
+
+selectmonster "Longdead Beast"                                              #  341
+snow
+
+selectmonster "Carrion Beast"                                               #  342
+snow
+
+selectmonster "Carrion Stalker"                                             #  343
+snow
+
+selectmonster "Carrion Manikin"                                             #  344
+snow
+
+selectmonster "Great Enchanter"                                             #  345
+snow
+
+selectmonster "Enchanter"                                                   #  346
+snow
+
+selectmonster "Enchanter's Apprentice"                                      #  347
+snow
+
+selectmonster "Terracotta Soldier"                                          #  348
+snow
+
+selectmonster "Gargoyle"                                                    #  349
+snow
+
+selectmonster "Animated Statue"                                             #  350
+snow
+
+selectmonster "Guardian"                                                    #  351
+snow
+
+selectmonster "Dancing Sword"                                               #  352
+snow
+
+selectmonster "Living Bow"                                                  #  353
+snow
+
+selectmonster "Animated Armor"                                              #  354
+snow
+
+selectmonster "Necrotod"                                                    #  355
+snow
+
+selectmonster "Flesh Golem"                                                 #  356
+snow
+
+selectmonster "Wood Golem"                                                  #  357
+snow
+
+selectmonster "Stone Golem"                                                 #  358
+snow
+
+selectmonster "Iron Golem"                                                  #  359
+snow
+
+selectmonster "Oak Golem"                                                   #  360
+snow
+
+selectmonster "Ice Golem"                                                   #  361
+snow
+
+selectmonster "Clay Golem"                                                  #  362
+snow
+
+selectmonster "Onyx Golem"                                                  #  363
+snow
+
+selectmonster "Crystal Golem"                                               #  364
+snow
+
+selectmonster "Crystal"                                                     #  365
+snow
+
+selectmonster "Silver Golem"                                                #  366
+snow
+
+selectmonster "Gold Golem"                                                  #  367
+snow
+
+selectmonster "Colossus"                                                    #  368
+snow
+
+selectmonster "Warlock's Apprentice"                                        #  369
+snow
+
+selectmonster "Warlock of Fire"                                             #  370
+snow
+
+selectmonster "Great Warlock of Fire"                                       #  371
+snow
+
+selectmonster "Warlock of Water"                                            #  372
+snow
+
+selectmonster "Great Warlock of Water"                                      #  373
+snow
+
+selectmonster "Warlock of Air"                                              #  374
+snow
+
+selectmonster "Great Warlock of Air"                                        #  375
+snow
+
+selectmonster "Warlock of Earth"                                            #  376
+snow
+
+selectmonster "Great Warlock of Earth"                                      #  377
+snow
+
+selectmonster "Fire Elemental"                                              #  378
+snow
+
+selectmonster "Lesser Fire"                                                 #  379
+snow
+
+selectmonster "Champion of Flames"                                          #  380
+snow
+
+selectmonster "Phoenix"                                                     #  381
+snow
+
+selectmonster "Salamander"                                                  #  382
+snow
+
+selectmonster "Flame Spirit"                                                #  383
+snow
+
+selectmonster "Wheel of Storm and Stone"                                    #  384
+snow
+
+selectmonster "Wheel of Frost and Flames"                                   #  385
+snow
+
+selectmonster "King of Fire"                                                #  386
+snow
+
+selectmonster "Child of Catharsis"                                          #  387
+snow
+
+selectmonster "King of Magma"                                               #  388
+snow
+
+selectmonster "Child of Rhuax"                                              #  389
+snow
+
+selectmonster "King of Flames"                                              #  390
+snow
+
+selectmonster "Child of Pyriphlogos"                                        #  391
+snow
+
+selectmonster "Fire Giant"                                                  #  392
+snow
+
+selectmonster "Fire Titan"                                                  #  393
+snow
+
+selectmonster "Air Elemental"                                               #  394
+snow
+
+selectmonster "Cloud Elemental"                                             #  395
+snow
+
+selectmonster "Champion of Storms"                                          #  396
+snow
+
+selectmonster "Thunderbird"                                                 #  397
+snow
+
+selectmonster "Sylph"                                                       #  398
+snow
+
+selectmonster "Queen of Storms"                                             #  399
+snow
+
+selectmonster "Child of Aella"                                              #  400
+snow
+
+selectmonster "Queen of Thunder"                                            #  401
+snow
+
+selectmonster "Child of Thuella"                                            #  402
+snow
+
+selectmonster "Queen of Clouds"                                             #  403
+snow
+
+selectmonster "Child of Nephele"                                            #  404
+snow
+
+selectmonster "Storm Giant"                                                 #  405
+snow
+
+selectmonster "Storm Titan"                                                 #  406
+snow
+
+selectmonster "Water Elemental"                                             #  407
+snow
+
+selectmonster "Lesser Water"                                                #  408
+snow
+
+selectmonster "Lake Troll King"                                             #  409
+snow
+
+selectmonster "Lake Troll Warrior"                                          #  410
+snow
+
+selectmonster "Lake Troll"                                                  #  411
+snow
+
+selectmonster "Champion of Waves"                                           #  412
+snow
+
+selectmonster "Frost Drake"                                                 #  413
+snow
+
+selectmonster "Yeti"                                                        #  414
+snow
+
+selectmonster "Winter Wolf"                                                 #  415
+snow
+
+selectmonster "Undine"                                                      #  416
+snow
+
+selectmonster "Queen of the Sea"                                            #  417
+snow
+
+selectmonster "Child of Thalassa"                                           #  418
+snow
+
+selectmonster "Queen of the Lake"                                           #  419
+snow
+
+selectmonster "Child of Limne"                                              #  420
+snow
+
+selectmonster "Queen of the Deeps"                                          #  421
+snow
+
+selectmonster "Child of Bathusma"                                           #  422
+snow
+
+selectmonster "Frost Giant"                                                 #  423
+snow
+
+selectmonster "Frost Titan"                                                 #  424
+snow
+
+selectmonster "Sea Giant"                                                   #  425
+snow
+
+selectmonster "Sea Titan"                                                   #  426
+snow
+
+selectmonster "Earth Elemental"                                             #  427
+snow
+
+selectmonster "Lesser Earth"                                                #  428
+snow
+
+selectmonster "Champion of Mountains"                                       #  429
+snow
+
+selectmonster "Stone Drake"                                                 #  430
+snow
+
+selectmonster "Purple Worm"                                                 #  431
+snow
+
+selectmonster "Earth Gnome"                                                 #  432
+snow
+
+selectmonster "King of Mountains"                                           #  433
+snow
+
+selectmonster "Child of Oreigenes"                                          #  434
+snow
+
+selectmonster "King of Deeper Earth"                                        #  435
+snow
+
+selectmonster "Child of Barathrus"                                          #  436
+snow
+
+selectmonster "King of Earth"                                               #  437
+snow
+
+selectmonster "Child of Pedoseion"                                          #  438
+snow
+
+selectmonster "Mountain Giant"                                              #  439
+snow
+
+selectmonster "Chtonian Titan"                                              #  440
+snow
+
+selectmonster "Hag"                                                         #  441
+snow
+
+selectmonster "Witch"                                                       #  442
+snow
+
+selectmonster "Witch's Apprentice"                                          #  443
+snow
+
+selectmonster "Bog Witch"                                                   #  444
+snow
+
+selectmonster "Black Cat Familiar"                                          #  445
+snow
+
+selectmonster "Frog Familiar"                                               #  446
+snow
+
+selectmonster "Frog"                                                        #  447
+snow
+
+selectmonster "Dragonfly"                                                   #  448
+snow
+
+selectmonster "Monster Toad"                                                #  449
+snow
+
+selectmonster "Giant Toad"                                                  #  450
+snow
+
+selectmonster "Giant Snail"                                                 #  451
+snow
+
+selectmonster "Crocodile"                                                   #  452
+snow
+
+selectmonster "Giant Crocodile"                                             #  453
+snow
+
+selectmonster "Marsh Worm"                                                  #  454
+snow
+
+selectmonster "Swamp Thing"                                                 #  455
+snow
+
+selectmonster "Slime Mold"                                                  #  456
+snow
+
+selectmonster "Swamp Monster"                                               #  457
+snow
+
+selectmonster "Bog Beast"                                                   #  458
+snow
+
+selectmonster "Swamp Ghost"                                                 #  459
+snow
+
+selectmonster "Gelatinous Cube"                                             #  460
+snow
+
+selectmonster "Swamp Drake"                                                 #  461
+snow
+
+selectmonster "Rootmonster"                                                 #  462
+snow
+
+selectmonster "Creeping Doom"                                               #  463
+snow
+
+selectmonster "Will o'the Wisp"                                             #  464
+snow
+
+selectmonster "Ancient Presence"                                            #  465
+snow
+
+selectmonster "Swamp God"                                                   #  466
+snow
+
+selectmonster "Wyrm"                                                        #  467
+snow
+
+selectmonster "Ancient Hydra"                                               #  468
+snow
+
+selectmonster "Ancient Hydra"                                               #  469
+snow
+
+selectmonster "Ancient Hydra"                                               #  470
+snow
+
+selectmonster "Ancient Hydra"                                               #  471
+snow
+
+selectmonster "Ancient Hydra"                                               #  472
+snow
+
+selectmonster "Ancient Hydra"                                               #  473
+snow
+
+selectmonster "Ancient Hydra"                                               #  474
+snow
+
+selectmonster "Ancient Hydra"                                               #  475
+snow
+
+selectmonster "Hydra"                                                       #  476
+snow
+
+selectmonster "Hydra"                                                       #  477
+snow
+
+selectmonster "Hydra"                                                       #  478
+snow
+
+selectmonster "Hydra"                                                       #  479
+snow
+
+selectmonster "Hydra"                                                       #  480
+snow
+
+selectmonster "Hydra Hatchling"                                             #  481
+snow
+
+selectmonster "Hydra Hatchling"                                             #  482
+snow
+
+selectmonster "Hydra Hatchling"                                             #  483
+snow
+
+selectmonster "Catoblepas"                                                  #  484
+snow
+
+selectmonster "Dracolion"                                                   #  485
+snow
+
+selectmonster "Mother of Monsters"                                          #  486
+snow
+
+selectmonster "Medusa"                                                      #  487
+snow
+
+selectmonster "Gorgon"                                                      #  488
+snow
+
+selectmonster "Erinye"                                                      #  489
+snow
+
+selectmonster "Manflayer"                                                   #  490
+snow
+
+selectmonster "Androphag Lord"                                              #  491
+snow
+
+selectmonster "Androphag Cavalry"                                           #  492
+snow
+
+selectmonster "Androphag Spearman"                                          #  493
+snow
+
+selectmonster "Androphag Archer"                                            #  494
+snow
+
+selectmonster "Doppelganger"                                                #  495
+snow
+
+selectmonster "Doppel Spawn"                                                #  496
+snow
+
+selectmonster "Androphag Spearman"                                          #  497
+snow
+
+selectmonster "Doppelganger Captain"                                        #  498
+snow
+
+selectmonster "Doppel Spawn"                                                #  499
+snow
+
+selectmonster "Androphag Archer"                                            #  500
+snow
+
+selectmonster "Elder Druid"                                                 #  501
+snow
+
+selectmonster "Druid"                                                       #  502
+snow
+
+selectmonster "Druid's Apprentice"                                          #  503
+snow
+
+selectmonster "Vergobret"                                                   #  504
+snow
+
+selectmonster "Gutuater"                                                    #  505
+snow
+
+selectmonster "Barechested Scout"                                           #  506
+snow
+
+selectmonster "Barechested Warrior"                                         #  507
+snow
+
+selectmonster "Barechested Slinger"                                         #  508
+snow
+
+selectmonster "Barechested Swordsman"                                       #  509
+snow
+
+selectmonster "Hornblower"                                                  #  510
+snow
+
+selectmonster "Chieftain"                                                   #  511
+snow
+
+selectmonster "Boar Warrior"                                                #  512
+snow
+
+selectmonster "Beast Cavalry"                                               #  513
+snow
+
+selectmonster "Snake Familiar"                                              #  514
+snow
+
+selectmonster "Rabbit Familiar"                                             #  515
+snow
+
+selectmonster "Wolf"                                                        #  516
+snow
+
+selectmonster "Deer"                                                        #  517
+snow
+
+selectmonster "Rabbit"                                                      #  518
+snow
+
+selectmonster "Murder Of Crows"                                             #  519
+snow
+
+selectmonster "Messenger Crows"                                             #  520
+snow
+
+selectmonster "Moose"                                                       #  521
+snow
+
+selectmonster "Giant Moose"                                                 #  522
+snow
+
+selectmonster "Bear"                                                        #  523
+snow
+
+selectmonster "Serpent"                                                     #  524
+snow
+
+selectmonster "Snake"                                                       #  525
+snow
+
+selectmonster "Beetle"                                                      #  526
+snow
+
+selectmonster "Fire Ant"                                                    #  527
+snow
+
+selectmonster "Giant Ant"                                                   #  528
+snow
+
+selectmonster "Giant Mantis"                                                #  529
+snow
+
+selectmonster "Monkey"                                                      #  530
+snow
+
+selectmonster "Ape"                                                         #  531
+snow
+
+selectmonster "Great Ape"                                                   #  532
+snow
+
+selectmonster "Lion"                                                        #  533
+snow
+
+selectmonster "Tiger"                                                       #  534
+snow
+
+selectmonster "Elephant"                                                    #  535
+snow
+
+selectmonster "Goat"                                                        #  536
+snow
+
+selectmonster "Donkey"                                                      #  537
+snow
+
+selectmonster "Horse"                                                       #  538
+snow
+
+selectmonster "Camel"                                                       #  539
+snow
+
+selectmonster "Dog"                                                         #  540
+snow
+
+selectmonster "Boar"                                                        #  541
+snow
+
+selectmonster "Great Boar"                                                  #  542
+snow
+
+selectmonster "Monster Boar"                                                #  543
+snow
+
+selectmonster "Sacred Moose"                                                #  544
+snow
+
+selectmonster "Leogryph"                                                    #  545
+snow
+
+selectmonster "Wyvern"                                                      #  546
+snow
+
+selectmonster "Amphiptere"                                                  #  547
+snow
+
+selectmonster "Nymph"                                                       #  548
+snow
+
+selectmonster "Gryphon"                                                     #  549
+snow
+
+selectmonster "Sphinx"                                                      #  550
+snow
+
+selectmonster "Chimaera"                                                    #  551
+snow
+
+selectmonster "Cockatrice"                                                  #  552
+snow
+
+selectmonster "Roc"                                                         #  553
+snow
+
+selectmonster "Beholder"                                                    #  554
+snow
+
+selectmonster "Beholder"                                                    #  555
+snow
+
+selectmonster "Elder Beholder"                                              #  556
+snow
+
+selectmonster "Eye Tyrant"                                                  #  557
+snow
+
+selectmonster "Horned God"                                                  #  558
+snow
+
+selectmonster "Lord of the Hunt"                                            #  559
+snow
+
+selectmonster "Monster Fish"                                                #  560
+snow
+
+selectmonster "Monster of the Deep"                                         #  561
+snow
+
+selectmonster "Asp Turtle"                                                  #  562
+snow
+
+selectmonster "Lobster"                                                     #  563
+snow
+
+selectmonster "Giant Crab"                                                  #  564
+snow
+
+selectmonster "Small Shark"                                                 #  565
+snow
+
+selectmonster "Great Shark"                                                 #  566
+snow
+
+selectmonster "Ichtyid Raider"                                              #  567
+snow
+
+selectmonster "Ichtyid Warrior"                                             #  568
+snow
+
+selectmonster "Ichtyid Captain"                                             #  569
+snow
+
+selectmonster "Bishop Fish"                                                 #  570
+snow
+
+selectmonster "Triton"                                                      #  571
+snow
+
+selectmonster "Triton"                                                      #  572
+snow
+
+selectmonster "Triton Trooper"                                              #  573
+snow
+
+selectmonster "Triton King"                                                 #  574
+snow
+
+selectmonster "Siren"                                                       #  575
+snow
+
+selectmonster "Siren"                                                       #  576
+snow
+
+selectmonster "Hippocampus"                                                 #  577
+snow
+
+selectmonster "Sea Stag"                                                    #  578
+snow
+
+selectmonster "Sea Dog"                                                     #  579
+snow
+
+selectmonster "Leocampus"                                                   #  580
+snow
+
+selectmonster "Kraken"                                                      #  581
+snow
+
+selectmonster "Giant Jellyfish"                                             #  582
+snow
+
+selectmonster "Sea Dragon"                                                  #  583
+snow
+
+selectmonster "Venus Trap"                                                  #  584
+snow
+
+selectmonster "Woodman"                                                     #  585
+snow
+
+selectmonster "Forest Shepherd"                                             #  586
+snow
+
+selectmonster "Ivy King"                                                    #  587
+snow
+
+selectmonster "Ent"                                                         #  588
+snow
+
+selectmonster "Giant Mushroom"                                              #  589
+snow
+
+selectmonster "Blue Giant"                                                  #  590
+snow
+
+selectmonster "Death Fungus"                                                #  591
+snow
+
+selectmonster "Blood Fungus"                                                #  592
+snow
+
+selectmonster "Devil Fungus"                                                #  593
+snow
+
+selectmonster "Snow Fungus"                                                 #  594
+snow
+
+selectmonster "Shadow Tree"                                                 #  595
+snow
+
+selectmonster "Tree of Crows"                                               #  596
+snow
+
+selectmonster "Heart of the Forest"                                         #  597
+snow
+
+selectmonster "Tree"                                                        #  598
+snow
+
+selectmonster "High Cultist"                                                #  599
+snow
+
+selectmonster "Cultist of the Deep"                                         #  600
+snow
+
+selectmonster "Hybrid Cultist"                                              #  601
+snow
+
+selectmonster "Star Child"                                                  #  602
+snow
+
+selectmonster "Insane Fisherman"                                            #  603
+snow
+
+selectmonster "Hybrid Fisherman"                                            #  604
+snow
+
+selectmonster "Hybrid Spearman"                                             #  605
+snow
+
+selectmonster "Hybrid Soldier"                                              #  606
+snow
+
+selectmonster "Angler Spawn"                                                #  607
+snow
+
+selectmonster "Angler of the Depths"                                        #  608
+snow
+
+selectmonster "Pillar of the Depths"                                        #  609
+snow
+
+selectmonster "Basalt Queen"                                                #  610
+snow
+
+selectmonster "Basalt King"                                                 #  611
+snow
+
+selectmonster "Deep One"                                                    #  612
+snow
+
+selectmonster "Deep One Warrior"                                            #  613
+snow
+
+selectmonster "Shambler"                                                    #  614
+snow
+
+selectmonster "War Shambler"                                                #  615
+snow
+
+selectmonster "Shambler Prince"                                             #  616
+snow
+
+selectmonster "Starspawn"                                                   #  617
+snow
+
+selectmonster "Elder Starspawn"                                             #  618
+snow
+
+selectmonster "Angler Queen"                                                #  619
+snow
+
+selectmonster "Void Lord"                                                   #  620
+snow
+
+selectmonster "Master Illusionist"                                          #  621
+snow
+
+selectmonster "Illusionist"                                                 #  622
+snow
+
+selectmonster "Illusionist's Apprentice"                                    #  623
+snow
+
+selectmonster "Floating Eye"                                                #  624
+snow
+
+selectmonster "Mirror"                                                      #  625
+snow
+
+selectmonster "Silver Mirror"                                               #  626
+snow
+
+selectmonster "Large Mirror"                                                #  627
+snow
+
+selectmonster "Golden Mirror"                                               #  628
+snow
+
+selectmonster "Soldier Mirror"                                              #  629
+snow
+
+selectmonster "Animal Mirror"                                               #  630
+snow
+
+selectmonster "Mirror of Dread"                                             #  631
+snow
+
+selectmonster "Mirror of Confusion"                                         #  632
+snow
+
+selectmonster "Mirror of Many Colors"                                       #  633
+snow
+
+selectmonster "Silver Soldier Mirror"                                       #  634
+snow
+
+selectmonster "Silver Animal Mirror"                                        #  635
+snow
+
+selectmonster "Silver Mirror of Dread"                                      #  636
+snow
+
+selectmonster "Silver Mirror of Confusion"                                  #  637
+snow
+
+selectmonster "Silver Mirror of Many Colors"                                #  638
+snow
+
+selectmonster "Large Soldier Mirror"                                        #  639
+snow
+
+selectmonster "Large Animal Mirror"                                         #  640
+snow
+
+selectmonster "Large Unearthly Mirror"                                      #  641
+snow
+
+selectmonster "Large Swarm Mirror"                                          #  642
+snow
+
+selectmonster "Large Monster Mirror"                                        #  643
+snow
+
+selectmonster "Large Mirror of Dread"                                       #  644
+snow
+
+selectmonster "Large Mirror of Confusion"                                   #  645
+snow
+
+selectmonster "Large Mirror of Many Colors"                                 #  646
+snow
+
+selectmonster "Golden Soldier Mirror"                                       #  647
+snow
+
+selectmonster "Golden Animal Mirror"                                        #  648
+snow
+
+selectmonster "Golden Unearthly Mirror"                                     #  649
+snow
+
+selectmonster "Golden Swarm Mirror"                                         #  650
+snow
+
+selectmonster "Golden Monster Mirror"                                       #  651
+snow
+
+selectmonster "Golden Mirror of Dread"                                      #  652
+snow
+
+selectmonster "Golden Mirror of Confusion"                                  #  653
+snow
+
+selectmonster "Golden Mirror of Many Colors"                                #  654
+snow
+
+selectmonster "Archer Illusion"                                             #  655
+snow
+
+selectmonster "Spearman Illusion"                                           #  656
+snow
+
+selectmonster "Swordsman Illusion"                                          #  657
+snow
+
+selectmonster "Halberdier Illusion"                                         #  658
+snow
+
+selectmonster "Pikeneer Illusion"                                           #  659
+snow
+
+selectmonster "Zweihander Illusion"                                         #  660
+snow
+
+selectmonster "Captain Illusion"                                            #  661
+snow
+
+selectmonster "Knight Illusion"                                             #  662
+snow
+
+selectmonster "Wolf Illusion"                                               #  663
+snow
+
+selectmonster "Deer Illusion"                                               #  664
+snow
+
+selectmonster "Moose Illusion"                                              #  665
+snow
+
+selectmonster "Bear Illusion"                                               #  666
+snow
+
+selectmonster "Boar Illusion"                                               #  667
+snow
+
+selectmonster "Lion Illusion"                                               #  668
+snow
+
+selectmonster "Fiend Illusion"                                              #  669
+snow
+
+selectmonster "Demon Illusion"                                              #  670
+snow
+
+selectmonster "Devil Illusion"                                              #  671
+snow
+
+selectmonster "Greater Devil Illusion"                                      #  672
+snow
+
+selectmonster "Angel Illusion"                                              #  673
+snow
+
+selectmonster "Arch Angel Illusion"                                         #  674
+snow
+
+selectmonster "Horror Illusion"                                             #  675
+snow
+
+selectmonster "Great Horror Illusion"                                       #  676
+snow
+
+selectmonster "Insect Illusion"                                             #  677
+snow
+
+selectmonster "Bug Illusion"                                                #  678
+snow
+
+selectmonster "Ant Illusion"                                                #  679
+snow
+
+selectmonster "Cat Illusion"                                                #  680
+snow
+
+selectmonster "Rabbit Illusion"                                             #  681
+snow
+
+selectmonster "Frog Illusion"                                               #  682
+snow
+
+selectmonster "Snake Illusion"                                              #  683
+snow
+
+selectmonster "Troll Illusion"                                              #  684
+snow
+
+selectmonster "Giant Illusion"                                              #  685
+snow
+
+selectmonster "Drake Illusion"                                              #  686
+snow
+
+selectmonster "Monster Illusion"                                            #  687
+snow
+
+selectmonster "Hydra Illusion"                                              #  688
+snow
+
+selectmonster "Chimaera Illusion"                                           #  689
+snow
+
+selectmonster "Manticore Illusion"                                          #  690
+snow
+
+selectmonster "Dragon Illusion"                                             #  691
+snow
+
+selectmonster "Sirrush Illusion"                                            #  692
+snow
+
+selectmonster "Roc Illusion"                                                #  693
+snow
+
+selectmonster "Beholder Illusion"                                           #  694
+snow
+
+selectmonster "Phantasmal Archer"                                           #  695
+snow
+
+selectmonster "Phantasmal Spearman"                                         #  696
+snow
+
+selectmonster "Phantasmal Swordsman"                                        #  697
+snow
+
+selectmonster "Phantasmal Halberdier"                                       #  698
+snow
+
+selectmonster "Phantasmal Pikeneer"                                         #  699
+snow
+
+selectmonster "Phantasmal Zweihander"                                       #  700
+snow
+
+selectmonster "Phantasmal Captain"                                          #  701
+snow
+
+selectmonster "Phantasmal Knight"                                           #  702
+snow
+
+selectmonster "Phantasmal Wolf"                                             #  703
+snow
+
+selectmonster "Phantasmal Deer"                                             #  704
+snow
+
+selectmonster "Phantasmal Moose"                                            #  705
+snow
+
+selectmonster "Phantasmal Bear"                                             #  706
+snow
+
+selectmonster "Phantasmal Boar"                                             #  707
+snow
+
+selectmonster "Phantasmal Lion"                                             #  708
+snow
+
+selectmonster "Phantasmal Fiend"                                            #  709
+snow
+
+selectmonster "Phantasmal Demon"                                            #  710
+snow
+
+selectmonster "Phantasmal Devil"                                            #  711
+snow
+
+selectmonster "Phantasmal Greater Devil"                                    #  712
+snow
+
+selectmonster "Phantasmal Angel"                                            #  713
+snow
+
+selectmonster "Phantasmal Arch Angel"                                       #  714
+snow
+
+selectmonster "Phantasmal Horror"                                           #  715
+snow
+
+selectmonster "Phantasmal Great Horror"                                     #  716
+snow
+
+selectmonster "Phantasmal Insect"                                           #  717
+snow
+
+selectmonster "Phantasmal Bug"                                              #  718
+snow
+
+selectmonster "Phantasmal Ant"                                              #  719
+snow
+
+selectmonster "Phantasmal Cat"                                              #  720
+snow
+
+selectmonster "Phantasmal Rabbit"                                           #  721
+snow
+
+selectmonster "Phantasmal Frog"                                             #  722
+snow
+
+selectmonster "Phantasmal Snake"                                            #  723
+snow
+
+selectmonster "Phantasmal Troll"                                            #  724
+snow
+
+selectmonster "Phantasmal Giant"                                            #  725
+snow
+
+selectmonster "Phantasmal Drake"                                            #  726
+snow
+
+selectmonster "Phantasmal Monster"                                          #  727
+snow
+
+selectmonster "Phantasmal Hydra"                                            #  728
+snow
+
+selectmonster "Phantasmal Chimaera"                                         #  729
+snow
+
+selectmonster "Phantasmal Manticore"                                        #  730
+snow
+
+selectmonster "Phantasmal Dragon"                                           #  731
+snow
+
+selectmonster "Phantasmal Sirrush"                                          #  732
+snow
+
+selectmonster "Phantasmal Roc"                                              #  733
+snow
+
+selectmonster "Phantasmal Beholder"                                         #  734
+snow
+
+selectmonster "Phase Spider"                                                #  735
+snow
+
+selectmonster "Displacer Beast"                                             #  736
+snow
+
+selectmonster "Ether Warrior"                                               #  737
+snow
+
+selectmonster "Ether Lord"                                                  #  738
+snow
+
+selectmonster "Horror Mantis"                                               #  739
+snow
+
+selectmonster "Float Cat Horror"                                            #  740
+snow
+
+selectmonster "Spine Membrane Horror"                                       #  741
+snow
+
+selectmonster "Soultorn"                                                    #  742
+snow
+
+selectmonster "Brass Claw Horror"                                           #  743
+snow
+
+selectmonster "Mind Slime Horror"                                           #  744
+snow
+
+selectmonster "Gore Tide Horror"                                            #  745
+snow
+
+selectmonster "Moon Horror"                                                 #  746
+snow
+
+selectmonster "Dream Horror"                                                #  747
+snow
+
+selectmonster "Horror Olm"                                                  #  748
+snow
+
+selectmonster "Maker of Ruins"                                              #  749
+snow
+
+selectmonster "Slave to Unreason"                                           #  750
+snow
+
+selectmonster "Hunter of Gods"                                              #  751
+snow
+
+selectmonster "Hunter of Gods"                                              #  752
+snow
+
+selectmonster "Hunter of Gods"                                              #  753
+snow
+
+selectmonster "Young Dvala"                                                 #  754
+snow
+
+selectmonster "Dvala"                                                       #  755
+snow
+
+selectmonster "Daughter of Dvalin"                                          #  756
+snow
+
+selectmonster "Dwarf Worker"                                                #  757
+snow
+
+selectmonster "Rune Smith"                                                  #  758
+snow
+
+selectmonster "Elder Rune Smith"                                            #  759
+snow
+
+selectmonster "Outdoor Dwarf"                                               #  760
+snow
+
+selectmonster "Dwarf Arbalest"                                              #  761
+snow
+
+selectmonster "Dwarf"                                                       #  762
+snow
+
+selectmonster "Dwarf Warrior"                                               #  763
+snow
+
+selectmonster "Dwarf Guard"                                                 #  764
+snow
+
+selectmonster "Dwarf Commander"                                             #  765
+snow
+
+selectmonster "Queen's Councilor"                                           #  766
+snow
+
+selectmonster "Dwarven Ballista"                                            #  767
+snow
+
+selectmonster "Rime Warrior"                                                #  768
+snow
+
+selectmonster "Rime Guard"                                                  #  769
+snow
+
+selectmonster "Rime Brand Warrior"                                          #  770
+snow
+
+selectmonster "Rime Brand Guard"                                            #  771
+snow
+
+selectmonster "Rime Branded Arbalest"                                       #  772
+snow
+
+selectmonster "Rime Branded Ballista"                                       #  773
+snow
+
+selectmonster "Furnace Warrior"                                             #  774
+snow
+
+selectmonster "Furnace Guard"                                               #  775
+snow
+
+selectmonster "Flame Brand Warrior"                                         #  776
+snow
+
+selectmonster "Flame Brand Guard"                                           #  777
+snow
+
+selectmonster "Flame Branded Arbalest"                                      #  778
+snow
+
+selectmonster "Flame Branded Ballista"                                      #  779
+snow
+
+selectmonster "Dvalin's Warrior"                                            #  780
+snow
+
+selectmonster "Council Guard"                                               #  781
+snow
+
+selectmonster "Dvalin's Best"                                               #  782
+snow
+
+selectmonster "Queen's Guard"                                               #  783
+snow
+
+selectmonster "Defender of the Halls"                                       #  784
+snow
+
+selectmonster "Earth Branded Ballista"                                      #  785
+snow
+
+selectmonster "Chosen of Dvalin"                                            #  786
+snow
+
+selectmonster "Chosen of Dvalin"                                            #  787
+snow
+
+selectmonster "Troll King"                                                  #  788
+snow
+
+selectmonster "Troll"                                                       #  789
+snow
+
+selectmonster "Forest Troll"                                                #  790
+snow
+
+selectmonster "Rock Troll"                                                  #  791
+snow
+
+selectmonster "Old Troll"                                                   #  792
+snow
+
+selectmonster "Ancient Troll"                                               #  793
+snow
+
+selectmonster "Troll Shaman"                                                #  794
+snow
+
+selectmonster "Troll Witch Doctor"                                          #  795
+snow
+
+selectmonster "Elder Troll Shaman"                                          #  796
+snow
+
+selectmonster "Forest Giant"                                                #  797
+snow
+
+selectmonster "Hill Giant"                                                  #  798
+snow
+
+selectmonster "Ettin"                                                       #  799
+snow
+
+selectmonster "Ogre"                                                        #  800
+snow
+
+selectmonster "Ogre Chief"                                                  #  801
+snow
+
+selectmonster "Goblin King"                                                 #  802
+snow
+
+selectmonster "Goblin Hero"                                                 #  803
+snow
+
+selectmonster "Wolf Kin Reaver"                                             #  804
+snow
+
+selectmonster "Goblin Chieftain"                                            #  805
+snow
+
+selectmonster "Goblin"                                                      #  806
+snow
+
+selectmonster "Goblin Spearman"                                             #  807
+snow
+
+selectmonster "Goblin Archer"                                               #  808
+snow
+
+selectmonster "Goblin Shaman"                                               #  809
+snow
+
+selectmonster "Goblin Witch Doctor"                                         #  810
+snow
+
+selectmonster "Wolf Kin"                                                    #  811
+snow
+
+selectmonster "Goblin Murderer"                                             #  812
+snow
+
+selectmonster "Elder Dragon"                                                #  813
+snow
+
+selectmonster "Dragon"                                                      #  814
+snow
+
+selectmonster "Dragon Hatchling"                                            #  815
+snow
+
+selectmonster "King Of The Deep"                                            #  816
+snow
+
+selectmonster "Pale One"                                                    #  817
+snow
+
+selectmonster "Pale One Scout"                                              #  818
+snow
+
+selectmonster "Pale One Soldier"                                            #  819
+snow
+
+selectmonster "Cavern Guard"                                                #  820
+snow
+
+selectmonster "Pale One Commander"                                          #  821
+snow
+
+selectmonster "Ancient Commander"                                           #  822
+snow
+
+selectmonster "Ancient Pale One"                                            #  823
+snow
+
+selectmonster "Seal Guard"                                                  #  824
+snow
+
+selectmonster "Ancient Hurler"                                              #  825
+snow
+
+selectmonster "Earth Reader"                                                #  826
+snow
+
+selectmonster "Earth Mind"                                                  #  827
+snow
+
+selectmonster "Oracle of Subterranean Fires"                                #  828
+snow
+
+selectmonster "Oracle of Rhuax"                                             #  829
+snow
+
+selectmonster "Oracle of Subterranean Waters"                               #  830
+snow
+
+selectmonster "Oracle of Apsu"                                              #  831
+snow
+
+selectmonster "Oracle of the Dead"                                          #  832
+snow
+
+selectmonster "Oracle of Allatu"                                            #  833
+snow
+
+selectmonster "Troglodyte"                                                  #  834
+snow
+
+selectmonster "Penumbral"                                                   #  835
+snow
+
+selectmonster "Umbral"                                                      #  836
+snow
+
+selectmonster "Sentinel"                                                    #  837
+snow
+
+selectmonster "Granite Guardian"                                            #  838
+snow
+
+selectmonster "Marble Oracle"                                               #  839
+snow
+
+selectmonster "Onyx Oracle"                                                 #  840
+snow
+
+selectmonster "Cavern Wight"                                                #  841
+snow
+
+selectmonster "Sepulchral"                                                  #  842
+snow
+
+selectmonster "Tomb Oracle"                                                 #  843
+snow
+
+selectmonster "Olm"                                                         #  844
+snow
+
+selectmonster "Olm Sage"                                                    #  845
+snow
+
+selectmonster "Olm Farseer"                                                 #  846
+snow
+
+selectmonster "Cave Grub"                                                   #  847
+snow
+
+selectmonster "Cave Cow"                                                    #  848
+snow
+
+selectmonster "Magma Child"                                                 #  849
+snow
+
+selectmonster "God Vessel"                                                  #  850
+snow
+
+selectmonster "God Vessel"                                                  #  851
+snow
+
+selectmonster "Penumbral"                                                   #  852
+snow
+
+selectmonster "God Vessel"                                                  #  853
+snow
+
+selectmonster "Legion of Gods"                                              #  854
+snow
+
+selectmonster "Dai Bakemono"                                                #  855
+snow
+
+selectmonster "Bakemono General"                                            #  856
+snow
+
+selectmonster "Dai Bakemono Archer"                                         #  857
+snow
+
+selectmonster "Bakemono Sorceror"                                           #  858
+snow
+
+selectmonster "Bakemono Great Sorceror"                                     #  859
+snow
+
+selectmonster "Bakemono Kunshu"                                             #  860
+snow
+
+selectmonster "Bakemono O Kunshu"                                           #  861
+snow
+
+selectmonster "O Bakemono"                                                  #  862
+snow
+
+selectmonster "Bakemono Sho"                                                #  863
+snow
+
+selectmonster "Bakemono Spearman"                                           #  864
+snow
+
+selectmonster "Bakemono Bowman"                                             #  865
+snow
+
+selectmonster "Bakemono Soldier"                                            #  866
+snow
+
+selectmonster "Bakemono Swordsman"                                          #  867
+snow
+
+selectmonster "Bakemono Archer"                                             #  868
+snow
+
+selectmonster "Bakemono Shaman"                                             #  869
+snow
+
+selectmonster "Bakemono Witch Doctor"                                       #  870
+snow
+
+selectmonster "Shuten Doji"                                                 #  871
+snow
+
+selectmonster "Uba"                                                         #  872
+snow
+
+selectmonster "Ghost Cat"                                                   #  873
+snow
+
+selectmonster "Kappa"                                                       #  874
+snow
+
+selectmonster "Kappa Shaman"                                                #  875
+snow
+
+selectmonster "Mezu"                                                        #  876
+snow
+
+selectmonster "Gozu"                                                        #  877
+snow
+
+selectmonster "Karasu Tengu"                                                #  878
+snow
+
+selectmonster "Konoha Tengu"                                                #  879
+snow
+
+selectmonster "Tengu Warrior"                                               #  880
+snow
+
+selectmonster "Dai Tengu"                                                   #  881
+snow
+
+selectmonster "Tengu Weapon Master"                                         #  882
+snow
+
+selectmonster "Mujina"                                                      #  883
+snow
+
+selectmonster "Shikome"                                                     #  884
+snow
+
+selectmonster "Kitsune"                                                     #  885
+snow
+
+selectmonster "Fox Spirit"                                                  #  886
+snow
+
+selectmonster "Nushi"                                                       #  887
+snow
+
+selectmonster "Hannya"                                                      #  888
+snow
+
+selectmonster "Ao Oni"                                                      #  889
+snow
+
+selectmonster "Spectral Oni"                                                #  890
+snow
+
+selectmonster "Aka Oni"                                                     #  891
+snow
+
+selectmonster "Spectral Oni"                                                #  892
+snow
+
+selectmonster "Kuro Oni"                                                    #  893
+snow
+
+selectmonster "Spectral Oni General"                                        #  894
+snow
+
+selectmonster "Dai Oni"                                                     #  895
+snow
+
+selectmonster "Spectral Oni King"                                           #  896
+snow
+
+selectmonster "Burgmeister"                                                 #  897
+snow
+
+selectmonster "Horticulturist"                                              #  898
+snow
+
+selectmonster "Garden Master"                                               #  899
+snow
+
+selectmonster "Horologist"                                                  #  900
+snow
+
+selectmonster "Clockwork Master Crafter"                                    #  901
+snow
+
+selectmonster "Hoburg Militia"                                              #  902
+snow
+
+selectmonster "Hoburg Slinger"                                              #  903
+snow
+
+selectmonster "Hoburg Soldier"                                              #  904
+snow
+
+selectmonster "Hoburg Defender"                                             #  905
+snow
+
+selectmonster "Hoburg Crossbow"                                             #  906
+snow
+
+selectmonster "Hoburg Pikeneer"                                             #  907
+snow
+
+selectmonster "Burgmeister Guard"                                           #  908
+snow
+
+selectmonster "Hog Knight"                                                  #  909
+snow
+
+selectmonster "Hogmeister"                                                  #  910
+snow
+
+selectmonster "Ruby Clockwork Soldier"                                      #  911
+snow
+
+selectmonster "Sapphire Clockwork Soldier"                                  #  912
+snow
+
+selectmonster "Diamond Clockwork Soldier"                                   #  913
+snow
+
+selectmonster "Emerald Clockwork Soldier"                                   #  914
+snow
+
+selectmonster "Ruby Clockwork Horror"                                       #  915
+snow
+
+selectmonster "Sapphire Clockwork Horror"                                   #  916
+snow
+
+selectmonster "Diamond Clockwork Horror"                                    #  917
+snow
+
+selectmonster "Emerald Clockwork Horror"                                    #  918
+snow
+
+selectmonster "Ruby Iron Dragon"                                            #  919
+snow
+
+selectmonster "Sapphire Iron Dragon"                                        #  920
+snow
+
+selectmonster "Diamond Iron Dragon"                                         #  921
+snow
+
+selectmonster "Emerald Iron Dragon"                                         #  922
+snow
+
+selectmonster "Iron Spider"                                                 #  923
+snow
+
+selectmonster "Iron Fly"                                                    #  924
+snow
+
+selectmonster "Iron Ant"                                                    #  925
+snow
+
+selectmonster "Iron Scorpion"                                               #  926
+snow
+
+selectmonster "Markgraf"                                                    #  927
+snow
+
+selectmonster "Malefic Markgraf"                                            #  928
+snow
+
+selectmonster "Malefic Master"                                              #  929
+snow
+
+selectmonster "Malefic Markmeister"                                         #  930
+snow
+
+selectmonster "Ghoul Baron"                                                 #  931
+snow
+
+selectmonster "Ghoulgraf"                                                   #  932
+snow
+
+selectmonster "Nekromant"                                                   #  933
+snow
+
+selectmonster "Grand Nekromant"                                             #  934
+snow
+
+selectmonster "Corpse Nekromant"                                            #  935
+snow
+
+selectmonster "Wight Nekromant"                                             #  936
+snow
+
+selectmonster "Small Ghost"                                                 #  937
+snow
+
+selectmonster "Ghost Nekromant"                                             #  938
+snow
+
+selectmonster "Hoburg Thrall"                                               #  939
+snow
+
+selectmonster "Hobmark Soldier"                                             #  940
+snow
+
+selectmonster "Hobmark Defender"                                            #  941
+snow
+
+selectmonster "Hobmark Crossbow"                                            #  942
+snow
+
+selectmonster "Hobmark Hammerer"                                            #  943
+snow
+
+selectmonster "Hobmark Pikeneer"                                            #  944
+snow
+
+selectmonster "Markgraf Guard"                                              #  945
+snow
+
+selectmonster "Hog Hussar"                                                  #  946
+snow
+
+selectmonster "Markmeister"                                                 #  947
+snow
+
+selectmonster "Little Longdead"                                             #  948
+snow
+
+selectmonster "Little Longdead"                                             #  949
+snow
+
+selectmonster "Little Longdead"                                             #  950
+snow
+
+selectmonster "Little Soulless"                                             #  951
+snow
+
+selectmonster "Little Ghoul"                                                #  952
+snow
+
+selectmonster "Ghoul Guardian"                                              #  953
+snow
+
+selectmonster "Councilor"                                                   #  954
+snow
+
+selectmonster "Werewolf"                                                    #  955
+snow
+
+selectmonster "Spearman"                                                    #  956
+snow
+
+selectmonster "Werebear"                                                    #  957
+snow
+
+selectmonster "Levy"                                                        #  958
+snow
+
+selectmonster "Minotaur"                                                    #  959
+snow
+
+selectmonster "Witch Doctor"                                                #  960
+snow
+
+selectmonster "Tribal Queen"                                                #  961
+snow
+
+selectmonster "Lion King"                                                   #  962
+snow
+
+selectmonster "Lion Tribe Warrior"                                          #  963
+snow
+
+selectmonster "Hyena Tribe Warrior"                                         #  964
+snow
+
+selectmonster "Pygmy"                                                       #  965
+snow
+
+selectmonster "Crystal Sorceress"                                           #  966
+snow
+
+selectmonster "Crystal Priestess"                                           #  967
+snow
+
+selectmonster "Crystal Amazon"                                              #  968
+snow
+
+selectmonster "Garnet Sorceress"                                            #  969
+snow
+
+selectmonster "Garnet Priestess"                                            #  970
+snow
+
+selectmonster "Garnet Amazon"                                               #  971
+snow
+
+selectmonster "Jade Sorceress"                                              #  972
+snow
+
+selectmonster "Jade Priestess"                                              #  973
+snow
+
+selectmonster "Jade Amazon"                                                 #  974
+snow
+
+selectmonster "Onyx Sorceress"                                              #  975
+snow
+
+selectmonster "Onyx Priestess"                                              #  976
+snow
+
+selectmonster "Onyx Amazon"                                                 #  977
+snow
+
+selectmonster "Nahualli"                                                    #  978
+snow
+
+selectmonster "Old Nahualli"                                                #  979
+snow
+
+selectmonster "Smoking Mirror"                                              #  980
+snow
+
+selectmonster "Sun Temple Attendant"                                        #  981
+snow
+
+selectmonster "Priest King"                                                 #  982
+snow
+
+selectmonster "High Priest of the Sun"                                      #  983
+snow
+
+selectmonster "Blood Temple Attendant"                                      #  984
+snow
+
+selectmonster "Priest of the Bloody Mother"                                 #  985
+snow
+
+selectmonster "High Priest of the Bloody Mother"                            #  986
+snow
+
+selectmonster "Sky Temple Attendant"                                        #  987
+snow
+
+selectmonster "Sky Priest"                                                  #  988
+snow
+
+selectmonster "High Priest of the Sky"                                      #  989
+snow
+
+selectmonster "Rain Temple Attendant"                                       #  990
+snow
+
+selectmonster "Rain Priest"                                                 #  991
+snow
+
+selectmonster "High Priest of the Rain"                                     #  992
+snow
+
+selectmonster "Moon Temple Attendant"                                       #  993
+snow
+
+selectmonster "Moon Priest"                                                 #  994
+snow
+
+selectmonster "High Priest of the Night"                                    #  995
+snow
+
+selectmonster "Death Temple Attendant"                                      #  996
+snow
+
+selectmonster "Priest of the Dead"                                          #  997
+snow
+
+selectmonster "High Priest of the Dead"                                     #  998
+snow
+
+selectmonster "Tribal King"                                                 #  999
+snow
+
+selectmonster "Slave"                                                       # 1000
+snow
+
+selectmonster "Tribal Warrior"                                              # 1001
+snow
+
+selectmonster "Jungle Warrior"                                              # 1002
+snow
+
+selectmonster "Feathered Warrior"                                           # 1003
+snow
+
+selectmonster "Jaguar Warrior"                                              # 1004
+snow
+
+selectmonster "Eagle Warrior"                                               # 1005
+snow
+
+selectmonster "Moon Warrior"                                                # 1006
+snow
+
+selectmonster "Sun Warrior"                                                 # 1007
+snow
+
+selectmonster "Jaguar"                                                      # 1008
+snow
+
+selectmonster "Ozelotl"                                                     # 1009
+snow
+
+selectmonster "Balam"                                                       # 1010
+snow
+
+selectmonster "Teotl of War"                                                # 1011
+snow
+
+selectmonster "Tlahuelpuchi"                                                # 1012
+snow
+
+selectmonster "Plumed Serpent"                                              # 1013
+snow
+
+selectmonster "Teteo Inan"                                                  # 1014
+snow
+
+selectmonster "Turkey Spirit Double"                                        # 1015
+snow
+
+selectmonster "Coatl"                                                       # 1016
+snow
+
+selectmonster "Great Macaw"                                                 # 1017
+snow
+
+selectmonster "Chaac of the East"                                           # 1018
+snow
+
+selectmonster "Chaac of the South"                                          # 1019
+snow
+
+selectmonster "Chaac of the West"                                           # 1020
+snow
+
+selectmonster "Chaac of the North"                                          # 1021
+snow
+
+selectmonster "Teotl of the Sky"                                            # 1022
+snow
+
+selectmonster "Toad Warrior"                                                # 1023
+snow
+
+selectmonster "Toad Warrior"                                                # 1024
+snow
+
+selectmonster "Rain Warrior"                                                # 1025
+snow
+
+selectmonster "Toad Priest"                                                 # 1026
+snow
+
+selectmonster "King of Rain"                                                # 1027
+snow
+
+selectmonster "Tlaloque of the East"                                        # 1028
+snow
+
+selectmonster "Tlaloque of the South"                                       # 1029
+snow
+
+selectmonster "Tlaloque of the West"                                        # 1030
+snow
+
+selectmonster "Tlaloque of the North"                                       # 1031
+snow
+
+selectmonster "Teotl of Rain"                                               # 1032
+snow
+
+selectmonster "Beast Bat"                                                   # 1033
+snow
+
+selectmonster "Tzitzimitl"                                                  # 1034
+snow
+
+selectmonster "Onaqui"                                                      # 1035
+snow
+
+selectmonster "Teotl of the Night"                                          # 1036
+snow
+
+selectmonster "Civateteo"                                                   # 1037
+snow
+
+selectmonster "Bolon-Ti-Ku"                                                 # 1038
+snow
+
+selectmonster "Teotl of the Underworld"                                     # 1039
+snow
+
+selectmonster "Kaiser"                                                      # 1040
+snow
+
+selectmonster "Malefic Kaiser"                                              # 1041
+snow
+
+selectmonster "Leibwache"                                                   # 1042
+snow
+
+selectmonster "Iron Grafted Golem"                                          # 1043
+snow
+
+selectmonster "Dark Emperor"                                                # 1044
+snow
+
+selectmonster "God Emperor of the Underworld"                               # 1045
+snow
+
+selectmonster "Statue of the Underworld"                                    # 1046
+snow
+
+selectmonster "Imperial Spirit"                                             # 1047
+snow
+
+selectmonster "Void Hound"                                                  # 1048
+snow
+
+selectmonster "Yithian"                                                     # 1049
+snow
+
+selectmonster "Yithian Sage"                                                # 1050
+snow
+
+selectmonster "Elder Thing"                                                 # 1051
+snow
+
+selectmonster "Strange Thing"                                               # 1052
+snow
+
+selectmonster "Formless Spawn"                                              # 1053
+snow
+
+selectmonster "Star Oak"                                                    # 1054
+snow
+
+selectmonster "Animated Tools"                                              # 1055
+snow
+
+selectmonster "Dancing Tools"                                               # 1056
+snow
+
+selectmonster "Animated Ballista"                                           # 1057
+snow
+
+selectmonster "Vessel of Iron Lore"                                         # 1058
+snow
+
+selectmonster "Vessel of Silver Lore"                                       # 1059
+snow
+
+selectmonster "Vessel of Golden Lore"                                       # 1060
+snow
+
+selectmonster "Vessel of Iron Arcana"                                       # 1061
+snow
+
+selectmonster "Vessel of Silver Arcana"                                     # 1062
+snow
+
+selectmonster "Vessel of Golden Arcana"                                     # 1063
+snow
+
+selectmonster "Living Boulder"                                              # 1064
+snow
+
+selectmonster "Giant Ant Queen"                                             # 1065
+snow
+
+selectmonster "Bandit King"                                                 # 1066
+snow
+
+selectmonster "Rat"                                                         # 1067
+snow
+
+selectmonster "Giant Rat"                                                   # 1068
+snow
+
+selectmonster "Debug Sensei"                                                # 1069
+snow
+
+
+
