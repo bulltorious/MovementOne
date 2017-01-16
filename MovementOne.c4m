@@ -751,3215 +751,6422 @@ apcost 1
 selectterr 250
 apcost 1
 
-selectmonster "Baron"                                                       #    0
+selectmonster "Baron" 0
 snow
 
-selectmonster "High Lord"                                                   #    1
+selectmonster "Baron" 1
 snow
 
-selectmonster "King"                                                        #    2
+selectmonster "High Lord" 0
 snow
 
-selectmonster "Princess"                                                    #    3
+selectmonster "High Lord" 1
 snow
 
-selectmonster "Court Mage"                                                  #    4
+selectmonster "King" 0
 snow
 
-selectmonster "Magus"                                                       #    5
+selectmonster "King" 1
 snow
 
-selectmonster "High Magus"                                                  #    6
+selectmonster "Princess" 0
 snow
 
-selectmonster "Alchemist"                                                   #    7
+selectmonster "Princess" 1
 snow
 
-selectmonster "Master Alchemist"                                            #    8
+selectmonster "Court Mage" 0
 snow
 
-selectmonster "Monk"                                                        #    9
+selectmonster "Court Mage" 1
 snow
 
-selectmonster "Captain"                                                     #   10
+selectmonster "Magus" 0
 snow
 
-selectmonster "Spearman"                                                    #   11
+selectmonster "Magus" 1
 snow
 
-selectmonster "Archer"                                                      #   12
+selectmonster "High Magus" 0
 snow
 
-selectmonster "Swordsman"                                                   #   13
+selectmonster "High Magus" 1
 snow
 
-selectmonster "Pikeneer"                                                    #   14
+selectmonster "Alchemist" 0
 snow
 
-selectmonster "Halberdier"                                                  #   15
+selectmonster "Alchemist" 1
 snow
 
-selectmonster "Zweihander"                                                  #   16
+selectmonster "Master Alchemist" 0
 snow
 
-selectmonster "Longbowman"                                                  #   17
+selectmonster "Master Alchemist" 1
 snow
 
-selectmonster "Crossbowman"                                                 #   18
+selectmonster "Monk" 0
 snow
 
-selectmonster "Heavy Infantry"                                              #   19
+selectmonster "Monk" 1
 snow
 
-selectmonster "Cavalryman"                                                  #   20
+selectmonster "Captain" 0
 snow
 
-selectmonster "Tower Guard"                                                 #   21
+selectmonster "Captain" 1
 snow
 
-selectmonster "Knight"                                                      #   22
+selectmonster "Spearman" 0
 snow
 
-selectmonster "Unicorn Knight"                                              #   23
+selectmonster "Spearman" 1
 snow
 
-selectmonster "War Dog"                                                     #   24
+selectmonster "Archer" 0
 snow
 
-selectmonster "Levy"                                                        #   25
+selectmonster "Archer" 1
 snow
 
-selectmonster "Levy"                                                        #   26
+selectmonster "Swordsman" 0
 snow
 
-selectmonster "Militia"                                                     #   27
+selectmonster "Swordsman" 1
 snow
 
-selectmonster "Slinger"                                                     #   28
+selectmonster "Pikeneer" 0
 snow
 
-selectmonster "Brigand"                                                     #   29
+selectmonster "Pikeneer" 1
 snow
 
-selectmonster "Bandit"                                                      #   30
+selectmonster "Halberdier" 0
 snow
 
-selectmonster "Angry Peasant"                                               #   31
+selectmonster "Halberdier" 1
 snow
 
-selectmonster "Caravan Guard"                                               #   32
+selectmonster "Zweihander" 0
 snow
 
-selectmonster "Bard"                                                        #   33
+selectmonster "Zweihander" 1
 snow
 
-selectmonster "Scout"                                                       #   34
+selectmonster "Longbowman" 0
 snow
 
-selectmonster "Unexpected Hero"                                             #   35
+selectmonster "Longbowman" 1
 snow
 
-selectmonster "Hero"                                                        #   36
+selectmonster "Crossbowman" 0
 snow
 
-selectmonster "Heroine"                                                     #   37
+selectmonster "Crossbowman" 1
 snow
 
-selectmonster "Old Weapon Master"                                           #   38
+selectmonster "Heavy Infantry" 0
 snow
 
-selectmonster "Old Wizard"                                                  #   39
+selectmonster "Heavy Infantry" 1
 snow
 
-selectmonster "Dark Wizard"                                                 #   40
+selectmonster "Cavalryman" 0
 snow
 
-selectmonster "Master of Darkness"                                          #   41
+selectmonster "Cavalryman" 1
 snow
 
-selectmonster "Pyromancer"                                                  #   42
+selectmonster "Tower Guard" 0
 snow
 
-selectmonster "Adept of Pyriphlegeton"                                      #   43
+selectmonster "Tower Guard" 1
 snow
 
-selectmonster "Animist"                                                     #   44
+selectmonster "Knight" 0
 snow
 
-selectmonster "Master Animist"                                              #   45
+selectmonster "Knight" 1
 snow
 
-selectmonster "Ice Druid"                                                   #   46
+selectmonster "Unicorn Knight" 0
 snow
 
-selectmonster "Frost Father"                                                #   47
+selectmonster "Unicorn Knight" 1
 snow
 
-selectmonster "Sea Father"                                                  #   48
+selectmonster "War Dog" 0
 snow
 
-selectmonster "Grandfather of the Sea"                                      #   49
+selectmonster "War Dog" 1
 snow
 
-selectmonster "Ice Witch"                                                   #   50
+selectmonster "Levy" 0
 snow
 
-selectmonster "Frost Hag"                                                   #   51
+selectmonster "Levy" 1
 snow
 
-selectmonster "Sorceress"                                                   #   52
+selectmonster "Levy" 0
 snow
 
-selectmonster "Great Sorceress"                                             #   53
+selectmonster "Levy" 1
 snow
 
-selectmonster "Black Sorceress"                                             #   54
+selectmonster "Militia" 0
 snow
 
-selectmonster "Mother Superior"                                             #   55
+selectmonster "Militia" 1
 snow
 
-selectmonster "Green Enchantress"                                           #   56
+selectmonster "Slinger" 0
 snow
 
-selectmonster "High Enchantress"                                            #   57
+selectmonster "Slinger" 1
 snow
 
-selectmonster "Scarlet Sister"                                              #   58
+selectmonster "Brigand" 0
 snow
 
-selectmonster "Scarlet Mother"                                              #   59
+selectmonster "Brigand" 1
 snow
 
-selectmonster "Moon Mage"                                                   #   60
+selectmonster "Bandit" 0
 snow
 
-selectmonster "Moon Master"                                                 #   61
+selectmonster "Bandit" 1
 snow
 
-selectmonster "Astrologer"                                                  #   62
+selectmonster "Angry Peasant" 0
 snow
 
-selectmonster "High Astrologer"                                             #   63
+selectmonster "Angry Peasant" 1
 snow
 
-selectmonster "White Wizard"                                                #   64
+selectmonster "Caravan Guard" 0
 snow
 
-selectmonster "Grand Wizard"                                                #   65
+selectmonster "Caravan Guard" 1
 snow
 
-selectmonster "Golden Wizard"                                               #   66
+selectmonster "Bard" 0
 snow
 
-selectmonster "Master Arch Wizard"                                          #   67
+selectmonster "Bard" 1
 snow
 
-selectmonster "Initiate of the Metal Orders"                                #   68
+selectmonster "Scout" 0
 snow
 
-selectmonster "Adept of the Silver Order"                                   #   69
+selectmonster "Scout" 1
 snow
 
-selectmonster "Adept of the Golden Order"                                   #   70
+selectmonster "Unexpected Hero" 0
 snow
 
-selectmonster "Adept of the Iron Order"                                     #   71
+selectmonster "Unexpected Hero" 1
 snow
 
-selectmonster "Master of the Silver Order"                                  #   72
+selectmonster "Hero" 0
 snow
 
-selectmonster "Master of the Golden Order"                                  #   73
+selectmonster "Hero" 1
 snow
 
-selectmonster "Master of the Iron Order"                                    #   74
+selectmonster "Heroine" 0
 snow
 
-selectmonster "Hedge Wizard"                                                #   75
+selectmonster "Heroine" 1
 snow
 
-selectmonster "Archmage"                                                    #   76
+selectmonster "Old Weapon Master" 0
 snow
 
-selectmonster "Assassin"                                                    #   77
+selectmonster "Old Weapon Master" 1
 snow
 
-selectmonster "Assassin"                                                    #   78
+selectmonster "Old Wizard" 0
 snow
 
-selectmonster "Assassin"                                                    #   79
+selectmonster "Old Wizard" 1
 snow
 
-selectmonster "Assassin"                                                    #   80
+selectmonster "Dark Wizard" 0
 snow
 
-selectmonster "Merchant"                                                    #   81
+selectmonster "Dark Wizard" 1
 snow
 
-selectmonster "Peddlar"                                                     #   82
+selectmonster "Master of Darkness" 0
 snow
 
-selectmonster "Unknown Priest"                                              #   83
+selectmonster "Master of Darkness" 1
 snow
 
-selectmonster "Ballista"                                                    #   84
+selectmonster "Pyromancer" 0
 snow
 
-selectmonster "Catapult"                                                    #   85
+selectmonster "Pyromancer" 1
 snow
 
-selectmonster "Trebuchet"                                                   #   86
+selectmonster "Adept of Pyriphlegeton" 0
 snow
 
-selectmonster "Wooden Gate"                                                 #   87
+selectmonster "Adept of Pyriphlegeton" 1
 snow
 
-selectmonster "Iron Gate"                                                   #   88
+selectmonster "Animist" 0
 snow
 
-selectmonster "Enchanted Gate"                                              #   89
+selectmonster "Animist" 1
 snow
 
-selectmonster "Small Wooden Gate"                                           #   90
+selectmonster "Master Animist" 0
 snow
 
-selectmonster "Small Iron Gate"                                             #   91
+selectmonster "Master Animist" 1
 snow
 
-selectmonster "Small Enchanted Gate"                                        #   92
+selectmonster "Ice Druid" 0
 snow
 
-selectmonster "Barbarian Leader"                                            #   93
+selectmonster "Ice Druid" 1
 snow
 
-selectmonster "Mounted Chief"                                               #   94
+selectmonster "Frost Father" 0
 snow
 
-selectmonster "Barbarian Lancer"                                            #   95
+selectmonster "Frost Father" 1
 snow
 
-selectmonster "Barbarian Cavalry"                                           #   96
+selectmonster "Sea Father" 0
 snow
 
-selectmonster "Barbarian Warrior"                                           #   97
+selectmonster "Sea Father" 1
 snow
 
-selectmonster "Barbarian Swordsman"                                         #   98
+selectmonster "Grandfather of the Sea" 0
 snow
 
-selectmonster "Barbarian Bowman"                                            #   99
+selectmonster "Grandfather of the Sea" 1
 snow
 
-selectmonster "Barbarian Werebear"                                          #  100
+selectmonster "Ice Witch" 0
 snow
 
-selectmonster "Barbarian Warrior"                                           #  101
+selectmonster "Ice Witch" 1
 snow
 
-selectmonster "Mounted Scout"                                               #  102
+selectmonster "Frost Hag" 0
 snow
 
-selectmonster "Elder Enarie"                                                #  103
+selectmonster "Frost Hag" 1
 snow
 
-selectmonster "Enarie"                                                      #  104
+selectmonster "Sorceress" 0
 snow
 
-selectmonster "Spirit Guide"                                                #  105
+selectmonster "Sorceress" 1
 snow
 
-selectmonster "Soothsayer"                                                  #  106
+selectmonster "Great Sorceress" 0
 snow
 
-selectmonster "Effigy"                                                      #  107
+selectmonster "Great Sorceress" 1
 snow
 
-selectmonster "Thunder Totem"                                               #  108
+selectmonster "Black Sorceress" 0
 snow
 
-selectmonster "Beast Totem"                                                 #  109
+selectmonster "Black Sorceress" 1
 snow
 
-selectmonster "Warrior Totem"                                               #  110
+selectmonster "Mother Superior" 0
 snow
 
-selectmonster "Totem of Maladies"                                           #  111
+selectmonster "Mother Superior" 1
 snow
 
-selectmonster "Wolf Tribe Shaman"                                           #  112
+selectmonster "Green Enchantress" 0
 snow
 
-selectmonster "Wolf Tribe Warrior"                                          #  113
+selectmonster "Green Enchantress" 1
 snow
 
-selectmonster "Wolf Tribe Bowman"                                           #  114
+selectmonster "High Enchantress" 0
 snow
 
-selectmonster "Deer Tribe Shaman"                                           #  115
+selectmonster "High Enchantress" 1
 snow
 
-selectmonster "Deer Tribe Warrior"                                          #  116
+selectmonster "Scarlet Sister" 0
 snow
 
-selectmonster "Deer Tribe Bowman"                                           #  117
+selectmonster "Scarlet Sister" 1
 snow
 
-selectmonster "Senator"                                                     #  118
+selectmonster "Scarlet Mother" 0
 snow
 
-selectmonster "Emperor"                                                     #  119
+selectmonster "Scarlet Mother" 1
 snow
 
-selectmonster "Empress"                                                     #  120
+selectmonster "Moon Mage" 0
 snow
 
-selectmonster "God Emperor"                                                 #  121
+selectmonster "Moon Mage" 1
 snow
 
-selectmonster "God Empress"                                                 #  122
+selectmonster "Moon Master" 0
 snow
 
-selectmonster "Centurion"                                                   #  123
+selectmonster "Moon Master" 1
 snow
 
-selectmonster "Leo"                                                         #  124
+selectmonster "Astrologer" 0
 snow
 
-selectmonster "Heliodromus"                                                 #  125
+selectmonster "Astrologer" 1
 snow
 
-selectmonster "Renata"                                                      #  126
+selectmonster "High Astrologer" 0
 snow
 
-selectmonster "Renatus"                                                     #  127
+selectmonster "High Astrologer" 1
 snow
 
-selectmonster "Serpent Acolyte"                                             #  128
+selectmonster "White Wizard" 0
 snow
 
-selectmonster "Serpent Priest"                                              #  129
+selectmonster "White Wizard" 1
 snow
 
-selectmonster "Pontifex Serpentis"                                          #  130
+selectmonster "Grand Wizard" 0
 snow
 
-selectmonster "Reveler"                                                     #  131
+selectmonster "Grand Wizard" 1
 snow
 
-selectmonster "Satyr"                                                       #  132
+selectmonster "Golden Wizard" 0
 snow
 
-selectmonster "Maenad"                                                      #  133
+selectmonster "Golden Wizard" 1
 snow
 
-selectmonster "Hamadryad"                                                   #  134
+selectmonster "Master Arch Wizard" 0
 snow
 
-selectmonster "Flamen"                                                      #  135
+selectmonster "Master Arch Wizard" 1
 snow
 
-selectmonster "Augur"                                                       #  136
+selectmonster "Initiate of the Metal Orders" 0
 snow
 
-selectmonster "Veles"                                                       #  137
+selectmonster "Initiate of the Metal Orders" 1
 snow
 
-selectmonster "Hastatus"                                                    #  138
+selectmonster "Adept of the Silver Order" 0
 snow
 
-selectmonster "Princeps"                                                    #  139
+selectmonster "Adept of the Silver Order" 1
 snow
 
-selectmonster "Triarius"                                                    #  140
+selectmonster "Adept of the Golden Order" 0
 snow
 
-selectmonster "Standard"                                                    #  141
+selectmonster "Adept of the Golden Order" 1
 snow
 
-selectmonster "Gladiator"                                                   #  142
+selectmonster "Adept of the Iron Order" 0
 snow
 
-selectmonster "Retiarius"                                                   #  143
+selectmonster "Adept of the Iron Order" 1
 snow
 
-selectmonster "Praetorian Guard"                                            #  144
+selectmonster "Master of the Silver Order" 0
 snow
 
-selectmonster "Princeps Solaris"                                            #  145
+selectmonster "Master of the Silver Order" 1
 snow
 
-selectmonster "Imperial Statue"                                             #  146
+selectmonster "Master of the Golden Order" 0
 snow
 
-selectmonster "War Elephant"                                                #  147
+selectmonster "Master of the Golden Order" 1
 snow
 
-selectmonster "Fakir"                                                       #  148
+selectmonster "Master of the Iron Order" 0
 snow
 
-selectmonster "Snake Charmer"                                               #  149
+selectmonster "Master of the Iron Order" 1
 snow
 
-selectmonster "Rakshasa"                                                    #  150
+selectmonster "Hedge Wizard" 0
 snow
 
-selectmonster "Winged Monkey"                                               #  151
+selectmonster "Hedge Wizard" 1
 snow
 
-selectmonster "Mirror Image"                                                #  152
+selectmonster "Archmage" 0
 snow
 
-selectmonster "Mirror Image"                                                #  153
+selectmonster "Archmage" 1
 snow
 
-selectmonster "Mirror Image"                                                #  154
+selectmonster "Assassin" 0
 snow
 
-selectmonster "Pontiff"                                                     #  155
+selectmonster "Assassin" 1
 snow
 
-selectmonster "Cardinal"                                                    #  156
+selectmonster "Assassin" 0
 snow
 
-selectmonster "Arch Bishop"                                                 #  157
+selectmonster "Assassin" 1
 snow
 
-selectmonster "Bishop"                                                      #  158
+selectmonster "Assassin" 0
 snow
 
-selectmonster "Grand Master"                                                #  159
+selectmonster "Assassin" 1
 snow
 
-selectmonster "High Inquisitor"                                             #  160
+selectmonster "Assassin" 0
 snow
 
-selectmonster "Inquisitor"                                                  #  161
+selectmonster "Assassin" 1
 snow
 
-selectmonster "Saint"                                                       #  162
+selectmonster "Merchant" 0
 snow
 
-selectmonster "Pilgrim"                                                     #  163
+selectmonster "Merchant" 1
 snow
 
-selectmonster "Paladin"                                                     #  164
+selectmonster "Peddlar" 0
 snow
 
-selectmonster "Paladin"                                                     #  165
+selectmonster "Peddlar" 1
 snow
 
-selectmonster "Paladin"                                                     #  166
+selectmonster "Unknown Priest" 0
 snow
 
-selectmonster "Templar"                                                     #  167
+selectmonster "Unknown Priest" 1
 snow
 
-selectmonster "Temple Guard"                                                #  168
+selectmonster "Ballista" 0
 snow
 
-selectmonster "Flagellant"                                                  #  169
+selectmonster "Ballista" 1
 snow
 
-selectmonster "Crusader"                                                    #  170
+selectmonster "Catapult" 0
 snow
 
-selectmonster "Angel"                                                       #  171
+selectmonster "Catapult" 1
 snow
 
-selectmonster "Harbinger"                                                   #  172
+selectmonster "Trebuchet" 0
 snow
 
-selectmonster "Arch Angel"                                                  #  173
+selectmonster "Trebuchet" 1
 snow
 
-selectmonster "Seraph"                                                      #  174
+selectmonster "Wooden Gate" 0
 snow
 
-selectmonster "Ophan"                                                       #  175
+selectmonster "Wooden Gate" 1
 snow
 
-selectmonster "Celestial Lion"                                              #  176
+selectmonster "Iron Gate" 0
 snow
 
-selectmonster "Apocalyptic Rider"                                           #  177
+selectmonster "Iron Gate" 1
 snow
 
-selectmonster "Apocalyptic Rider"                                           #  178
+selectmonster "Enchanted Gate" 0
 snow
 
-selectmonster "Apocalyptic Rider"                                           #  179
+selectmonster "Enchanted Gate" 1
 snow
 
-selectmonster "Apocalyptic Rider"                                           #  180
+selectmonster "Small Wooden Gate" 0
 snow
 
-selectmonster "God"                                                         #  181
+selectmonster "Small Wooden Gate" 1
 snow
 
-selectmonster "Anointed Priestess"                                          #  182
+selectmonster "Small Iron Gate" 0
 snow
 
-selectmonster "High Priestess"                                              #  183
+selectmonster "Small Iron Gate" 1
 snow
 
-selectmonster "Hierodule"                                                   #  184
+selectmonster "Small Enchanted Gate" 0
 snow
 
-selectmonster "Ba'alite Spearman"                                           #  185
+selectmonster "Small Enchanted Gate" 1
 snow
 
-selectmonster "Ba'alite Archer"                                             #  186
+selectmonster "Barbarian Leader" 0
 snow
 
-selectmonster "Ba'alite Zealot"                                             #  187
+selectmonster "Barbarian Leader" 1
 snow
 
-selectmonster "Ba'alite Heavy Infantry"                                     #  188
+selectmonster "Mounted Chief" 0
 snow
 
-selectmonster "Gibbor"                                                      #  189
+selectmonster "Mounted Chief" 1
 snow
 
-selectmonster "Anakite"                                                     #  190
+selectmonster "Barbarian Lancer" 0
 snow
 
-selectmonster "Anakite Captain"                                             #  191
+selectmonster "Barbarian Lancer" 1
 snow
 
-selectmonster "Adon"                                                        #  192
+selectmonster "Barbarian Cavalry" 0
 snow
 
-selectmonster "Zamzummite"                                                  #  193
+selectmonster "Barbarian Cavalry" 1
 snow
 
-selectmonster "Rephaite"                                                    #  194
+selectmonster "Barbarian Warrior" 0
 snow
 
-selectmonster "Melqart"                                                     #  195
+selectmonster "Barbarian Warrior" 1
 snow
 
-selectmonster "Ditanu"                                                      #  196
+selectmonster "Barbarian Swordsman" 0
 snow
 
-selectmonster "Malik"                                                       #  197
+selectmonster "Barbarian Swordsman" 1
 snow
 
-selectmonster "Watcher"                                                     #  198
+selectmonster "Barbarian Bowman" 0
 snow
 
-selectmonster "Nephil"                                                      #  199
+selectmonster "Barbarian Bowman" 1
 snow
 
-selectmonster "Large Spider Familiar"                                       #  200
+selectmonster "Barbarian Werebear" 0
 snow
 
-selectmonster "Small Spider"                                                #  201
+selectmonster "Barbarian Werebear" 1
 snow
 
-selectmonster "Large Spider"                                                #  202
+selectmonster "Barbarian Warrior" 0
 snow
 
-selectmonster "Giant Spider"                                                #  203
+selectmonster "Barbarian Warrior" 1
 snow
 
-selectmonster "Scorpion"                                                    #  204
+selectmonster "Mounted Scout" 0
 snow
 
-selectmonster "Giant Scorpion"                                              #  205
+selectmonster "Mounted Scout" 1
 snow
 
-selectmonster "Scorpion Beast"                                              #  206
+selectmonster "Elder Enarie" 0
 snow
 
-selectmonster "Mazzik"                                                      #  207
+selectmonster "Elder Enarie" 1
 snow
 
-selectmonster "Se'ir"                                                       #  208
+selectmonster "Enarie" 0
 snow
 
-selectmonster "Shed"                                                        #  209
+selectmonster "Enarie" 1
 snow
 
-selectmonster "Lilot"                                                       #  210
+selectmonster "Spirit Guide" 0
 snow
 
-selectmonster "Lammashta"                                                   #  211
+selectmonster "Spirit Guide" 1
 snow
 
-selectmonster "Manticore"                                                   #  212
+selectmonster "Soothsayer" 0
 snow
 
-selectmonster "Sirrush"                                                     #  213
+selectmonster "Soothsayer" 1
 snow
 
-selectmonster "Desert Sun"                                                  #  214
+selectmonster "Effigy" 0
 snow
 
-selectmonster "Scorpion Man"                                                #  215
+selectmonster "Effigy" 1
 snow
 
-selectmonster "Goetic Master"                                               #  216
+selectmonster "Thunder Totem" 0
 snow
 
-selectmonster "Demonologist"                                                #  217
+selectmonster "Thunder Totem" 1
 snow
 
-selectmonster "Cultist"                                                     #  218
+selectmonster "Beast Totem" 0
 snow
 
-selectmonster "Imp"                                                         #  219
+selectmonster "Beast Totem" 1
 snow
 
-selectmonster "Imp Familiar"                                                #  220
+selectmonster "Warrior Totem" 0
 snow
 
-selectmonster "Harlequin"                                                   #  221
+selectmonster "Warrior Totem" 1
 snow
 
-selectmonster "Shadow Imp"                                                  #  222
+selectmonster "Totem of Maladies" 0
 snow
 
-selectmonster "Fiery Imp"                                                   #  223
+selectmonster "Totem of Maladies" 1
 snow
 
-selectmonster "Ice Imp"                                                     #  224
+selectmonster "Wolf Tribe Shaman" 0
 snow
 
-selectmonster "Bone Imp"                                                    #  225
+selectmonster "Wolf Tribe Shaman" 1
 snow
 
-selectmonster "Imp Messenger"                                               #  226
+selectmonster "Wolf Tribe Warrior" 0
 snow
 
-selectmonster "Demonic Locust"                                              #  227
+selectmonster "Wolf Tribe Warrior" 1
 snow
 
-selectmonster "Serpent Fiend"                                               #  228
+selectmonster "Wolf Tribe Bowman" 0
 snow
 
-selectmonster "Lesser Demon"                                                #  229
+selectmonster "Wolf Tribe Bowman" 1
 snow
 
-selectmonster "Bone Devil"                                                  #  230
+selectmonster "Deer Tribe Shaman" 0
 snow
 
-selectmonster "Spine Devil"                                                 #  231
+selectmonster "Deer Tribe Shaman" 1
 snow
 
-selectmonster "Fiend of Darkness"                                           #  232
+selectmonster "Deer Tribe Warrior" 0
 snow
 
-selectmonster "Frost Fiend"                                                 #  233
+selectmonster "Deer Tribe Warrior" 1
 snow
 
-selectmonster "Bloodsworn"                                                  #  234
+selectmonster "Deer Tribe Bowman" 0
 snow
 
-selectmonster "Demon Knight"                                                #  235
+selectmonster "Deer Tribe Bowman" 1
 snow
 
-selectmonster "Disease Demon"                                               #  236
+selectmonster "Senator" 0
 snow
 
-selectmonster "Storm Demon"                                                 #  237
+selectmonster "Senator" 1
 snow
 
-selectmonster "Devil"                                                       #  238
+selectmonster "Emperor" 0
 snow
 
-selectmonster "Hellhound"                                                   #  239
+selectmonster "Emperor" 1
 snow
 
-selectmonster "Succubus"                                                    #  240
+selectmonster "Empress" 0
 snow
 
-selectmonster "Greater Demon"                                               #  241
+selectmonster "Empress" 1
 snow
 
-selectmonster "Ice Devil"                                                   #  242
+selectmonster "God Emperor" 0
 snow
 
-selectmonster "Greater Devil"                                               #  243
+selectmonster "God Emperor" 1
 snow
 
-selectmonster "Heliophagus"                                                 #  244
+selectmonster "God Empress" 0
 snow
 
-selectmonster "Demon Lord"                                                  #  245
+selectmonster "God Empress" 1
 snow
 
-selectmonster "Arch Devil"                                                  #  246
+selectmonster "Centurion" 0
 snow
 
-selectmonster "Duke of Hell"                                                #  247
+selectmonster "Centurion" 1
 snow
 
-selectmonster "Prince of Death"                                             #  248
+selectmonster "Leo" 0
 snow
 
-selectmonster "Goat Sun"                                                    #  249
+selectmonster "Leo" 1
 snow
 
-selectmonster "Monster of Fraud"                                            #  250
+selectmonster "Heliodromus" 0
 snow
 
-selectmonster "Lord of Corruption"                                          #  251
+selectmonster "Heliodromus" 1
 snow
 
-selectmonster "Captain"                                                     #  252
+selectmonster "Renata" 0
 snow
 
-selectmonster "Sinner"                                                      #  253
+selectmonster "Renata" 1
 snow
 
-selectmonster "Damned Merchant"                                             #  254
+selectmonster "Renatus" 0
 snow
 
-selectmonster "Damned Merchant"                                             #  255
+selectmonster "Renatus" 1
 snow
 
-selectmonster "Grand Necromancer"                                           #  256
+selectmonster "Serpent Acolyte" 0
 snow
 
-selectmonster "Necromancer"                                                 #  257
+selectmonster "Serpent Acolyte" 1
 snow
 
-selectmonster "Necromancer's Apprentice"                                    #  258
+selectmonster "Serpent Priest" 0
 snow
 
-selectmonster "Raven Familiar"                                              #  259
+selectmonster "Serpent Priest" 1
 snow
 
-selectmonster "Raven Spy"                                                   #  260
+selectmonster "Pontifex Serpentis" 0
 snow
 
-selectmonster "Longdead"                                                    #  261
+selectmonster "Pontifex Serpentis" 1
 snow
 
-selectmonster "Longdead"                                                    #  262
+selectmonster "Reveler" 0
 snow
 
-selectmonster "Longdead"                                                    #  263
+selectmonster "Reveler" 1
 snow
 
-selectmonster "Longdead"                                                    #  264
+selectmonster "Satyr" 0
 snow
 
-selectmonster "Longdead"                                                    #  265
+selectmonster "Satyr" 1
 snow
 
-selectmonster "Longdead"                                                    #  266
+selectmonster "Maenad" 0
 snow
 
-selectmonster "Longdead"                                                    #  267
+selectmonster "Maenad" 1
 snow
 
-selectmonster "Longdead"                                                    #  268
+selectmonster "Hamadryad" 0
 snow
 
-selectmonster "Longdead"                                                    #  269
+selectmonster "Hamadryad" 1
 snow
 
-selectmonster "Longdead"                                                    #  270
+selectmonster "Flamen" 0
 snow
 
-selectmonster "Armored Longdead"                                            #  271
+selectmonster "Flamen" 1
 snow
 
-selectmonster "Bane Fire Archer"                                            #  272
+selectmonster "Augur" 0
 snow
 
-selectmonster "Bane-Bones"                                                  #  273
+selectmonster "Augur" 1
 snow
 
-selectmonster "Mound King"                                                  #  274
+selectmonster "Veles" 0
 snow
 
-selectmonster "Longdead Velite"                                             #  275
+selectmonster "Veles" 1
 snow
 
-selectmonster "Longdead Hastatus"                                           #  276
+selectmonster "Hastatus" 0
 snow
 
-selectmonster "Longdead Principe"                                           #  277
+selectmonster "Hastatus" 1
 snow
 
-selectmonster "Longdead Triarius"                                           #  278
+selectmonster "Princeps" 0
 snow
 
-selectmonster "Soulless"                                                    #  279
+selectmonster "Princeps" 1
 snow
 
-selectmonster "Soulless Soldier"                                            #  280
+selectmonster "Triarius" 0
 snow
 
-selectmonster "Armored Soulless"                                            #  281
+selectmonster "Triarius" 1
 snow
 
-selectmonster "Mummy"                                                       #  282
+selectmonster "Standard" 0
 snow
 
-selectmonster "Ghoul"                                                       #  283
+selectmonster "Standard" 1
 snow
 
-selectmonster "Wight"                                                       #  284
+selectmonster "Gladiator" 0
 snow
 
-selectmonster "Bane"                                                        #  285
+selectmonster "Gladiator" 1
 snow
 
-selectmonster "Bane Lord"                                                   #  286
+selectmonster "Retiarius" 0
 snow
 
-selectmonster "Corpse Mage"                                                 #  287
+selectmonster "Retiarius" 1
 snow
 
-selectmonster "Wight Mage"                                                  #  288
+selectmonster "Praetorian Guard" 0
 snow
 
-selectmonster "Wight King"                                                  #  289
+selectmonster "Praetorian Guard" 1
 snow
 
-selectmonster "Ghost"                                                       #  290
+selectmonster "Princeps Solaris" 0
 snow
 
-selectmonster "Ghost Mage"                                                  #  291
+selectmonster "Princeps Solaris" 1
 snow
 
-selectmonster "Ghost King"                                                  #  292
+selectmonster "Imperial Statue" 0
 snow
 
-selectmonster "Ancestral Archer"                                            #  293
+selectmonster "Imperial Statue" 1
 snow
 
-selectmonster "Ancestral Warrior"                                           #  294
+selectmonster "War Elephant" 0
 snow
 
-selectmonster "Ghost Captain"                                               #  295
+selectmonster "War Elephant" 1
 snow
 
-selectmonster "Ghost Warrior"                                               #  296
+selectmonster "Fakir" 0
 snow
 
-selectmonster "Spectral Archer"                                             #  297
+selectmonster "Fakir" 1
 snow
 
-selectmonster "Spectral Horseman"                                           #  298
+selectmonster "Snake Charmer" 0
 snow
 
-selectmonster "Shade Beast"                                                 #  299
+selectmonster "Snake Charmer" 1
 snow
 
-selectmonster "Dire Wolf"                                                   #  300
+selectmonster "Rakshasa" 0
 snow
 
-selectmonster "Abomination"                                                 #  301
+selectmonster "Rakshasa" 1
 snow
 
-selectmonster "Wraith"                                                      #  302
+selectmonster "Winged Monkey" 0
 snow
 
-selectmonster "Wraith Lord"                                                 #  303
+selectmonster "Winged Monkey" 1
 snow
 
-selectmonster "Wraith King"                                                 #  304
+selectmonster "Mirror Image" 0
 snow
 
-selectmonster "Stygian Ghost"                                               #  305
+selectmonster "Mirror Image" 1
 snow
 
-selectmonster "Stygian King"                                                #  306
+selectmonster "Mirror Image" 0
 snow
 
-selectmonster "Unfinished Monument"                                         #  307
+selectmonster "Mirror Image" 1
 snow
 
-selectmonster "Monument of Hades"                                           #  308
+selectmonster "Mirror Image" 0
 snow
 
-selectmonster "Banshee"                                                     #  309
+selectmonster "Mirror Image" 1
 snow
 
-selectmonster "Carrion"                                                     #  310
+selectmonster "Pontiff" 0
 snow
 
-selectmonster "Death Knight"                                                #  311
+selectmonster "Pontiff" 1
 snow
 
-selectmonster "Vampire"                                                     #  312
+selectmonster "Cardinal" 0
 snow
 
-selectmonster "Vampire Count"                                               #  313
+selectmonster "Cardinal" 1
 snow
 
-selectmonster "Lich"                                                        #  314
+selectmonster "Arch Bishop" 0
 snow
 
-selectmonster "Demilich"                                                    #  315
+selectmonster "Arch Bishop" 1
 snow
 
-selectmonster "Dracolich"                                                   #  316
+selectmonster "Bishop" 0
 snow
 
-selectmonster "Tartarian Spirit"                                            #  317
+selectmonster "Bishop" 1
 snow
 
-selectmonster "Ziz"                                                         #  318
+selectmonster "Grand Master" 0
 snow
 
-selectmonster "Shade"                                                       #  319
+selectmonster "Grand Master" 1
 snow
 
-selectmonster "Shade Lord"                                                  #  320
+selectmonster "High Inquisitor" 0
 snow
 
-selectmonster "Shade Mage"                                                  #  321
+selectmonster "High Inquisitor" 1
 snow
 
-selectmonster "Dusk Elder"                                                  #  322
+selectmonster "Inquisitor" 0
 snow
 
-selectmonster "Dispossessed Spirit"                                         #  323
+selectmonster "Inquisitor" 1
 snow
 
-selectmonster "Ancestor Spirit"                                             #  324
+selectmonster "Saint" 0
 snow
 
-selectmonster "Ancestral Archer"                                            #  325
+selectmonster "Saint" 1
 snow
 
-selectmonster "Ancestral Warrior"                                           #  326
+selectmonster "Pilgrim" 0
 snow
 
-selectmonster "Ancestral Hero"                                              #  327
+selectmonster "Pilgrim" 1
 snow
 
-selectmonster "Ancestor Guide"                                              #  328
+selectmonster "Paladin" 0
 snow
 
-selectmonster "Ancestral Shaman"                                            #  329
+selectmonster "Paladin" 1
 snow
 
-selectmonster "Ancestral Chief"                                             #  330
+selectmonster "Paladin" 0
 snow
 
-selectmonster "Ancestral Lancer"                                            #  331
+selectmonster "Paladin" 1
 snow
 
-selectmonster "Wight Lord"                                                  #  332
+selectmonster "Paladin" 0
 snow
 
-selectmonster "Dust Walker"                                                 #  333
+selectmonster "Paladin" 1
 snow
 
-selectmonster "Dust King"                                                   #  334
+selectmonster "Templar" 0
 snow
 
-selectmonster "Dust Priest"                                                 #  335
+selectmonster "Templar" 1
 snow
 
-selectmonster "Unfrozen"                                                    #  336
+selectmonster "Temple Guard" 0
 snow
 
-selectmonster "Unfrozen Warrior"                                            #  337
+selectmonster "Temple Guard" 1
 snow
 
-selectmonster "Unfrozen Lord"                                               #  338
+selectmonster "Flagellant" 0
 snow
 
-selectmonster "Unfrozen Mage"                                               #  339
+selectmonster "Flagellant" 1
 snow
 
-selectmonster "Longdead Animal"                                             #  340
+selectmonster "Crusader" 0
 snow
 
-selectmonster "Longdead Beast"                                              #  341
+selectmonster "Crusader" 1
 snow
 
-selectmonster "Carrion Beast"                                               #  342
+selectmonster "Angel" 0
 snow
 
-selectmonster "Carrion Stalker"                                             #  343
+selectmonster "Angel" 1
 snow
 
-selectmonster "Carrion Manikin"                                             #  344
+selectmonster "Harbinger" 0
 snow
 
-selectmonster "Great Enchanter"                                             #  345
+selectmonster "Harbinger" 1
 snow
 
-selectmonster "Enchanter"                                                   #  346
+selectmonster "Arch Angel" 0
 snow
 
-selectmonster "Enchanter's Apprentice"                                      #  347
+selectmonster "Arch Angel" 1
 snow
 
-selectmonster "Terracotta Soldier"                                          #  348
+selectmonster "Seraph" 0
 snow
 
-selectmonster "Gargoyle"                                                    #  349
+selectmonster "Seraph" 1
 snow
 
-selectmonster "Animated Statue"                                             #  350
+selectmonster "Ophan" 0
 snow
 
-selectmonster "Guardian"                                                    #  351
+selectmonster "Ophan" 1
 snow
 
-selectmonster "Dancing Sword"                                               #  352
+selectmonster "Celestial Lion" 0
 snow
 
-selectmonster "Living Bow"                                                  #  353
+selectmonster "Celestial Lion" 1
 snow
 
-selectmonster "Animated Armor"                                              #  354
+selectmonster "Apocalyptic Rider" 0
 snow
 
-selectmonster "Necrotod"                                                    #  355
+selectmonster "Apocalyptic Rider" 1
 snow
 
-selectmonster "Flesh Golem"                                                 #  356
+selectmonster "Apocalyptic Rider" 0
 snow
 
-selectmonster "Wood Golem"                                                  #  357
+selectmonster "Apocalyptic Rider" 1
 snow
 
-selectmonster "Stone Golem"                                                 #  358
+selectmonster "Apocalyptic Rider" 0
 snow
 
-selectmonster "Iron Golem"                                                  #  359
+selectmonster "Apocalyptic Rider" 1
 snow
 
-selectmonster "Oak Golem"                                                   #  360
+selectmonster "Apocalyptic Rider" 0
 snow
 
-selectmonster "Ice Golem"                                                   #  361
+selectmonster "Apocalyptic Rider" 1
 snow
 
-selectmonster "Clay Golem"                                                  #  362
+selectmonster "God" 0
 snow
 
-selectmonster "Onyx Golem"                                                  #  363
+selectmonster "God" 1
 snow
 
-selectmonster "Crystal Golem"                                               #  364
+selectmonster "Anointed Priestess" 0
 snow
 
-selectmonster "Crystal"                                                     #  365
+selectmonster "Anointed Priestess" 1
 snow
 
-selectmonster "Silver Golem"                                                #  366
+selectmonster "High Priestess" 0
 snow
 
-selectmonster "Gold Golem"                                                  #  367
+selectmonster "High Priestess" 1
 snow
 
-selectmonster "Colossus"                                                    #  368
+selectmonster "Hierodule" 0
 snow
 
-selectmonster "Warlock's Apprentice"                                        #  369
+selectmonster "Hierodule" 1
 snow
 
-selectmonster "Warlock of Fire"                                             #  370
+selectmonster "Ba'alite Spearman" 0
 snow
 
-selectmonster "Great Warlock of Fire"                                       #  371
+selectmonster "Ba'alite Spearman" 1
 snow
 
-selectmonster "Warlock of Water"                                            #  372
+selectmonster "Ba'alite Archer" 0
 snow
 
-selectmonster "Great Warlock of Water"                                      #  373
+selectmonster "Ba'alite Archer" 1
 snow
 
-selectmonster "Warlock of Air"                                              #  374
+selectmonster "Ba'alite Zealot" 0
 snow
 
-selectmonster "Great Warlock of Air"                                        #  375
+selectmonster "Ba'alite Zealot" 1
 snow
 
-selectmonster "Warlock of Earth"                                            #  376
+selectmonster "Ba'alite Heavy Infantry" 0
 snow
 
-selectmonster "Great Warlock of Earth"                                      #  377
+selectmonster "Ba'alite Heavy Infantry" 1
 snow
 
-selectmonster "Fire Elemental"                                              #  378
+selectmonster "Gibbor" 0
 snow
 
-selectmonster "Lesser Fire"                                                 #  379
+selectmonster "Gibbor" 1
 snow
 
-selectmonster "Champion of Flames"                                          #  380
+selectmonster "Anakite" 0
 snow
 
-selectmonster "Phoenix"                                                     #  381
+selectmonster "Anakite" 1
 snow
 
-selectmonster "Salamander"                                                  #  382
+selectmonster "Anakite Captain" 0
 snow
 
-selectmonster "Flame Spirit"                                                #  383
+selectmonster "Anakite Captain" 1
 snow
 
-selectmonster "Wheel of Storm and Stone"                                    #  384
+selectmonster "Adon" 0
 snow
 
-selectmonster "Wheel of Frost and Flames"                                   #  385
+selectmonster "Adon" 1
 snow
 
-selectmonster "King of Fire"                                                #  386
+selectmonster "Zamzummite" 0
 snow
 
-selectmonster "Child of Catharsis"                                          #  387
+selectmonster "Zamzummite" 1
 snow
 
-selectmonster "King of Magma"                                               #  388
+selectmonster "Rephaite" 0
 snow
 
-selectmonster "Child of Rhuax"                                              #  389
+selectmonster "Rephaite" 1
 snow
 
-selectmonster "King of Flames"                                              #  390
+selectmonster "Melqart" 0
 snow
 
-selectmonster "Child of Pyriphlogos"                                        #  391
+selectmonster "Melqart" 1
 snow
 
-selectmonster "Fire Giant"                                                  #  392
+selectmonster "Ditanu" 0
 snow
 
-selectmonster "Fire Titan"                                                  #  393
+selectmonster "Ditanu" 1
 snow
 
-selectmonster "Air Elemental"                                               #  394
+selectmonster "Malik" 0
 snow
 
-selectmonster "Cloud Elemental"                                             #  395
+selectmonster "Malik" 1
 snow
 
-selectmonster "Champion of Storms"                                          #  396
+selectmonster "Watcher" 0
 snow
 
-selectmonster "Thunderbird"                                                 #  397
+selectmonster "Watcher" 1
 snow
 
-selectmonster "Sylph"                                                       #  398
+selectmonster "Nephil" 0
 snow
 
-selectmonster "Queen of Storms"                                             #  399
+selectmonster "Nephil" 1
 snow
 
-selectmonster "Child of Aella"                                              #  400
+selectmonster "Large Spider Familiar" 0
 snow
 
-selectmonster "Queen of Thunder"                                            #  401
+selectmonster "Large Spider Familiar" 1
 snow
 
-selectmonster "Child of Thuella"                                            #  402
+selectmonster "Small Spider" 0
 snow
 
-selectmonster "Queen of Clouds"                                             #  403
+selectmonster "Small Spider" 1
 snow
 
-selectmonster "Child of Nephele"                                            #  404
+selectmonster "Large Spider" 0
 snow
 
-selectmonster "Storm Giant"                                                 #  405
+selectmonster "Large Spider" 1
 snow
 
-selectmonster "Storm Titan"                                                 #  406
+selectmonster "Giant Spider" 0
 snow
 
-selectmonster "Water Elemental"                                             #  407
+selectmonster "Giant Spider" 1
 snow
 
-selectmonster "Lesser Water"                                                #  408
+selectmonster "Scorpion" 0
 snow
 
-selectmonster "Lake Troll King"                                             #  409
+selectmonster "Scorpion" 1
 snow
 
-selectmonster "Lake Troll Warrior"                                          #  410
+selectmonster "Giant Scorpion" 0
 snow
 
-selectmonster "Lake Troll"                                                  #  411
+selectmonster "Giant Scorpion" 1
 snow
 
-selectmonster "Champion of Waves"                                           #  412
+selectmonster "Scorpion Beast" 0
 snow
 
-selectmonster "Frost Drake"                                                 #  413
+selectmonster "Scorpion Beast" 1
 snow
 
-selectmonster "Yeti"                                                        #  414
+selectmonster "Mazzik" 0
 snow
 
-selectmonster "Winter Wolf"                                                 #  415
+selectmonster "Mazzik" 1
 snow
 
-selectmonster "Undine"                                                      #  416
+selectmonster "Se'ir" 0
 snow
 
-selectmonster "Queen of the Sea"                                            #  417
+selectmonster "Se'ir" 1
 snow
 
-selectmonster "Child of Thalassa"                                           #  418
+selectmonster "Shed" 0
 snow
 
-selectmonster "Queen of the Lake"                                           #  419
+selectmonster "Shed" 1
 snow
 
-selectmonster "Child of Limne"                                              #  420
+selectmonster "Lilot" 0
 snow
 
-selectmonster "Queen of the Deeps"                                          #  421
+selectmonster "Lilot" 1
 snow
 
-selectmonster "Child of Bathusma"                                           #  422
+selectmonster "Lammashta" 0
 snow
 
-selectmonster "Frost Giant"                                                 #  423
+selectmonster "Lammashta" 1
 snow
 
-selectmonster "Frost Titan"                                                 #  424
+selectmonster "Manticore" 0
 snow
 
-selectmonster "Sea Giant"                                                   #  425
+selectmonster "Manticore" 1
 snow
 
-selectmonster "Sea Titan"                                                   #  426
+selectmonster "Sirrush" 0
 snow
 
-selectmonster "Earth Elemental"                                             #  427
+selectmonster "Sirrush" 1
 snow
 
-selectmonster "Lesser Earth"                                                #  428
+selectmonster "Desert Sun" 0
 snow
 
-selectmonster "Champion of Mountains"                                       #  429
+selectmonster "Desert Sun" 1
 snow
 
-selectmonster "Stone Drake"                                                 #  430
+selectmonster "Scorpion Man" 0
 snow
 
-selectmonster "Purple Worm"                                                 #  431
+selectmonster "Scorpion Man" 1
 snow
 
-selectmonster "Earth Gnome"                                                 #  432
+selectmonster "Goetic Master" 0
 snow
 
-selectmonster "King of Mountains"                                           #  433
+selectmonster "Goetic Master" 1
 snow
 
-selectmonster "Child of Oreigenes"                                          #  434
+selectmonster "Demonologist" 0
 snow
 
-selectmonster "King of Deeper Earth"                                        #  435
+selectmonster "Demonologist" 1
 snow
 
-selectmonster "Child of Barathrus"                                          #  436
+selectmonster "Cultist" 0
 snow
 
-selectmonster "King of Earth"                                               #  437
+selectmonster "Cultist" 1
 snow
 
-selectmonster "Child of Pedoseion"                                          #  438
+selectmonster "Imp" 0
 snow
 
-selectmonster "Mountain Giant"                                              #  439
+selectmonster "Imp" 1
 snow
 
-selectmonster "Chtonian Titan"                                              #  440
+selectmonster "Imp Familiar" 0
 snow
 
-selectmonster "Hag"                                                         #  441
+selectmonster "Imp Familiar" 1
 snow
 
-selectmonster "Witch"                                                       #  442
+selectmonster "Harlequin" 0
 snow
 
-selectmonster "Witch's Apprentice"                                          #  443
+selectmonster "Harlequin" 1
 snow
 
-selectmonster "Bog Witch"                                                   #  444
+selectmonster "Shadow Imp" 0
 snow
 
-selectmonster "Black Cat Familiar"                                          #  445
+selectmonster "Shadow Imp" 1
 snow
 
-selectmonster "Frog Familiar"                                               #  446
+selectmonster "Fiery Imp" 0
 snow
 
-selectmonster "Frog"                                                        #  447
+selectmonster "Fiery Imp" 1
 snow
 
-selectmonster "Dragonfly"                                                   #  448
+selectmonster "Ice Imp" 0
 snow
 
-selectmonster "Monster Toad"                                                #  449
+selectmonster "Ice Imp" 1
 snow
 
-selectmonster "Giant Toad"                                                  #  450
+selectmonster "Bone Imp" 0
 snow
 
-selectmonster "Giant Snail"                                                 #  451
+selectmonster "Bone Imp" 1
 snow
 
-selectmonster "Crocodile"                                                   #  452
+selectmonster "Imp Messenger" 0
 snow
 
-selectmonster "Giant Crocodile"                                             #  453
+selectmonster "Imp Messenger" 1
 snow
 
-selectmonster "Marsh Worm"                                                  #  454
+selectmonster "Demonic Locust" 0
 snow
 
-selectmonster "Swamp Thing"                                                 #  455
+selectmonster "Demonic Locust" 1
 snow
 
-selectmonster "Slime Mold"                                                  #  456
+selectmonster "Serpent Fiend" 0
 snow
 
-selectmonster "Swamp Monster"                                               #  457
+selectmonster "Serpent Fiend" 1
 snow
 
-selectmonster "Bog Beast"                                                   #  458
+selectmonster "Lesser Demon" 0
 snow
 
-selectmonster "Swamp Ghost"                                                 #  459
+selectmonster "Lesser Demon" 1
 snow
 
-selectmonster "Gelatinous Cube"                                             #  460
+selectmonster "Bone Devil" 0
 snow
 
-selectmonster "Swamp Drake"                                                 #  461
+selectmonster "Bone Devil" 1
 snow
 
-selectmonster "Rootmonster"                                                 #  462
+selectmonster "Spine Devil" 0
 snow
 
-selectmonster "Creeping Doom"                                               #  463
+selectmonster "Spine Devil" 1
 snow
 
-selectmonster "Will o'the Wisp"                                             #  464
+selectmonster "Fiend of Darkness" 0
 snow
 
-selectmonster "Ancient Presence"                                            #  465
+selectmonster "Fiend of Darkness" 1
 snow
 
-selectmonster "Swamp God"                                                   #  466
+selectmonster "Frost Fiend" 0
 snow
 
-selectmonster "Wyrm"                                                        #  467
+selectmonster "Frost Fiend" 1
 snow
 
-selectmonster "Ancient Hydra"                                               #  468
+selectmonster "Bloodsworn" 0
 snow
 
-selectmonster "Ancient Hydra"                                               #  469
+selectmonster "Bloodsworn" 1
 snow
 
-selectmonster "Ancient Hydra"                                               #  470
+selectmonster "Demon Knight" 0
 snow
 
-selectmonster "Ancient Hydra"                                               #  471
+selectmonster "Demon Knight" 1
 snow
 
-selectmonster "Ancient Hydra"                                               #  472
+selectmonster "Disease Demon" 0
 snow
 
-selectmonster "Ancient Hydra"                                               #  473
+selectmonster "Disease Demon" 1
 snow
 
-selectmonster "Ancient Hydra"                                               #  474
+selectmonster "Storm Demon" 0
 snow
 
-selectmonster "Ancient Hydra"                                               #  475
+selectmonster "Storm Demon" 1
 snow
 
-selectmonster "Hydra"                                                       #  476
+selectmonster "Devil" 0
 snow
 
-selectmonster "Hydra"                                                       #  477
+selectmonster "Devil" 1
 snow
 
-selectmonster "Hydra"                                                       #  478
+selectmonster "Hellhound" 0
 snow
 
-selectmonster "Hydra"                                                       #  479
+selectmonster "Hellhound" 1
 snow
 
-selectmonster "Hydra"                                                       #  480
+selectmonster "Succubus" 0
 snow
 
-selectmonster "Hydra Hatchling"                                             #  481
+selectmonster "Succubus" 1
 snow
 
-selectmonster "Hydra Hatchling"                                             #  482
+selectmonster "Greater Demon" 0
 snow
 
-selectmonster "Hydra Hatchling"                                             #  483
+selectmonster "Greater Demon" 1
 snow
 
-selectmonster "Catoblepas"                                                  #  484
+selectmonster "Ice Devil" 0
 snow
 
-selectmonster "Dracolion"                                                   #  485
+selectmonster "Ice Devil" 1
 snow
 
-selectmonster "Mother of Monsters"                                          #  486
+selectmonster "Greater Devil" 0
 snow
 
-selectmonster "Medusa"                                                      #  487
+selectmonster "Greater Devil" 1
 snow
 
-selectmonster "Gorgon"                                                      #  488
+selectmonster "Heliophagus" 0
 snow
 
-selectmonster "Erinye"                                                      #  489
+selectmonster "Heliophagus" 1
 snow
 
-selectmonster "Manflayer"                                                   #  490
+selectmonster "Demon Lord" 0
 snow
 
-selectmonster "Androphag Lord"                                              #  491
+selectmonster "Demon Lord" 1
 snow
 
-selectmonster "Androphag Cavalry"                                           #  492
+selectmonster "Arch Devil" 0
 snow
 
-selectmonster "Androphag Spearman"                                          #  493
+selectmonster "Arch Devil" 1
 snow
 
-selectmonster "Androphag Archer"                                            #  494
+selectmonster "Duke of Hell" 0
 snow
 
-selectmonster "Doppelganger"                                                #  495
+selectmonster "Duke of Hell" 1
 snow
 
-selectmonster "Doppel Spawn"                                                #  496
+selectmonster "Prince of Death" 0
 snow
 
-selectmonster "Androphag Spearman"                                          #  497
+selectmonster "Prince of Death" 1
 snow
 
-selectmonster "Doppelganger Captain"                                        #  498
+selectmonster "Goat Sun" 0
 snow
 
-selectmonster "Doppel Spawn"                                                #  499
+selectmonster "Goat Sun" 1
 snow
 
-selectmonster "Androphag Archer"                                            #  500
+selectmonster "Monster of Fraud" 0
 snow
 
-selectmonster "Elder Druid"                                                 #  501
+selectmonster "Monster of Fraud" 1
 snow
 
-selectmonster "Druid"                                                       #  502
+selectmonster "Lord of Corruption" 0
 snow
 
-selectmonster "Druid's Apprentice"                                          #  503
+selectmonster "Lord of Corruption" 1
 snow
 
-selectmonster "Vergobret"                                                   #  504
+selectmonster "Captain" 0
 snow
 
-selectmonster "Gutuater"                                                    #  505
+selectmonster "Captain" 1
 snow
 
-selectmonster "Barechested Scout"                                           #  506
+selectmonster "Sinner" 0
 snow
 
-selectmonster "Barechested Warrior"                                         #  507
+selectmonster "Sinner" 1
 snow
 
-selectmonster "Barechested Slinger"                                         #  508
+selectmonster "Damned Merchant" 0
 snow
 
-selectmonster "Barechested Swordsman"                                       #  509
+selectmonster "Damned Merchant" 1
 snow
 
-selectmonster "Hornblower"                                                  #  510
+selectmonster "Damned Merchant" 0
 snow
 
-selectmonster "Chieftain"                                                   #  511
+selectmonster "Damned Merchant" 1
 snow
 
-selectmonster "Boar Warrior"                                                #  512
+selectmonster "Grand Necromancer" 0
 snow
 
-selectmonster "Beast Cavalry"                                               #  513
+selectmonster "Grand Necromancer" 1
 snow
 
-selectmonster "Snake Familiar"                                              #  514
+selectmonster "Necromancer" 0
 snow
 
-selectmonster "Rabbit Familiar"                                             #  515
+selectmonster "Necromancer" 1
 snow
 
-selectmonster "Wolf"                                                        #  516
+selectmonster "Necromancer's Apprentice" 0
 snow
 
-selectmonster "Deer"                                                        #  517
+selectmonster "Necromancer's Apprentice" 1
 snow
 
-selectmonster "Rabbit"                                                      #  518
+selectmonster "Raven Familiar" 0
 snow
 
-selectmonster "Murder Of Crows"                                             #  519
+selectmonster "Raven Familiar" 1
 snow
 
-selectmonster "Messenger Crows"                                             #  520
+selectmonster "Raven Spy" 0
 snow
 
-selectmonster "Moose"                                                       #  521
+selectmonster "Raven Spy" 1
 snow
 
-selectmonster "Giant Moose"                                                 #  522
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Bear"                                                        #  523
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Serpent"                                                     #  524
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Snake"                                                       #  525
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Beetle"                                                      #  526
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Fire Ant"                                                    #  527
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Giant Ant"                                                   #  528
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Giant Mantis"                                                #  529
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Monkey"                                                      #  530
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Ape"                                                         #  531
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Great Ape"                                                   #  532
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Lion"                                                        #  533
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Tiger"                                                       #  534
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Elephant"                                                    #  535
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Goat"                                                        #  536
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Donkey"                                                      #  537
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Horse"                                                       #  538
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Camel"                                                       #  539
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Dog"                                                         #  540
+selectmonster "Longdead" 0
 snow
 
-selectmonster "Boar"                                                        #  541
+selectmonster "Longdead" 1
 snow
 
-selectmonster "Great Boar"                                                  #  542
+selectmonster "Armored Longdead" 0
 snow
 
-selectmonster "Monster Boar"                                                #  543
+selectmonster "Armored Longdead" 1
 snow
 
-selectmonster "Sacred Moose"                                                #  544
+selectmonster "Bane Fire Archer" 0
 snow
 
-selectmonster "Leogryph"                                                    #  545
+selectmonster "Bane Fire Archer" 1
 snow
 
-selectmonster "Wyvern"                                                      #  546
+selectmonster "Bane-Bones" 0
 snow
 
-selectmonster "Amphiptere"                                                  #  547
+selectmonster "Bane-Bones" 1
 snow
 
-selectmonster "Nymph"                                                       #  548
+selectmonster "Mound King" 0
 snow
 
-selectmonster "Gryphon"                                                     #  549
+selectmonster "Mound King" 1
 snow
 
-selectmonster "Sphinx"                                                      #  550
+selectmonster "Longdead Velite" 0
 snow
 
-selectmonster "Chimaera"                                                    #  551
+selectmonster "Longdead Velite" 1
 snow
 
-selectmonster "Cockatrice"                                                  #  552
+selectmonster "Longdead Hastatus" 0
 snow
 
-selectmonster "Roc"                                                         #  553
+selectmonster "Longdead Hastatus" 1
 snow
 
-selectmonster "Beholder"                                                    #  554
+selectmonster "Longdead Principe" 0
 snow
 
-selectmonster "Beholder"                                                    #  555
+selectmonster "Longdead Principe" 1
 snow
 
-selectmonster "Elder Beholder"                                              #  556
+selectmonster "Longdead Triarius" 0
 snow
 
-selectmonster "Eye Tyrant"                                                  #  557
+selectmonster "Longdead Triarius" 1
 snow
 
-selectmonster "Horned God"                                                  #  558
+selectmonster "Soulless" 0
 snow
 
-selectmonster "Lord of the Hunt"                                            #  559
+selectmonster "Soulless" 1
 snow
 
-selectmonster "Monster Fish"                                                #  560
+selectmonster "Soulless Soldier" 0
 snow
 
-selectmonster "Monster of the Deep"                                         #  561
+selectmonster "Soulless Soldier" 1
 snow
 
-selectmonster "Asp Turtle"                                                  #  562
+selectmonster "Armored Soulless" 0
 snow
 
-selectmonster "Lobster"                                                     #  563
+selectmonster "Armored Soulless" 1
 snow
 
-selectmonster "Giant Crab"                                                  #  564
+selectmonster "Mummy" 0
 snow
 
-selectmonster "Small Shark"                                                 #  565
+selectmonster "Mummy" 1
 snow
 
-selectmonster "Great Shark"                                                 #  566
+selectmonster "Ghoul" 0
 snow
 
-selectmonster "Ichtyid Raider"                                              #  567
+selectmonster "Ghoul" 1
 snow
 
-selectmonster "Ichtyid Warrior"                                             #  568
+selectmonster "Wight" 0
 snow
 
-selectmonster "Ichtyid Captain"                                             #  569
+selectmonster "Wight" 1
 snow
 
-selectmonster "Bishop Fish"                                                 #  570
+selectmonster "Bane" 0
 snow
 
-selectmonster "Triton"                                                      #  571
+selectmonster "Bane" 1
 snow
 
-selectmonster "Triton"                                                      #  572
+selectmonster "Bane Lord" 0
 snow
 
-selectmonster "Triton Trooper"                                              #  573
+selectmonster "Bane Lord" 1
 snow
 
-selectmonster "Triton King"                                                 #  574
+selectmonster "Corpse Mage" 0
 snow
 
-selectmonster "Siren"                                                       #  575
+selectmonster "Corpse Mage" 1
 snow
 
-selectmonster "Siren"                                                       #  576
+selectmonster "Wight Mage" 0
 snow
 
-selectmonster "Hippocampus"                                                 #  577
+selectmonster "Wight Mage" 1
 snow
 
-selectmonster "Sea Stag"                                                    #  578
+selectmonster "Wight King" 0
 snow
 
-selectmonster "Sea Dog"                                                     #  579
+selectmonster "Wight King" 1
 snow
 
-selectmonster "Leocampus"                                                   #  580
+selectmonster "Ghost" 0
 snow
 
-selectmonster "Kraken"                                                      #  581
+selectmonster "Ghost" 1
 snow
 
-selectmonster "Giant Jellyfish"                                             #  582
+selectmonster "Ghost Mage" 0
 snow
 
-selectmonster "Sea Dragon"                                                  #  583
+selectmonster "Ghost Mage" 1
 snow
 
-selectmonster "Venus Trap"                                                  #  584
+selectmonster "Ghost King" 0
 snow
 
-selectmonster "Woodman"                                                     #  585
+selectmonster "Ghost King" 1
 snow
 
-selectmonster "Forest Shepherd"                                             #  586
+selectmonster "Ancestral Archer" 0
 snow
 
-selectmonster "Ivy King"                                                    #  587
+selectmonster "Ancestral Archer" 1
 snow
 
-selectmonster "Ent"                                                         #  588
+selectmonster "Ancestral Warrior" 0
 snow
 
-selectmonster "Giant Mushroom"                                              #  589
+selectmonster "Ancestral Warrior" 1
 snow
 
-selectmonster "Blue Giant"                                                  #  590
+selectmonster "Ghost Captain" 0
 snow
 
-selectmonster "Death Fungus"                                                #  591
+selectmonster "Ghost Captain" 1
 snow
 
-selectmonster "Blood Fungus"                                                #  592
+selectmonster "Ghost Warrior" 0
 snow
 
-selectmonster "Devil Fungus"                                                #  593
+selectmonster "Ghost Warrior" 1
 snow
 
-selectmonster "Snow Fungus"                                                 #  594
+selectmonster "Spectral Archer" 0
 snow
 
-selectmonster "Shadow Tree"                                                 #  595
+selectmonster "Spectral Archer" 1
 snow
 
-selectmonster "Tree of Crows"                                               #  596
+selectmonster "Spectral Horseman" 0
 snow
 
-selectmonster "Heart of the Forest"                                         #  597
+selectmonster "Spectral Horseman" 1
 snow
 
-selectmonster "Tree"                                                        #  598
+selectmonster "Shade Beast" 0
 snow
 
-selectmonster "High Cultist"                                                #  599
+selectmonster "Shade Beast" 1
 snow
 
-selectmonster "Cultist of the Deep"                                         #  600
+selectmonster "Dire Wolf" 0
 snow
 
-selectmonster "Hybrid Cultist"                                              #  601
+selectmonster "Dire Wolf" 1
 snow
 
-selectmonster "Star Child"                                                  #  602
+selectmonster "Abomination" 0
 snow
 
-selectmonster "Insane Fisherman"                                            #  603
+selectmonster "Abomination" 1
 snow
 
-selectmonster "Hybrid Fisherman"                                            #  604
+selectmonster "Wraith" 0
 snow
 
-selectmonster "Hybrid Spearman"                                             #  605
+selectmonster "Wraith" 1
 snow
 
-selectmonster "Hybrid Soldier"                                              #  606
+selectmonster "Wraith Lord" 0
 snow
 
-selectmonster "Angler Spawn"                                                #  607
+selectmonster "Wraith Lord" 1
 snow
 
-selectmonster "Angler of the Depths"                                        #  608
+selectmonster "Wraith King" 0
 snow
 
-selectmonster "Pillar of the Depths"                                        #  609
+selectmonster "Wraith King" 1
 snow
 
-selectmonster "Basalt Queen"                                                #  610
+selectmonster "Stygian Ghost" 0
 snow
 
-selectmonster "Basalt King"                                                 #  611
+selectmonster "Stygian Ghost" 1
 snow
 
-selectmonster "Deep One"                                                    #  612
+selectmonster "Stygian King" 0
 snow
 
-selectmonster "Deep One Warrior"                                            #  613
+selectmonster "Stygian King" 1
 snow
 
-selectmonster "Shambler"                                                    #  614
+selectmonster "Unfinished Monument" 0
 snow
 
-selectmonster "War Shambler"                                                #  615
+selectmonster "Unfinished Monument" 1
 snow
 
-selectmonster "Shambler Prince"                                             #  616
+selectmonster "Monument of Hades" 0
 snow
 
-selectmonster "Starspawn"                                                   #  617
+selectmonster "Monument of Hades" 1
 snow
 
-selectmonster "Elder Starspawn"                                             #  618
+selectmonster "Banshee" 0
 snow
 
-selectmonster "Angler Queen"                                                #  619
+selectmonster "Banshee" 1
 snow
 
-selectmonster "Void Lord"                                                   #  620
+selectmonster "Carrion" 0
 snow
 
-selectmonster "Master Illusionist"                                          #  621
+selectmonster "Carrion" 1
 snow
 
-selectmonster "Illusionist"                                                 #  622
+selectmonster "Death Knight" 0
 snow
 
-selectmonster "Illusionist's Apprentice"                                    #  623
+selectmonster "Death Knight" 1
 snow
 
-selectmonster "Floating Eye"                                                #  624
+selectmonster "Vampire" 0
 snow
 
-selectmonster "Mirror"                                                      #  625
+selectmonster "Vampire" 1
 snow
 
-selectmonster "Silver Mirror"                                               #  626
+selectmonster "Vampire Count" 0
 snow
 
-selectmonster "Large Mirror"                                                #  627
+selectmonster "Vampire Count" 1
 snow
 
-selectmonster "Golden Mirror"                                               #  628
+selectmonster "Lich" 0
 snow
 
-selectmonster "Soldier Mirror"                                              #  629
+selectmonster "Lich" 1
 snow
 
-selectmonster "Animal Mirror"                                               #  630
+selectmonster "Demilich" 0
 snow
 
-selectmonster "Mirror of Dread"                                             #  631
+selectmonster "Demilich" 1
 snow
 
-selectmonster "Mirror of Confusion"                                         #  632
+selectmonster "Dracolich" 0
 snow
 
-selectmonster "Mirror of Many Colors"                                       #  633
+selectmonster "Dracolich" 1
 snow
 
-selectmonster "Silver Soldier Mirror"                                       #  634
+selectmonster "Tartarian Spirit" 0
 snow
 
-selectmonster "Silver Animal Mirror"                                        #  635
+selectmonster "Tartarian Spirit" 1
 snow
 
-selectmonster "Silver Mirror of Dread"                                      #  636
+selectmonster "Ziz" 0
 snow
 
-selectmonster "Silver Mirror of Confusion"                                  #  637
+selectmonster "Ziz" 1
 snow
 
-selectmonster "Silver Mirror of Many Colors"                                #  638
+selectmonster "Shade" 0
 snow
 
-selectmonster "Large Soldier Mirror"                                        #  639
+selectmonster "Shade" 1
 snow
 
-selectmonster "Large Animal Mirror"                                         #  640
+selectmonster "Shade Lord" 0
 snow
 
-selectmonster "Large Unearthly Mirror"                                      #  641
+selectmonster "Shade Lord" 1
 snow
 
-selectmonster "Large Swarm Mirror"                                          #  642
+selectmonster "Shade Mage" 0
 snow
 
-selectmonster "Large Monster Mirror"                                        #  643
+selectmonster "Shade Mage" 1
 snow
 
-selectmonster "Large Mirror of Dread"                                       #  644
+selectmonster "Dusk Elder" 0
 snow
 
-selectmonster "Large Mirror of Confusion"                                   #  645
+selectmonster "Dusk Elder" 1
 snow
 
-selectmonster "Large Mirror of Many Colors"                                 #  646
+selectmonster "Dispossessed Spirit" 0
 snow
 
-selectmonster "Golden Soldier Mirror"                                       #  647
+selectmonster "Dispossessed Spirit" 1
 snow
 
-selectmonster "Golden Animal Mirror"                                        #  648
+selectmonster "Ancestor Spirit" 0
 snow
 
-selectmonster "Golden Unearthly Mirror"                                     #  649
+selectmonster "Ancestor Spirit" 1
 snow
 
-selectmonster "Golden Swarm Mirror"                                         #  650
+selectmonster "Ancestral Archer" 0
 snow
 
-selectmonster "Golden Monster Mirror"                                       #  651
+selectmonster "Ancestral Archer" 1
 snow
 
-selectmonster "Golden Mirror of Dread"                                      #  652
+selectmonster "Ancestral Warrior" 0
 snow
 
-selectmonster "Golden Mirror of Confusion"                                  #  653
+selectmonster "Ancestral Warrior" 1
 snow
 
-selectmonster "Golden Mirror of Many Colors"                                #  654
+selectmonster "Ancestral Hero" 0
 snow
 
-selectmonster "Archer Illusion"                                             #  655
+selectmonster "Ancestral Hero" 1
 snow
 
-selectmonster "Spearman Illusion"                                           #  656
+selectmonster "Ancestor Guide" 0
 snow
 
-selectmonster "Swordsman Illusion"                                          #  657
+selectmonster "Ancestor Guide" 1
 snow
 
-selectmonster "Halberdier Illusion"                                         #  658
+selectmonster "Ancestral Shaman" 0
 snow
 
-selectmonster "Pikeneer Illusion"                                           #  659
+selectmonster "Ancestral Shaman" 1
 snow
 
-selectmonster "Zweihander Illusion"                                         #  660
+selectmonster "Ancestral Chief" 0
 snow
 
-selectmonster "Captain Illusion"                                            #  661
+selectmonster "Ancestral Chief" 1
 snow
 
-selectmonster "Knight Illusion"                                             #  662
+selectmonster "Ancestral Lancer" 0
 snow
 
-selectmonster "Wolf Illusion"                                               #  663
+selectmonster "Ancestral Lancer" 1
 snow
 
-selectmonster "Deer Illusion"                                               #  664
+selectmonster "Wight Lord" 0
 snow
 
-selectmonster "Moose Illusion"                                              #  665
+selectmonster "Wight Lord" 1
 snow
 
-selectmonster "Bear Illusion"                                               #  666
+selectmonster "Dust Walker" 0
 snow
 
-selectmonster "Boar Illusion"                                               #  667
+selectmonster "Dust Walker" 1
 snow
 
-selectmonster "Lion Illusion"                                               #  668
+selectmonster "Dust King" 0
 snow
 
-selectmonster "Fiend Illusion"                                              #  669
+selectmonster "Dust King" 1
 snow
 
-selectmonster "Demon Illusion"                                              #  670
+selectmonster "Dust Priest" 0
 snow
 
-selectmonster "Devil Illusion"                                              #  671
+selectmonster "Dust Priest" 1
 snow
 
-selectmonster "Greater Devil Illusion"                                      #  672
+selectmonster "Unfrozen" 0
 snow
 
-selectmonster "Angel Illusion"                                              #  673
+selectmonster "Unfrozen" 1
 snow
 
-selectmonster "Arch Angel Illusion"                                         #  674
+selectmonster "Unfrozen Warrior" 0
 snow
 
-selectmonster "Horror Illusion"                                             #  675
+selectmonster "Unfrozen Warrior" 1
 snow
 
-selectmonster "Great Horror Illusion"                                       #  676
+selectmonster "Unfrozen Lord" 0
 snow
 
-selectmonster "Insect Illusion"                                             #  677
+selectmonster "Unfrozen Lord" 1
 snow
 
-selectmonster "Bug Illusion"                                                #  678
+selectmonster "Unfrozen Mage" 0
 snow
 
-selectmonster "Ant Illusion"                                                #  679
+selectmonster "Unfrozen Mage" 1
 snow
 
-selectmonster "Cat Illusion"                                                #  680
+selectmonster "Longdead Animal" 0
 snow
 
-selectmonster "Rabbit Illusion"                                             #  681
+selectmonster "Longdead Animal" 1
 snow
 
-selectmonster "Frog Illusion"                                               #  682
+selectmonster "Longdead Beast" 0
 snow
 
-selectmonster "Snake Illusion"                                              #  683
+selectmonster "Longdead Beast" 1
 snow
 
-selectmonster "Troll Illusion"                                              #  684
+selectmonster "Carrion Beast" 0
 snow
 
-selectmonster "Giant Illusion"                                              #  685
+selectmonster "Carrion Beast" 1
 snow
 
-selectmonster "Drake Illusion"                                              #  686
+selectmonster "Carrion Stalker" 0
 snow
 
-selectmonster "Monster Illusion"                                            #  687
+selectmonster "Carrion Stalker" 1
 snow
 
-selectmonster "Hydra Illusion"                                              #  688
+selectmonster "Carrion Manikin" 0
 snow
 
-selectmonster "Chimaera Illusion"                                           #  689
+selectmonster "Carrion Manikin" 1
 snow
 
-selectmonster "Manticore Illusion"                                          #  690
+selectmonster "Great Enchanter" 0
 snow
 
-selectmonster "Dragon Illusion"                                             #  691
+selectmonster "Great Enchanter" 1
 snow
 
-selectmonster "Sirrush Illusion"                                            #  692
+selectmonster "Enchanter" 0
 snow
 
-selectmonster "Roc Illusion"                                                #  693
+selectmonster "Enchanter" 1
 snow
 
-selectmonster "Beholder Illusion"                                           #  694
+selectmonster "Enchanter's Apprentice" 0
 snow
 
-selectmonster "Phantasmal Archer"                                           #  695
+selectmonster "Enchanter's Apprentice" 1
 snow
 
-selectmonster "Phantasmal Spearman"                                         #  696
+selectmonster "Terracotta Soldier" 0
 snow
 
-selectmonster "Phantasmal Swordsman"                                        #  697
+selectmonster "Terracotta Soldier" 1
 snow
 
-selectmonster "Phantasmal Halberdier"                                       #  698
+selectmonster "Gargoyle" 0
 snow
 
-selectmonster "Phantasmal Pikeneer"                                         #  699
+selectmonster "Gargoyle" 1
 snow
 
-selectmonster "Phantasmal Zweihander"                                       #  700
+selectmonster "Animated Statue" 0
 snow
 
-selectmonster "Phantasmal Captain"                                          #  701
+selectmonster "Animated Statue" 1
 snow
 
-selectmonster "Phantasmal Knight"                                           #  702
+selectmonster "Guardian" 0
 snow
 
-selectmonster "Phantasmal Wolf"                                             #  703
+selectmonster "Guardian" 1
 snow
 
-selectmonster "Phantasmal Deer"                                             #  704
+selectmonster "Dancing Sword" 0
 snow
 
-selectmonster "Phantasmal Moose"                                            #  705
+selectmonster "Dancing Sword" 1
 snow
 
-selectmonster "Phantasmal Bear"                                             #  706
+selectmonster "Living Bow" 0
 snow
 
-selectmonster "Phantasmal Boar"                                             #  707
+selectmonster "Living Bow" 1
 snow
 
-selectmonster "Phantasmal Lion"                                             #  708
+selectmonster "Animated Armor" 0
 snow
 
-selectmonster "Phantasmal Fiend"                                            #  709
+selectmonster "Animated Armor" 1
 snow
 
-selectmonster "Phantasmal Demon"                                            #  710
+selectmonster "Necrotod" 0
 snow
 
-selectmonster "Phantasmal Devil"                                            #  711
+selectmonster "Necrotod" 1
 snow
 
-selectmonster "Phantasmal Greater Devil"                                    #  712
+selectmonster "Flesh Golem" 0
 snow
 
-selectmonster "Phantasmal Angel"                                            #  713
+selectmonster "Flesh Golem" 1
 snow
 
-selectmonster "Phantasmal Arch Angel"                                       #  714
+selectmonster "Wood Golem" 0
 snow
 
-selectmonster "Phantasmal Horror"                                           #  715
+selectmonster "Wood Golem" 1
 snow
 
-selectmonster "Phantasmal Great Horror"                                     #  716
+selectmonster "Stone Golem" 0
 snow
 
-selectmonster "Phantasmal Insect"                                           #  717
+selectmonster "Stone Golem" 1
 snow
 
-selectmonster "Phantasmal Bug"                                              #  718
+selectmonster "Iron Golem" 0
 snow
 
-selectmonster "Phantasmal Ant"                                              #  719
+selectmonster "Iron Golem" 1
 snow
 
-selectmonster "Phantasmal Cat"                                              #  720
+selectmonster "Oak Golem" 0
 snow
 
-selectmonster "Phantasmal Rabbit"                                           #  721
+selectmonster "Oak Golem" 1
 snow
 
-selectmonster "Phantasmal Frog"                                             #  722
+selectmonster "Ice Golem" 0
 snow
 
-selectmonster "Phantasmal Snake"                                            #  723
+selectmonster "Ice Golem" 1
 snow
 
-selectmonster "Phantasmal Troll"                                            #  724
+selectmonster "Clay Golem" 0
 snow
 
-selectmonster "Phantasmal Giant"                                            #  725
+selectmonster "Clay Golem" 1
 snow
 
-selectmonster "Phantasmal Drake"                                            #  726
+selectmonster "Onyx Golem" 0
 snow
 
-selectmonster "Phantasmal Monster"                                          #  727
+selectmonster "Onyx Golem" 1
 snow
 
-selectmonster "Phantasmal Hydra"                                            #  728
+selectmonster "Crystal Golem" 0
 snow
 
-selectmonster "Phantasmal Chimaera"                                         #  729
+selectmonster "Crystal Golem" 1
 snow
 
-selectmonster "Phantasmal Manticore"                                        #  730
+selectmonster "Crystal" 0
 snow
 
-selectmonster "Phantasmal Dragon"                                           #  731
+selectmonster "Crystal" 1
 snow
 
-selectmonster "Phantasmal Sirrush"                                          #  732
+selectmonster "Silver Golem" 0
 snow
 
-selectmonster "Phantasmal Roc"                                              #  733
+selectmonster "Silver Golem" 1
 snow
 
-selectmonster "Phantasmal Beholder"                                         #  734
+selectmonster "Gold Golem" 0
 snow
 
-selectmonster "Phase Spider"                                                #  735
+selectmonster "Gold Golem" 1
 snow
 
-selectmonster "Displacer Beast"                                             #  736
+selectmonster "Colossus" 0
 snow
 
-selectmonster "Ether Warrior"                                               #  737
+selectmonster "Colossus" 1
 snow
 
-selectmonster "Ether Lord"                                                  #  738
+selectmonster "Warlock's Apprentice" 0
 snow
 
-selectmonster "Horror Mantis"                                               #  739
+selectmonster "Warlock's Apprentice" 1
 snow
 
-selectmonster "Float Cat Horror"                                            #  740
+selectmonster "Warlock of Fire" 0
 snow
 
-selectmonster "Spine Membrane Horror"                                       #  741
+selectmonster "Warlock of Fire" 1
 snow
 
-selectmonster "Soultorn"                                                    #  742
+selectmonster "Great Warlock of Fire" 0
 snow
 
-selectmonster "Brass Claw Horror"                                           #  743
+selectmonster "Great Warlock of Fire" 1
 snow
 
-selectmonster "Mind Slime Horror"                                           #  744
+selectmonster "Warlock of Water" 0
 snow
 
-selectmonster "Gore Tide Horror"                                            #  745
+selectmonster "Warlock of Water" 1
 snow
 
-selectmonster "Moon Horror"                                                 #  746
+selectmonster "Great Warlock of Water" 0
 snow
 
-selectmonster "Dream Horror"                                                #  747
+selectmonster "Great Warlock of Water" 1
 snow
 
-selectmonster "Horror Olm"                                                  #  748
+selectmonster "Warlock of Air" 0
 snow
 
-selectmonster "Maker of Ruins"                                              #  749
+selectmonster "Warlock of Air" 1
 snow
 
-selectmonster "Slave to Unreason"                                           #  750
+selectmonster "Great Warlock of Air" 0
 snow
 
-selectmonster "Hunter of Gods"                                              #  751
+selectmonster "Great Warlock of Air" 1
 snow
 
-selectmonster "Hunter of Gods"                                              #  752
+selectmonster "Warlock of Earth" 0
 snow
 
-selectmonster "Hunter of Gods"                                              #  753
+selectmonster "Warlock of Earth" 1
 snow
 
-selectmonster "Young Dvala"                                                 #  754
+selectmonster "Great Warlock of Earth" 0
 snow
 
-selectmonster "Dvala"                                                       #  755
+selectmonster "Great Warlock of Earth" 1
 snow
 
-selectmonster "Daughter of Dvalin"                                          #  756
+selectmonster "Fire Elemental" 0
 snow
 
-selectmonster "Dwarf Worker"                                                #  757
+selectmonster "Fire Elemental" 1
 snow
 
-selectmonster "Rune Smith"                                                  #  758
+selectmonster "Lesser Fire" 0
 snow
 
-selectmonster "Elder Rune Smith"                                            #  759
+selectmonster "Lesser Fire" 1
 snow
 
-selectmonster "Outdoor Dwarf"                                               #  760
+selectmonster "Champion of Flames" 0
 snow
 
-selectmonster "Dwarf Arbalest"                                              #  761
+selectmonster "Champion of Flames" 1
 snow
 
-selectmonster "Dwarf"                                                       #  762
+selectmonster "Phoenix" 0
 snow
 
-selectmonster "Dwarf Warrior"                                               #  763
+selectmonster "Phoenix" 1
 snow
 
-selectmonster "Dwarf Guard"                                                 #  764
+selectmonster "Salamander" 0
 snow
 
-selectmonster "Dwarf Commander"                                             #  765
+selectmonster "Salamander" 1
 snow
 
-selectmonster "Queen's Councilor"                                           #  766
+selectmonster "Flame Spirit" 0
 snow
 
-selectmonster "Dwarven Ballista"                                            #  767
+selectmonster "Flame Spirit" 1
 snow
 
-selectmonster "Rime Warrior"                                                #  768
+selectmonster "Wheel of Storm and Stone" 0
 snow
 
-selectmonster "Rime Guard"                                                  #  769
+selectmonster "Wheel of Storm and Stone" 1
 snow
 
-selectmonster "Rime Brand Warrior"                                          #  770
+selectmonster "Wheel of Frost and Flames" 0
 snow
 
-selectmonster "Rime Brand Guard"                                            #  771
+selectmonster "Wheel of Frost and Flames" 1
 snow
 
-selectmonster "Rime Branded Arbalest"                                       #  772
+selectmonster "King of Fire" 0
 snow
 
-selectmonster "Rime Branded Ballista"                                       #  773
+selectmonster "King of Fire" 1
 snow
 
-selectmonster "Furnace Warrior"                                             #  774
+selectmonster "Child of Catharsis" 0
 snow
 
-selectmonster "Furnace Guard"                                               #  775
+selectmonster "Child of Catharsis" 1
 snow
 
-selectmonster "Flame Brand Warrior"                                         #  776
+selectmonster "King of Magma" 0
 snow
 
-selectmonster "Flame Brand Guard"                                           #  777
+selectmonster "King of Magma" 1
 snow
 
-selectmonster "Flame Branded Arbalest"                                      #  778
+selectmonster "Child of Rhuax" 0
 snow
 
-selectmonster "Flame Branded Ballista"                                      #  779
+selectmonster "Child of Rhuax" 1
 snow
 
-selectmonster "Dvalin's Warrior"                                            #  780
+selectmonster "King of Flames" 0
 snow
 
-selectmonster "Council Guard"                                               #  781
+selectmonster "King of Flames" 1
 snow
 
-selectmonster "Dvalin's Best"                                               #  782
+selectmonster "Child of Pyriphlogos" 0
 snow
 
-selectmonster "Queen's Guard"                                               #  783
+selectmonster "Child of Pyriphlogos" 1
 snow
 
-selectmonster "Defender of the Halls"                                       #  784
+selectmonster "Fire Giant" 0
 snow
 
-selectmonster "Earth Branded Ballista"                                      #  785
+selectmonster "Fire Giant" 1
 snow
 
-selectmonster "Chosen of Dvalin"                                            #  786
+selectmonster "Fire Titan" 0
 snow
 
-selectmonster "Chosen of Dvalin"                                            #  787
+selectmonster "Fire Titan" 1
 snow
 
-selectmonster "Troll King"                                                  #  788
+selectmonster "Air Elemental" 0
 snow
 
-selectmonster "Troll"                                                       #  789
+selectmonster "Air Elemental" 1
 snow
 
-selectmonster "Forest Troll"                                                #  790
+selectmonster "Cloud Elemental" 0
 snow
 
-selectmonster "Rock Troll"                                                  #  791
+selectmonster "Cloud Elemental" 1
 snow
 
-selectmonster "Old Troll"                                                   #  792
+selectmonster "Champion of Storms" 0
 snow
 
-selectmonster "Ancient Troll"                                               #  793
+selectmonster "Champion of Storms" 1
 snow
 
-selectmonster "Troll Shaman"                                                #  794
+selectmonster "Thunderbird" 0
 snow
 
-selectmonster "Troll Witch Doctor"                                          #  795
+selectmonster "Thunderbird" 1
 snow
 
-selectmonster "Elder Troll Shaman"                                          #  796
+selectmonster "Sylph" 0
 snow
 
-selectmonster "Forest Giant"                                                #  797
+selectmonster "Sylph" 1
 snow
 
-selectmonster "Hill Giant"                                                  #  798
+selectmonster "Queen of Storms" 0
 snow
 
-selectmonster "Ettin"                                                       #  799
+selectmonster "Queen of Storms" 1
 snow
 
-selectmonster "Ogre"                                                        #  800
+selectmonster "Child of Aella" 0
 snow
 
-selectmonster "Ogre Chief"                                                  #  801
+selectmonster "Child of Aella" 1
 snow
 
-selectmonster "Goblin King"                                                 #  802
+selectmonster "Queen of Thunder" 0
 snow
 
-selectmonster "Goblin Hero"                                                 #  803
+selectmonster "Queen of Thunder" 1
 snow
 
-selectmonster "Wolf Kin Reaver"                                             #  804
+selectmonster "Child of Thuella" 0
 snow
 
-selectmonster "Goblin Chieftain"                                            #  805
+selectmonster "Child of Thuella" 1
 snow
 
-selectmonster "Goblin"                                                      #  806
+selectmonster "Queen of Clouds" 0
 snow
 
-selectmonster "Goblin Spearman"                                             #  807
+selectmonster "Queen of Clouds" 1
 snow
 
-selectmonster "Goblin Archer"                                               #  808
+selectmonster "Child of Nephele" 0
 snow
 
-selectmonster "Goblin Shaman"                                               #  809
+selectmonster "Child of Nephele" 1
 snow
 
-selectmonster "Goblin Witch Doctor"                                         #  810
+selectmonster "Storm Giant" 0
 snow
 
-selectmonster "Wolf Kin"                                                    #  811
+selectmonster "Storm Giant" 1
 snow
 
-selectmonster "Goblin Murderer"                                             #  812
+selectmonster "Storm Titan" 0
 snow
 
-selectmonster "Elder Dragon"                                                #  813
+selectmonster "Storm Titan" 1
 snow
 
-selectmonster "Dragon"                                                      #  814
+selectmonster "Water Elemental" 0
 snow
 
-selectmonster "Dragon Hatchling"                                            #  815
+selectmonster "Water Elemental" 1
 snow
 
-selectmonster "King Of The Deep"                                            #  816
+selectmonster "Lesser Water" 0
 snow
 
-selectmonster "Pale One"                                                    #  817
+selectmonster "Lesser Water" 1
 snow
 
-selectmonster "Pale One Scout"                                              #  818
+selectmonster "Lake Troll King" 0
 snow
 
-selectmonster "Pale One Soldier"                                            #  819
+selectmonster "Lake Troll King" 1
 snow
 
-selectmonster "Cavern Guard"                                                #  820
+selectmonster "Lake Troll Warrior" 0
 snow
 
-selectmonster "Pale One Commander"                                          #  821
+selectmonster "Lake Troll Warrior" 1
 snow
 
-selectmonster "Ancient Commander"                                           #  822
+selectmonster "Lake Troll" 0
 snow
 
-selectmonster "Ancient Pale One"                                            #  823
+selectmonster "Lake Troll" 1
 snow
 
-selectmonster "Seal Guard"                                                  #  824
+selectmonster "Champion of Waves" 0
 snow
 
-selectmonster "Ancient Hurler"                                              #  825
+selectmonster "Champion of Waves" 1
 snow
 
-selectmonster "Earth Reader"                                                #  826
+selectmonster "Frost Drake" 0
 snow
 
-selectmonster "Earth Mind"                                                  #  827
+selectmonster "Frost Drake" 1
 snow
 
-selectmonster "Oracle of Subterranean Fires"                                #  828
+selectmonster "Yeti" 0
 snow
 
-selectmonster "Oracle of Rhuax"                                             #  829
+selectmonster "Yeti" 1
 snow
 
-selectmonster "Oracle of Subterranean Waters"                               #  830
+selectmonster "Winter Wolf" 0
 snow
 
-selectmonster "Oracle of Apsu"                                              #  831
+selectmonster "Winter Wolf" 1
 snow
 
-selectmonster "Oracle of the Dead"                                          #  832
+selectmonster "Undine" 0
 snow
 
-selectmonster "Oracle of Allatu"                                            #  833
+selectmonster "Undine" 1
 snow
 
-selectmonster "Troglodyte"                                                  #  834
+selectmonster "Queen of the Sea" 0
 snow
 
-selectmonster "Penumbral"                                                   #  835
+selectmonster "Queen of the Sea" 1
 snow
 
-selectmonster "Umbral"                                                      #  836
+selectmonster "Child of Thalassa" 0
 snow
 
-selectmonster "Sentinel"                                                    #  837
+selectmonster "Child of Thalassa" 1
 snow
 
-selectmonster "Granite Guardian"                                            #  838
+selectmonster "Queen of the Lake" 0
 snow
 
-selectmonster "Marble Oracle"                                               #  839
+selectmonster "Queen of the Lake" 1
 snow
 
-selectmonster "Onyx Oracle"                                                 #  840
+selectmonster "Child of Limne" 0
 snow
 
-selectmonster "Cavern Wight"                                                #  841
+selectmonster "Child of Limne" 1
 snow
 
-selectmonster "Sepulchral"                                                  #  842
+selectmonster "Queen of the Deeps" 0
 snow
 
-selectmonster "Tomb Oracle"                                                 #  843
+selectmonster "Queen of the Deeps" 1
 snow
 
-selectmonster "Olm"                                                         #  844
+selectmonster "Child of Bathusma" 0
 snow
 
-selectmonster "Olm Sage"                                                    #  845
+selectmonster "Child of Bathusma" 1
 snow
 
-selectmonster "Olm Farseer"                                                 #  846
+selectmonster "Frost Giant" 0
 snow
 
-selectmonster "Cave Grub"                                                   #  847
+selectmonster "Frost Giant" 1
 snow
 
-selectmonster "Cave Cow"                                                    #  848
+selectmonster "Frost Titan" 0
 snow
 
-selectmonster "Magma Child"                                                 #  849
+selectmonster "Frost Titan" 1
 snow
 
-selectmonster "God Vessel"                                                  #  850
+selectmonster "Sea Giant" 0
 snow
 
-selectmonster "God Vessel"                                                  #  851
+selectmonster "Sea Giant" 1
 snow
 
-selectmonster "Penumbral"                                                   #  852
+selectmonster "Sea Titan" 0
 snow
 
-selectmonster "God Vessel"                                                  #  853
+selectmonster "Sea Titan" 1
 snow
 
-selectmonster "Legion of Gods"                                              #  854
+selectmonster "Earth Elemental" 0
 snow
 
-selectmonster "Dai Bakemono"                                                #  855
+selectmonster "Earth Elemental" 1
 snow
 
-selectmonster "Bakemono General"                                            #  856
+selectmonster "Lesser Earth" 0
 snow
 
-selectmonster "Dai Bakemono Archer"                                         #  857
+selectmonster "Lesser Earth" 1
 snow
 
-selectmonster "Bakemono Sorceror"                                           #  858
+selectmonster "Champion of Mountains" 0
 snow
 
-selectmonster "Bakemono Great Sorceror"                                     #  859
+selectmonster "Champion of Mountains" 1
 snow
 
-selectmonster "Bakemono Kunshu"                                             #  860
+selectmonster "Stone Drake" 0
 snow
 
-selectmonster "Bakemono O Kunshu"                                           #  861
+selectmonster "Stone Drake" 1
 snow
 
-selectmonster "O Bakemono"                                                  #  862
+selectmonster "Purple Worm" 0
 snow
 
-selectmonster "Bakemono Sho"                                                #  863
+selectmonster "Purple Worm" 1
 snow
 
-selectmonster "Bakemono Spearman"                                           #  864
+selectmonster "Earth Gnome" 0
 snow
 
-selectmonster "Bakemono Bowman"                                             #  865
+selectmonster "Earth Gnome" 1
 snow
 
-selectmonster "Bakemono Soldier"                                            #  866
+selectmonster "King of Mountains" 0
 snow
 
-selectmonster "Bakemono Swordsman"                                          #  867
+selectmonster "King of Mountains" 1
 snow
 
-selectmonster "Bakemono Archer"                                             #  868
+selectmonster "Child of Oreigenes" 0
 snow
 
-selectmonster "Bakemono Shaman"                                             #  869
+selectmonster "Child of Oreigenes" 1
 snow
 
-selectmonster "Bakemono Witch Doctor"                                       #  870
+selectmonster "King of Deeper Earth" 0
 snow
 
-selectmonster "Shuten Doji"                                                 #  871
+selectmonster "King of Deeper Earth" 1
 snow
 
-selectmonster "Uba"                                                         #  872
+selectmonster "Child of Barathrus" 0
 snow
 
-selectmonster "Ghost Cat"                                                   #  873
+selectmonster "Child of Barathrus" 1
 snow
 
-selectmonster "Kappa"                                                       #  874
+selectmonster "King of Earth" 0
 snow
 
-selectmonster "Kappa Shaman"                                                #  875
+selectmonster "King of Earth" 1
 snow
 
-selectmonster "Mezu"                                                        #  876
+selectmonster "Child of Pedoseion" 0
 snow
 
-selectmonster "Gozu"                                                        #  877
+selectmonster "Child of Pedoseion" 1
 snow
 
-selectmonster "Karasu Tengu"                                                #  878
+selectmonster "Mountain Giant" 0
 snow
 
-selectmonster "Konoha Tengu"                                                #  879
+selectmonster "Mountain Giant" 1
 snow
 
-selectmonster "Tengu Warrior"                                               #  880
+selectmonster "Chtonian Titan" 0
 snow
 
-selectmonster "Dai Tengu"                                                   #  881
+selectmonster "Chtonian Titan" 1
 snow
 
-selectmonster "Tengu Weapon Master"                                         #  882
+selectmonster "Hag" 0
 snow
 
-selectmonster "Mujina"                                                      #  883
+selectmonster "Hag" 1
 snow
 
-selectmonster "Shikome"                                                     #  884
+selectmonster "Witch" 0
 snow
 
-selectmonster "Kitsune"                                                     #  885
+selectmonster "Witch" 1
 snow
 
-selectmonster "Fox Spirit"                                                  #  886
+selectmonster "Witch's Apprentice" 0
 snow
 
-selectmonster "Nushi"                                                       #  887
+selectmonster "Witch's Apprentice" 1
 snow
 
-selectmonster "Hannya"                                                      #  888
+selectmonster "Bog Witch" 0
 snow
 
-selectmonster "Ao Oni"                                                      #  889
+selectmonster "Bog Witch" 1
 snow
 
-selectmonster "Spectral Oni"                                                #  890
+selectmonster "Black Cat Familiar" 0
 snow
 
-selectmonster "Aka Oni"                                                     #  891
+selectmonster "Black Cat Familiar" 1
 snow
 
-selectmonster "Spectral Oni"                                                #  892
+selectmonster "Frog Familiar" 0
 snow
 
-selectmonster "Kuro Oni"                                                    #  893
+selectmonster "Frog Familiar" 1
 snow
 
-selectmonster "Spectral Oni General"                                        #  894
+selectmonster "Frog" 0
 snow
 
-selectmonster "Dai Oni"                                                     #  895
+selectmonster "Frog" 1
 snow
 
-selectmonster "Spectral Oni King"                                           #  896
+selectmonster "Dragonfly" 0
 snow
 
-selectmonster "Burgmeister"                                                 #  897
+selectmonster "Dragonfly" 1
 snow
 
-selectmonster "Horticulturist"                                              #  898
+selectmonster "Monster Toad" 0
 snow
 
-selectmonster "Garden Master"                                               #  899
+selectmonster "Monster Toad" 1
 snow
 
-selectmonster "Horologist"                                                  #  900
+selectmonster "Giant Toad" 0
 snow
 
-selectmonster "Clockwork Master Crafter"                                    #  901
+selectmonster "Giant Toad" 1
 snow
 
-selectmonster "Hoburg Militia"                                              #  902
+selectmonster "Giant Snail" 0
 snow
 
-selectmonster "Hoburg Slinger"                                              #  903
+selectmonster "Giant Snail" 1
 snow
 
-selectmonster "Hoburg Soldier"                                              #  904
+selectmonster "Crocodile" 0
 snow
 
-selectmonster "Hoburg Defender"                                             #  905
+selectmonster "Crocodile" 1
 snow
 
-selectmonster "Hoburg Crossbow"                                             #  906
+selectmonster "Giant Crocodile" 0
 snow
 
-selectmonster "Hoburg Pikeneer"                                             #  907
+selectmonster "Giant Crocodile" 1
 snow
 
-selectmonster "Burgmeister Guard"                                           #  908
+selectmonster "Marsh Worm" 0
 snow
 
-selectmonster "Hog Knight"                                                  #  909
+selectmonster "Marsh Worm" 1
 snow
 
-selectmonster "Hogmeister"                                                  #  910
+selectmonster "Swamp Thing" 0
 snow
 
-selectmonster "Ruby Clockwork Soldier"                                      #  911
+selectmonster "Swamp Thing" 1
 snow
 
-selectmonster "Sapphire Clockwork Soldier"                                  #  912
+selectmonster "Slime Mold" 0
 snow
 
-selectmonster "Diamond Clockwork Soldier"                                   #  913
+selectmonster "Slime Mold" 1
 snow
 
-selectmonster "Emerald Clockwork Soldier"                                   #  914
+selectmonster "Swamp Monster" 0
 snow
 
-selectmonster "Ruby Clockwork Horror"                                       #  915
+selectmonster "Swamp Monster" 1
 snow
 
-selectmonster "Sapphire Clockwork Horror"                                   #  916
+selectmonster "Bog Beast" 0
 snow
 
-selectmonster "Diamond Clockwork Horror"                                    #  917
+selectmonster "Bog Beast" 1
 snow
 
-selectmonster "Emerald Clockwork Horror"                                    #  918
+selectmonster "Swamp Ghost" 0
 snow
 
-selectmonster "Ruby Iron Dragon"                                            #  919
+selectmonster "Swamp Ghost" 1
 snow
 
-selectmonster "Sapphire Iron Dragon"                                        #  920
+selectmonster "Gelatinous Cube" 0
 snow
 
-selectmonster "Diamond Iron Dragon"                                         #  921
+selectmonster "Gelatinous Cube" 1
 snow
 
-selectmonster "Emerald Iron Dragon"                                         #  922
+selectmonster "Swamp Drake" 0
 snow
 
-selectmonster "Iron Spider"                                                 #  923
+selectmonster "Swamp Drake" 1
 snow
 
-selectmonster "Iron Fly"                                                    #  924
+selectmonster "Rootmonster" 0
 snow
 
-selectmonster "Iron Ant"                                                    #  925
+selectmonster "Rootmonster" 1
 snow
 
-selectmonster "Iron Scorpion"                                               #  926
+selectmonster "Creeping Doom" 0
 snow
 
-selectmonster "Markgraf"                                                    #  927
+selectmonster "Creeping Doom" 1
 snow
 
-selectmonster "Malefic Markgraf"                                            #  928
+selectmonster "Will o'the Wisp" 0
 snow
 
-selectmonster "Malefic Master"                                              #  929
+selectmonster "Will o'the Wisp" 1
 snow
 
-selectmonster "Malefic Markmeister"                                         #  930
+selectmonster "Ancient Presence" 0
 snow
 
-selectmonster "Ghoul Baron"                                                 #  931
+selectmonster "Ancient Presence" 1
 snow
 
-selectmonster "Ghoulgraf"                                                   #  932
+selectmonster "Swamp God" 0
 snow
 
-selectmonster "Nekromant"                                                   #  933
+selectmonster "Swamp God" 1
 snow
 
-selectmonster "Grand Nekromant"                                             #  934
+selectmonster "Wyrm" 0
 snow
 
-selectmonster "Corpse Nekromant"                                            #  935
+selectmonster "Wyrm" 1
 snow
 
-selectmonster "Wight Nekromant"                                             #  936
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Small Ghost"                                                 #  937
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Ghost Nekromant"                                             #  938
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Hoburg Thrall"                                               #  939
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Hobmark Soldier"                                             #  940
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Hobmark Defender"                                            #  941
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Hobmark Crossbow"                                            #  942
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Hobmark Hammerer"                                            #  943
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Hobmark Pikeneer"                                            #  944
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Markgraf Guard"                                              #  945
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Hog Hussar"                                                  #  946
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Markmeister"                                                 #  947
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Little Longdead"                                             #  948
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Little Longdead"                                             #  949
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Little Longdead"                                             #  950
+selectmonster "Ancient Hydra" 0
 snow
 
-selectmonster "Little Soulless"                                             #  951
+selectmonster "Ancient Hydra" 1
 snow
 
-selectmonster "Little Ghoul"                                                #  952
+selectmonster "Hydra" 0
 snow
 
-selectmonster "Ghoul Guardian"                                              #  953
+selectmonster "Hydra" 1
 snow
 
-selectmonster "Councilor"                                                   #  954
+selectmonster "Hydra" 0
 snow
 
-selectmonster "Werewolf"                                                    #  955
+selectmonster "Hydra" 1
 snow
 
-selectmonster "Spearman"                                                    #  956
+selectmonster "Hydra" 0
 snow
 
-selectmonster "Werebear"                                                    #  957
+selectmonster "Hydra" 1
 snow
 
-selectmonster "Levy"                                                        #  958
+selectmonster "Hydra" 0
 snow
 
-selectmonster "Minotaur"                                                    #  959
+selectmonster "Hydra" 1
 snow
 
-selectmonster "Witch Doctor"                                                #  960
+selectmonster "Hydra" 0
 snow
 
-selectmonster "Tribal Queen"                                                #  961
+selectmonster "Hydra" 1
 snow
 
-selectmonster "Lion King"                                                   #  962
+selectmonster "Hydra Hatchling" 0
 snow
 
-selectmonster "Lion Tribe Warrior"                                          #  963
+selectmonster "Hydra Hatchling" 1
 snow
 
-selectmonster "Hyena Tribe Warrior"                                         #  964
+selectmonster "Hydra Hatchling" 0
 snow
 
-selectmonster "Pygmy"                                                       #  965
+selectmonster "Hydra Hatchling" 1
 snow
 
-selectmonster "Crystal Sorceress"                                           #  966
+selectmonster "Hydra Hatchling" 0
 snow
 
-selectmonster "Crystal Priestess"                                           #  967
+selectmonster "Hydra Hatchling" 1
 snow
 
-selectmonster "Crystal Amazon"                                              #  968
+selectmonster "Catoblepas" 0
 snow
 
-selectmonster "Garnet Sorceress"                                            #  969
+selectmonster "Catoblepas" 1
 snow
 
-selectmonster "Garnet Priestess"                                            #  970
+selectmonster "Dracolion" 0
 snow
 
-selectmonster "Garnet Amazon"                                               #  971
+selectmonster "Dracolion" 1
 snow
 
-selectmonster "Jade Sorceress"                                              #  972
+selectmonster "Mother of Monsters" 0
 snow
 
-selectmonster "Jade Priestess"                                              #  973
+selectmonster "Mother of Monsters" 1
 snow
 
-selectmonster "Jade Amazon"                                                 #  974
+selectmonster "Medusa" 0
 snow
 
-selectmonster "Onyx Sorceress"                                              #  975
+selectmonster "Medusa" 1
 snow
 
-selectmonster "Onyx Priestess"                                              #  976
+selectmonster "Gorgon" 0
 snow
 
-selectmonster "Onyx Amazon"                                                 #  977
+selectmonster "Gorgon" 1
 snow
 
-selectmonster "Nahualli"                                                    #  978
+selectmonster "Erinye" 0
 snow
 
-selectmonster "Old Nahualli"                                                #  979
+selectmonster "Erinye" 1
 snow
 
-selectmonster "Smoking Mirror"                                              #  980
+selectmonster "Manflayer" 0
 snow
 
-selectmonster "Sun Temple Attendant"                                        #  981
+selectmonster "Manflayer" 1
 snow
 
-selectmonster "Priest King"                                                 #  982
+selectmonster "Androphag Lord" 0
 snow
 
-selectmonster "High Priest of the Sun"                                      #  983
+selectmonster "Androphag Lord" 1
 snow
 
-selectmonster "Blood Temple Attendant"                                      #  984
+selectmonster "Androphag Cavalry" 0
 snow
 
-selectmonster "Priest of the Bloody Mother"                                 #  985
+selectmonster "Androphag Cavalry" 1
 snow
 
-selectmonster "High Priest of the Bloody Mother"                            #  986
+selectmonster "Androphag Spearman" 0
 snow
 
-selectmonster "Sky Temple Attendant"                                        #  987
+selectmonster "Androphag Spearman" 1
 snow
 
-selectmonster "Sky Priest"                                                  #  988
+selectmonster "Androphag Archer" 0
 snow
 
-selectmonster "High Priest of the Sky"                                      #  989
+selectmonster "Androphag Archer" 1
 snow
 
-selectmonster "Rain Temple Attendant"                                       #  990
+selectmonster "Doppelganger" 0
 snow
 
-selectmonster "Rain Priest"                                                 #  991
+selectmonster "Doppelganger" 1
 snow
 
-selectmonster "High Priest of the Rain"                                     #  992
+selectmonster "Doppel Spawn" 0
 snow
 
-selectmonster "Moon Temple Attendant"                                       #  993
+selectmonster "Doppel Spawn" 1
 snow
 
-selectmonster "Moon Priest"                                                 #  994
+selectmonster "Androphag Spearman" 0
 snow
 
-selectmonster "High Priest of the Night"                                    #  995
+selectmonster "Androphag Spearman" 1
 snow
 
-selectmonster "Death Temple Attendant"                                      #  996
+selectmonster "Doppelganger Captain" 0
 snow
 
-selectmonster "Priest of the Dead"                                          #  997
+selectmonster "Doppelganger Captain" 1
 snow
 
-selectmonster "High Priest of the Dead"                                     #  998
+selectmonster "Doppel Spawn" 0
 snow
 
-selectmonster "Tribal King"                                                 #  999
+selectmonster "Doppel Spawn" 1
 snow
 
-selectmonster "Slave"                                                       # 1000
+selectmonster "Androphag Archer" 0
 snow
 
-selectmonster "Tribal Warrior"                                              # 1001
+selectmonster "Androphag Archer" 1
 snow
 
-selectmonster "Jungle Warrior"                                              # 1002
+selectmonster "Elder Druid" 0
 snow
 
-selectmonster "Feathered Warrior"                                           # 1003
+selectmonster "Elder Druid" 1
 snow
 
-selectmonster "Jaguar Warrior"                                              # 1004
+selectmonster "Druid" 0
 snow
 
-selectmonster "Eagle Warrior"                                               # 1005
+selectmonster "Druid" 1
 snow
 
-selectmonster "Moon Warrior"                                                # 1006
+selectmonster "Druid's Apprentice" 0
 snow
 
-selectmonster "Sun Warrior"                                                 # 1007
+selectmonster "Druid's Apprentice" 1
 snow
 
-selectmonster "Jaguar"                                                      # 1008
+selectmonster "Vergobret" 0
 snow
 
-selectmonster "Ozelotl"                                                     # 1009
+selectmonster "Vergobret" 1
 snow
 
-selectmonster "Balam"                                                       # 1010
+selectmonster "Gutuater" 0
 snow
 
-selectmonster "Teotl of War"                                                # 1011
+selectmonster "Gutuater" 1
 snow
 
-selectmonster "Tlahuelpuchi"                                                # 1012
+selectmonster "Barechested Scout" 0
 snow
 
-selectmonster "Plumed Serpent"                                              # 1013
+selectmonster "Barechested Scout" 1
 snow
 
-selectmonster "Teteo Inan"                                                  # 1014
+selectmonster "Barechested Warrior" 0
 snow
 
-selectmonster "Turkey Spirit Double"                                        # 1015
+selectmonster "Barechested Warrior" 1
 snow
 
-selectmonster "Coatl"                                                       # 1016
+selectmonster "Barechested Slinger" 0
 snow
 
-selectmonster "Great Macaw"                                                 # 1017
+selectmonster "Barechested Slinger" 1
 snow
 
-selectmonster "Chaac of the East"                                           # 1018
+selectmonster "Barechested Swordsman" 0
 snow
 
-selectmonster "Chaac of the South"                                          # 1019
+selectmonster "Barechested Swordsman" 1
 snow
 
-selectmonster "Chaac of the West"                                           # 1020
+selectmonster "Hornblower" 0
 snow
 
-selectmonster "Chaac of the North"                                          # 1021
+selectmonster "Hornblower" 1
 snow
 
-selectmonster "Teotl of the Sky"                                            # 1022
+selectmonster "Chieftain" 0
 snow
 
-selectmonster "Toad Warrior"                                                # 1023
+selectmonster "Chieftain" 1
 snow
 
-selectmonster "Toad Warrior"                                                # 1024
+selectmonster "Boar Warrior" 0
 snow
 
-selectmonster "Rain Warrior"                                                # 1025
+selectmonster "Boar Warrior" 1
 snow
 
-selectmonster "Toad Priest"                                                 # 1026
+selectmonster "Beast Cavalry" 0
 snow
 
-selectmonster "King of Rain"                                                # 1027
+selectmonster "Beast Cavalry" 1
 snow
 
-selectmonster "Tlaloque of the East"                                        # 1028
+selectmonster "Snake Familiar" 0
 snow
 
-selectmonster "Tlaloque of the South"                                       # 1029
+selectmonster "Snake Familiar" 1
 snow
 
-selectmonster "Tlaloque of the West"                                        # 1030
+selectmonster "Rabbit Familiar" 0
 snow
 
-selectmonster "Tlaloque of the North"                                       # 1031
+selectmonster "Rabbit Familiar" 1
 snow
 
-selectmonster "Teotl of Rain"                                               # 1032
+selectmonster "Wolf" 0
 snow
 
-selectmonster "Beast Bat"                                                   # 1033
+selectmonster "Wolf" 1
 snow
 
-selectmonster "Tzitzimitl"                                                  # 1034
+selectmonster "Deer" 0
 snow
 
-selectmonster "Onaqui"                                                      # 1035
+selectmonster "Deer" 1
 snow
 
-selectmonster "Teotl of the Night"                                          # 1036
+selectmonster "Rabbit" 0
 snow
 
-selectmonster "Civateteo"                                                   # 1037
+selectmonster "Rabbit" 1
 snow
 
-selectmonster "Bolon-Ti-Ku"                                                 # 1038
+selectmonster "Murder Of Crows" 0
 snow
 
-selectmonster "Teotl of the Underworld"                                     # 1039
+selectmonster "Murder Of Crows" 1
 snow
 
-selectmonster "Kaiser"                                                      # 1040
+selectmonster "Messenger Crows" 0
 snow
 
-selectmonster "Malefic Kaiser"                                              # 1041
+selectmonster "Messenger Crows" 1
 snow
 
-selectmonster "Leibwache"                                                   # 1042
+selectmonster "Moose" 0
 snow
 
-selectmonster "Iron Grafted Golem"                                          # 1043
+selectmonster "Moose" 1
 snow
 
-selectmonster "Dark Emperor"                                                # 1044
+selectmonster "Giant Moose" 0
 snow
 
-selectmonster "God Emperor of the Underworld"                               # 1045
+selectmonster "Giant Moose" 1
 snow
 
-selectmonster "Statue of the Underworld"                                    # 1046
+selectmonster "Bear" 0
 snow
 
-selectmonster "Imperial Spirit"                                             # 1047
+selectmonster "Bear" 1
 snow
 
-selectmonster "Void Hound"                                                  # 1048
+selectmonster "Serpent" 0
 snow
 
-selectmonster "Yithian"                                                     # 1049
+selectmonster "Serpent" 1
 snow
 
-selectmonster "Yithian Sage"                                                # 1050
+selectmonster "Snake" 0
 snow
 
-selectmonster "Elder Thing"                                                 # 1051
+selectmonster "Snake" 1
 snow
 
-selectmonster "Strange Thing"                                               # 1052
+selectmonster "Beetle" 0
 snow
 
-selectmonster "Formless Spawn"                                              # 1053
+selectmonster "Beetle" 1
 snow
 
-selectmonster "Star Oak"                                                    # 1054
+selectmonster "Fire Ant" 0
 snow
 
-selectmonster "Animated Tools"                                              # 1055
+selectmonster "Fire Ant" 1
 snow
 
-selectmonster "Dancing Tools"                                               # 1056
+selectmonster "Giant Ant" 0
 snow
 
-selectmonster "Animated Ballista"                                           # 1057
+selectmonster "Giant Ant" 1
 snow
 
-selectmonster "Vessel of Iron Lore"                                         # 1058
+selectmonster "Giant Mantis" 0
 snow
 
-selectmonster "Vessel of Silver Lore"                                       # 1059
+selectmonster "Giant Mantis" 1
 snow
 
-selectmonster "Vessel of Golden Lore"                                       # 1060
+selectmonster "Monkey" 0
 snow
 
-selectmonster "Vessel of Iron Arcana"                                       # 1061
+selectmonster "Monkey" 1
 snow
 
-selectmonster "Vessel of Silver Arcana"                                     # 1062
+selectmonster "Ape" 0
 snow
 
-selectmonster "Vessel of Golden Arcana"                                     # 1063
+selectmonster "Ape" 1
 snow
 
-selectmonster "Living Boulder"                                              # 1064
+selectmonster "Great Ape" 0
 snow
 
-selectmonster "Giant Ant Queen"                                             # 1065
+selectmonster "Great Ape" 1
 snow
 
-selectmonster "Bandit King"                                                 # 1066
+selectmonster "Lion" 0
 snow
 
-selectmonster "Rat"                                                         # 1067
+selectmonster "Lion" 1
 snow
 
-selectmonster "Giant Rat"                                                   # 1068
+selectmonster "Tiger" 0
 snow
 
-selectmonster "Debug Sensei"                                                # 1069
+selectmonster "Tiger" 1
 snow
 
+selectmonster "Elephant" 0
+snow
+
+selectmonster "Elephant" 1
+snow
+
+selectmonster "Goat" 0
+snow
+
+selectmonster "Goat" 1
+snow
+
+selectmonster "Donkey" 0
+snow
+
+selectmonster "Donkey" 1
+snow
+
+selectmonster "Horse" 0
+snow
+
+selectmonster "Horse" 1
+snow
+
+selectmonster "Camel" 0
+snow
+
+selectmonster "Camel" 1
+snow
+
+selectmonster "Dog" 0
+snow
+
+selectmonster "Dog" 1
+snow
+
+selectmonster "Boar" 0
+snow
+
+selectmonster "Boar" 1
+snow
+
+selectmonster "Great Boar" 0
+snow
+
+selectmonster "Great Boar" 1
+snow
+
+selectmonster "Monster Boar" 0
+snow
+
+selectmonster "Monster Boar" 1
+snow
+
+selectmonster "Sacred Moose" 0
+snow
+
+selectmonster "Sacred Moose" 1
+snow
+
+selectmonster "Leogryph" 0
+snow
+
+selectmonster "Leogryph" 1
+snow
+
+selectmonster "Wyvern" 0
+snow
+
+selectmonster "Wyvern" 1
+snow
+
+selectmonster "Amphiptere" 0
+snow
+
+selectmonster "Amphiptere" 1
+snow
+
+selectmonster "Nymph" 0
+snow
+
+selectmonster "Nymph" 1
+snow
+
+selectmonster "Gryphon" 0
+snow
+
+selectmonster "Gryphon" 1
+snow
+
+selectmonster "Sphinx" 0
+snow
+
+selectmonster "Sphinx" 1
+snow
+
+selectmonster "Chimaera" 0
+snow
+
+selectmonster "Chimaera" 1
+snow
+
+selectmonster "Cockatrice" 0
+snow
+
+selectmonster "Cockatrice" 1
+snow
+
+selectmonster "Roc" 0
+snow
+
+selectmonster "Roc" 1
+snow
+
+selectmonster "Beholder" 0
+snow
+
+selectmonster "Beholder" 1
+snow
+
+selectmonster "Beholder" 0
+snow
+
+selectmonster "Beholder" 1
+snow
+
+selectmonster "Elder Beholder" 0
+snow
+
+selectmonster "Elder Beholder" 1
+snow
+
+selectmonster "Eye Tyrant" 0
+snow
+
+selectmonster "Eye Tyrant" 1
+snow
+
+selectmonster "Horned God" 0
+snow
+
+selectmonster "Horned God" 1
+snow
+
+selectmonster "Lord of the Hunt" 0
+snow
+
+selectmonster "Lord of the Hunt" 1
+snow
+
+selectmonster "Monster Fish" 0
+snow
+
+selectmonster "Monster Fish" 1
+snow
+
+selectmonster "Monster of the Deep" 0
+snow
+
+selectmonster "Monster of the Deep" 1
+snow
+
+selectmonster "Asp Turtle" 0
+snow
+
+selectmonster "Asp Turtle" 1
+snow
+
+selectmonster "Lobster" 0
+snow
+
+selectmonster "Lobster" 1
+snow
+
+selectmonster "Giant Crab" 0
+snow
+
+selectmonster "Giant Crab" 1
+snow
+
+selectmonster "Small Shark" 0
+snow
+
+selectmonster "Small Shark" 1
+snow
+
+selectmonster "Great Shark" 0
+snow
+
+selectmonster "Great Shark" 1
+snow
+
+selectmonster "Ichtyid Raider" 0
+snow
+
+selectmonster "Ichtyid Raider" 1
+snow
+
+selectmonster "Ichtyid Warrior" 0
+snow
+
+selectmonster "Ichtyid Warrior" 1
+snow
+
+selectmonster "Ichtyid Captain" 0
+snow
+
+selectmonster "Ichtyid Captain" 1
+snow
+
+selectmonster "Bishop Fish" 0
+snow
+
+selectmonster "Bishop Fish" 1
+snow
+
+selectmonster "Triton" 0
+snow
+
+selectmonster "Triton" 1
+snow
+
+selectmonster "Triton" 0
+snow
+
+selectmonster "Triton" 1
+snow
+
+selectmonster "Triton Trooper" 0
+snow
+
+selectmonster "Triton Trooper" 1
+snow
+
+selectmonster "Triton King" 0
+snow
+
+selectmonster "Triton King" 1
+snow
+
+selectmonster "Siren" 0
+snow
+
+selectmonster "Siren" 1
+snow
+
+selectmonster "Siren" 0
+snow
+
+selectmonster "Siren" 1
+snow
+
+selectmonster "Hippocampus" 0
+snow
+
+selectmonster "Hippocampus" 1
+snow
+
+selectmonster "Sea Stag" 0
+snow
+
+selectmonster "Sea Stag" 1
+snow
+
+selectmonster "Sea Dog" 0
+snow
+
+selectmonster "Sea Dog" 1
+snow
+
+selectmonster "Leocampus" 0
+snow
+
+selectmonster "Leocampus" 1
+snow
+
+selectmonster "Kraken" 0
+snow
+
+selectmonster "Kraken" 1
+snow
+
+selectmonster "Giant Jellyfish" 0
+snow
+
+selectmonster "Giant Jellyfish" 1
+snow
+
+selectmonster "Sea Dragon" 0
+snow
+
+selectmonster "Sea Dragon" 1
+snow
+
+selectmonster "Venus Trap" 0
+snow
+
+selectmonster "Venus Trap" 1
+snow
+
+selectmonster "Woodman" 0
+snow
+
+selectmonster "Woodman" 1
+snow
+
+selectmonster "Forest Shepherd" 0
+snow
+
+selectmonster "Forest Shepherd" 1
+snow
+
+selectmonster "Ivy King" 0
+snow
+
+selectmonster "Ivy King" 1
+snow
+
+selectmonster "Ent" 0
+snow
+
+selectmonster "Ent" 1
+snow
+
+selectmonster "Giant Mushroom" 0
+snow
+
+selectmonster "Giant Mushroom" 1
+snow
+
+selectmonster "Blue Giant" 0
+snow
+
+selectmonster "Blue Giant" 1
+snow
+
+selectmonster "Death Fungus" 0
+snow
+
+selectmonster "Death Fungus" 1
+snow
+
+selectmonster "Blood Fungus" 0
+snow
+
+selectmonster "Blood Fungus" 1
+snow
+
+selectmonster "Devil Fungus" 0
+snow
+
+selectmonster "Devil Fungus" 1
+snow
+
+selectmonster "Snow Fungus" 0
+snow
+
+selectmonster "Snow Fungus" 1
+snow
+
+selectmonster "Shadow Tree" 0
+snow
+
+selectmonster "Shadow Tree" 1
+snow
+
+selectmonster "Tree of Crows" 0
+snow
+
+selectmonster "Tree of Crows" 1
+snow
+
+selectmonster "Heart of the Forest" 0
+snow
+
+selectmonster "Heart of the Forest" 1
+snow
+
+selectmonster "Tree" 0
+snow
+
+selectmonster "Tree" 1
+snow
+
+selectmonster "High Cultist" 0
+snow
+
+selectmonster "High Cultist" 1
+snow
+
+selectmonster "Cultist of the Deep" 0
+snow
+
+selectmonster "Cultist of the Deep" 1
+snow
+
+selectmonster "Hybrid Cultist" 0
+snow
+
+selectmonster "Hybrid Cultist" 1
+snow
+
+selectmonster "Star Child" 0
+snow
+
+selectmonster "Star Child" 1
+snow
+
+selectmonster "Insane Fisherman" 0
+snow
+
+selectmonster "Insane Fisherman" 1
+snow
+
+selectmonster "Hybrid Fisherman" 0
+snow
+
+selectmonster "Hybrid Fisherman" 1
+snow
+
+selectmonster "Hybrid Spearman" 0
+snow
+
+selectmonster "Hybrid Spearman" 1
+snow
+
+selectmonster "Hybrid Soldier" 0
+snow
+
+selectmonster "Hybrid Soldier" 1
+snow
+
+selectmonster "Angler Spawn" 0
+snow
+
+selectmonster "Angler Spawn" 1
+snow
+
+selectmonster "Angler of the Depths" 0
+snow
+
+selectmonster "Angler of the Depths" 1
+snow
+
+selectmonster "Pillar of the Depths" 0
+snow
+
+selectmonster "Pillar of the Depths" 1
+snow
+
+selectmonster "Basalt Queen" 0
+snow
+
+selectmonster "Basalt Queen" 1
+snow
+
+selectmonster "Basalt King" 0
+snow
+
+selectmonster "Basalt King" 1
+snow
+
+selectmonster "Deep One" 0
+snow
+
+selectmonster "Deep One" 1
+snow
+
+selectmonster "Deep One Warrior" 0
+snow
+
+selectmonster "Deep One Warrior" 1
+snow
+
+selectmonster "Shambler" 0
+snow
+
+selectmonster "Shambler" 1
+snow
+
+selectmonster "War Shambler" 0
+snow
+
+selectmonster "War Shambler" 1
+snow
+
+selectmonster "Shambler Prince" 0
+snow
+
+selectmonster "Shambler Prince" 1
+snow
+
+selectmonster "Starspawn" 0
+snow
+
+selectmonster "Starspawn" 1
+snow
+
+selectmonster "Elder Starspawn" 0
+snow
+
+selectmonster "Elder Starspawn" 1
+snow
+
+selectmonster "Angler Queen" 0
+snow
+
+selectmonster "Angler Queen" 1
+snow
+
+selectmonster "Void Lord" 0
+snow
+
+selectmonster "Void Lord" 1
+snow
+
+selectmonster "Master Illusionist" 0
+snow
+
+selectmonster "Master Illusionist" 1
+snow
+
+selectmonster "Illusionist" 0
+snow
+
+selectmonster "Illusionist" 1
+snow
+
+selectmonster "Illusionist's Apprentice" 0
+snow
+
+selectmonster "Illusionist's Apprentice" 1
+snow
+
+selectmonster "Floating Eye" 0
+snow
+
+selectmonster "Floating Eye" 1
+snow
+
+selectmonster "Mirror" 0
+snow
+
+selectmonster "Mirror" 1
+snow
+
+selectmonster "Silver Mirror" 0
+snow
+
+selectmonster "Silver Mirror" 1
+snow
+
+selectmonster "Large Mirror" 0
+snow
+
+selectmonster "Large Mirror" 1
+snow
+
+selectmonster "Golden Mirror" 0
+snow
+
+selectmonster "Golden Mirror" 1
+snow
+
+selectmonster "Soldier Mirror" 0
+snow
+
+selectmonster "Soldier Mirror" 1
+snow
+
+selectmonster "Animal Mirror" 0
+snow
+
+selectmonster "Animal Mirror" 1
+snow
+
+selectmonster "Mirror of Dread" 0
+snow
+
+selectmonster "Mirror of Dread" 1
+snow
+
+selectmonster "Mirror of Confusion" 0
+snow
+
+selectmonster "Mirror of Confusion" 1
+snow
+
+selectmonster "Mirror of Many Colors" 0
+snow
+
+selectmonster "Mirror of Many Colors" 1
+snow
+
+selectmonster "Silver Soldier Mirror" 0
+snow
+
+selectmonster "Silver Soldier Mirror" 1
+snow
+
+selectmonster "Silver Animal Mirror" 0
+snow
+
+selectmonster "Silver Animal Mirror" 1
+snow
+
+selectmonster "Silver Mirror of Dread" 0
+snow
+
+selectmonster "Silver Mirror of Dread" 1
+snow
+
+selectmonster "Silver Mirror of Confusion" 0
+snow
+
+selectmonster "Silver Mirror of Confusion" 1
+snow
+
+selectmonster "Silver Mirror of Many Colors" 0
+snow
+
+selectmonster "Silver Mirror of Many Colors" 1
+snow
+
+selectmonster "Large Soldier Mirror" 0
+snow
+
+selectmonster "Large Soldier Mirror" 1
+snow
+
+selectmonster "Large Animal Mirror" 0
+snow
+
+selectmonster "Large Animal Mirror" 1
+snow
+
+selectmonster "Large Unearthly Mirror" 0
+snow
+
+selectmonster "Large Unearthly Mirror" 1
+snow
+
+selectmonster "Large Swarm Mirror" 0
+snow
+
+selectmonster "Large Swarm Mirror" 1
+snow
+
+selectmonster "Large Monster Mirror" 0
+snow
+
+selectmonster "Large Monster Mirror" 1
+snow
+
+selectmonster "Large Mirror of Dread" 0
+snow
+
+selectmonster "Large Mirror of Dread" 1
+snow
+
+selectmonster "Large Mirror of Confusion" 0
+snow
+
+selectmonster "Large Mirror of Confusion" 1
+snow
+
+selectmonster "Large Mirror of Many Colors" 0
+snow
+
+selectmonster "Large Mirror of Many Colors" 1
+snow
+
+selectmonster "Golden Soldier Mirror" 0
+snow
+
+selectmonster "Golden Soldier Mirror" 1
+snow
+
+selectmonster "Golden Animal Mirror" 0
+snow
+
+selectmonster "Golden Animal Mirror" 1
+snow
+
+selectmonster "Golden Unearthly Mirror" 0
+snow
+
+selectmonster "Golden Unearthly Mirror" 1
+snow
+
+selectmonster "Golden Swarm Mirror" 0
+snow
+
+selectmonster "Golden Swarm Mirror" 1
+snow
+
+selectmonster "Golden Monster Mirror" 0
+snow
+
+selectmonster "Golden Monster Mirror" 1
+snow
+
+selectmonster "Golden Mirror of Dread" 0
+snow
+
+selectmonster "Golden Mirror of Dread" 1
+snow
+
+selectmonster "Golden Mirror of Confusion" 0
+snow
+
+selectmonster "Golden Mirror of Confusion" 1
+snow
+
+selectmonster "Golden Mirror of Many Colors" 0
+snow
+
+selectmonster "Golden Mirror of Many Colors" 1
+snow
+
+selectmonster "Archer Illusion" 0
+snow
+
+selectmonster "Archer Illusion" 1
+snow
+
+selectmonster "Spearman Illusion" 0
+snow
+
+selectmonster "Spearman Illusion" 1
+snow
+
+selectmonster "Swordsman Illusion" 0
+snow
+
+selectmonster "Swordsman Illusion" 1
+snow
+
+selectmonster "Halberdier Illusion" 0
+snow
+
+selectmonster "Halberdier Illusion" 1
+snow
+
+selectmonster "Pikeneer Illusion" 0
+snow
+
+selectmonster "Pikeneer Illusion" 1
+snow
+
+selectmonster "Zweihander Illusion" 0
+snow
+
+selectmonster "Zweihander Illusion" 1
+snow
+
+selectmonster "Captain Illusion" 0
+snow
+
+selectmonster "Captain Illusion" 1
+snow
+
+selectmonster "Knight Illusion" 0
+snow
+
+selectmonster "Knight Illusion" 1
+snow
+
+selectmonster "Wolf Illusion" 0
+snow
+
+selectmonster "Wolf Illusion" 1
+snow
+
+selectmonster "Deer Illusion" 0
+snow
+
+selectmonster "Deer Illusion" 1
+snow
+
+selectmonster "Moose Illusion" 0
+snow
+
+selectmonster "Moose Illusion" 1
+snow
+
+selectmonster "Bear Illusion" 0
+snow
+
+selectmonster "Bear Illusion" 1
+snow
+
+selectmonster "Boar Illusion" 0
+snow
+
+selectmonster "Boar Illusion" 1
+snow
+
+selectmonster "Lion Illusion" 0
+snow
+
+selectmonster "Lion Illusion" 1
+snow
+
+selectmonster "Fiend Illusion" 0
+snow
+
+selectmonster "Fiend Illusion" 1
+snow
+
+selectmonster "Demon Illusion" 0
+snow
+
+selectmonster "Demon Illusion" 1
+snow
+
+selectmonster "Devil Illusion" 0
+snow
+
+selectmonster "Devil Illusion" 1
+snow
+
+selectmonster "Greater Devil Illusion" 0
+snow
+
+selectmonster "Greater Devil Illusion" 1
+snow
+
+selectmonster "Angel Illusion" 0
+snow
+
+selectmonster "Angel Illusion" 1
+snow
+
+selectmonster "Arch Angel Illusion" 0
+snow
+
+selectmonster "Arch Angel Illusion" 1
+snow
+
+selectmonster "Horror Illusion" 0
+snow
+
+selectmonster "Horror Illusion" 1
+snow
+
+selectmonster "Great Horror Illusion" 0
+snow
+
+selectmonster "Great Horror Illusion" 1
+snow
+
+selectmonster "Insect Illusion" 0
+snow
+
+selectmonster "Insect Illusion" 1
+snow
+
+selectmonster "Bug Illusion" 0
+snow
+
+selectmonster "Bug Illusion" 1
+snow
+
+selectmonster "Ant Illusion" 0
+snow
+
+selectmonster "Ant Illusion" 1
+snow
+
+selectmonster "Cat Illusion" 0
+snow
+
+selectmonster "Cat Illusion" 1
+snow
+
+selectmonster "Rabbit Illusion" 0
+snow
+
+selectmonster "Rabbit Illusion" 1
+snow
+
+selectmonster "Frog Illusion" 0
+snow
+
+selectmonster "Frog Illusion" 1
+snow
+
+selectmonster "Snake Illusion" 0
+snow
+
+selectmonster "Snake Illusion" 1
+snow
+
+selectmonster "Troll Illusion" 0
+snow
+
+selectmonster "Troll Illusion" 1
+snow
+
+selectmonster "Giant Illusion" 0
+snow
+
+selectmonster "Giant Illusion" 1
+snow
+
+selectmonster "Drake Illusion" 0
+snow
+
+selectmonster "Drake Illusion" 1
+snow
+
+selectmonster "Monster Illusion" 0
+snow
+
+selectmonster "Monster Illusion" 1
+snow
+
+selectmonster "Hydra Illusion" 0
+snow
+
+selectmonster "Hydra Illusion" 1
+snow
+
+selectmonster "Chimaera Illusion" 0
+snow
+
+selectmonster "Chimaera Illusion" 1
+snow
+
+selectmonster "Manticore Illusion" 0
+snow
+
+selectmonster "Manticore Illusion" 1
+snow
+
+selectmonster "Dragon Illusion" 0
+snow
+
+selectmonster "Dragon Illusion" 1
+snow
+
+selectmonster "Sirrush Illusion" 0
+snow
+
+selectmonster "Sirrush Illusion" 1
+snow
+
+selectmonster "Roc Illusion" 0
+snow
+
+selectmonster "Roc Illusion" 1
+snow
+
+selectmonster "Beholder Illusion" 0
+snow
+
+selectmonster "Beholder Illusion" 1
+snow
+
+selectmonster "Phantasmal Archer" 0
+snow
+
+selectmonster "Phantasmal Archer" 1
+snow
+
+selectmonster "Phantasmal Spearman" 0
+snow
+
+selectmonster "Phantasmal Spearman" 1
+snow
+
+selectmonster "Phantasmal Swordsman" 0
+snow
+
+selectmonster "Phantasmal Swordsman" 1
+snow
+
+selectmonster "Phantasmal Halberdier" 0
+snow
+
+selectmonster "Phantasmal Halberdier" 1
+snow
+
+selectmonster "Phantasmal Pikeneer" 0
+snow
+
+selectmonster "Phantasmal Pikeneer" 1
+snow
+
+selectmonster "Phantasmal Zweihander" 0
+snow
+
+selectmonster "Phantasmal Zweihander" 1
+snow
+
+selectmonster "Phantasmal Captain" 0
+snow
+
+selectmonster "Phantasmal Captain" 1
+snow
+
+selectmonster "Phantasmal Knight" 0
+snow
+
+selectmonster "Phantasmal Knight" 1
+snow
+
+selectmonster "Phantasmal Wolf" 0
+snow
+
+selectmonster "Phantasmal Wolf" 1
+snow
+
+selectmonster "Phantasmal Deer" 0
+snow
+
+selectmonster "Phantasmal Deer" 1
+snow
+
+selectmonster "Phantasmal Moose" 0
+snow
+
+selectmonster "Phantasmal Moose" 1
+snow
+
+selectmonster "Phantasmal Bear" 0
+snow
+
+selectmonster "Phantasmal Bear" 1
+snow
+
+selectmonster "Phantasmal Boar" 0
+snow
+
+selectmonster "Phantasmal Boar" 1
+snow
+
+selectmonster "Phantasmal Lion" 0
+snow
+
+selectmonster "Phantasmal Lion" 1
+snow
+
+selectmonster "Phantasmal Fiend" 0
+snow
+
+selectmonster "Phantasmal Fiend" 1
+snow
+
+selectmonster "Phantasmal Demon" 0
+snow
+
+selectmonster "Phantasmal Demon" 1
+snow
+
+selectmonster "Phantasmal Devil" 0
+snow
+
+selectmonster "Phantasmal Devil" 1
+snow
+
+selectmonster "Phantasmal Greater Devil" 0
+snow
+
+selectmonster "Phantasmal Greater Devil" 1
+snow
+
+selectmonster "Phantasmal Angel" 0
+snow
+
+selectmonster "Phantasmal Angel" 1
+snow
+
+selectmonster "Phantasmal Arch Angel" 0
+snow
+
+selectmonster "Phantasmal Arch Angel" 1
+snow
+
+selectmonster "Phantasmal Horror" 0
+snow
+
+selectmonster "Phantasmal Horror" 1
+snow
+
+selectmonster "Phantasmal Great Horror" 0
+snow
+
+selectmonster "Phantasmal Great Horror" 1
+snow
+
+selectmonster "Phantasmal Insect" 0
+snow
+
+selectmonster "Phantasmal Insect" 1
+snow
+
+selectmonster "Phantasmal Bug" 0
+snow
+
+selectmonster "Phantasmal Bug" 1
+snow
+
+selectmonster "Phantasmal Ant" 0
+snow
+
+selectmonster "Phantasmal Ant" 1
+snow
+
+selectmonster "Phantasmal Cat" 0
+snow
+
+selectmonster "Phantasmal Cat" 1
+snow
+
+selectmonster "Phantasmal Rabbit" 0
+snow
+
+selectmonster "Phantasmal Rabbit" 1
+snow
+
+selectmonster "Phantasmal Frog" 0
+snow
+
+selectmonster "Phantasmal Frog" 1
+snow
+
+selectmonster "Phantasmal Snake" 0
+snow
+
+selectmonster "Phantasmal Snake" 1
+snow
+
+selectmonster "Phantasmal Troll" 0
+snow
+
+selectmonster "Phantasmal Troll" 1
+snow
+
+selectmonster "Phantasmal Giant" 0
+snow
+
+selectmonster "Phantasmal Giant" 1
+snow
+
+selectmonster "Phantasmal Drake" 0
+snow
+
+selectmonster "Phantasmal Drake" 1
+snow
+
+selectmonster "Phantasmal Monster" 0
+snow
+
+selectmonster "Phantasmal Monster" 1
+snow
+
+selectmonster "Phantasmal Hydra" 0
+snow
+
+selectmonster "Phantasmal Hydra" 1
+snow
+
+selectmonster "Phantasmal Chimaera" 0
+snow
+
+selectmonster "Phantasmal Chimaera" 1
+snow
+
+selectmonster "Phantasmal Manticore" 0
+snow
+
+selectmonster "Phantasmal Manticore" 1
+snow
+
+selectmonster "Phantasmal Dragon" 0
+snow
+
+selectmonster "Phantasmal Dragon" 1
+snow
+
+selectmonster "Phantasmal Sirrush" 0
+snow
+
+selectmonster "Phantasmal Sirrush" 1
+snow
+
+selectmonster "Phantasmal Roc" 0
+snow
+
+selectmonster "Phantasmal Roc" 1
+snow
+
+selectmonster "Phantasmal Beholder" 0
+snow
+
+selectmonster "Phantasmal Beholder" 1
+snow
+
+selectmonster "Phase Spider" 0
+snow
+
+selectmonster "Phase Spider" 1
+snow
+
+selectmonster "Displacer Beast" 0
+snow
+
+selectmonster "Displacer Beast" 1
+snow
+
+selectmonster "Ether Warrior" 0
+snow
+
+selectmonster "Ether Warrior" 1
+snow
+
+selectmonster "Ether Lord" 0
+snow
+
+selectmonster "Ether Lord" 1
+snow
+
+selectmonster "Horror Mantis" 0
+snow
+
+selectmonster "Horror Mantis" 1
+snow
+
+selectmonster "Float Cat Horror" 0
+snow
+
+selectmonster "Float Cat Horror" 1
+snow
+
+selectmonster "Spine Membrane Horror" 0
+snow
+
+selectmonster "Spine Membrane Horror" 1
+snow
+
+selectmonster "Soultorn" 0
+snow
+
+selectmonster "Soultorn" 1
+snow
+
+selectmonster "Brass Claw Horror" 0
+snow
+
+selectmonster "Brass Claw Horror" 1
+snow
+
+selectmonster "Mind Slime Horror" 0
+snow
+
+selectmonster "Mind Slime Horror" 1
+snow
+
+selectmonster "Gore Tide Horror" 0
+snow
+
+selectmonster "Gore Tide Horror" 1
+snow
+
+selectmonster "Moon Horror" 0
+snow
+
+selectmonster "Moon Horror" 1
+snow
+
+selectmonster "Dream Horror" 0
+snow
+
+selectmonster "Dream Horror" 1
+snow
+
+selectmonster "Horror Olm" 0
+snow
+
+selectmonster "Horror Olm" 1
+snow
+
+selectmonster "Maker of Ruins" 0
+snow
+
+selectmonster "Maker of Ruins" 1
+snow
+
+selectmonster "Slave to Unreason" 0
+snow
+
+selectmonster "Slave to Unreason" 1
+snow
+
+selectmonster "Hunter of Gods" 0
+snow
+
+selectmonster "Hunter of Gods" 1
+snow
+
+selectmonster "Hunter of Gods" 0
+snow
+
+selectmonster "Hunter of Gods" 1
+snow
+
+selectmonster "Hunter of Gods" 0
+snow
+
+selectmonster "Hunter of Gods" 1
+snow
+
+selectmonster "Young Dvala" 0
+snow
+
+selectmonster "Young Dvala" 1
+snow
+
+selectmonster "Dvala" 0
+snow
+
+selectmonster "Dvala" 1
+snow
+
+selectmonster "Daughter of Dvalin" 0
+snow
+
+selectmonster "Daughter of Dvalin" 1
+snow
+
+selectmonster "Dwarf Worker" 0
+snow
+
+selectmonster "Dwarf Worker" 1
+snow
+
+selectmonster "Rune Smith" 0
+snow
+
+selectmonster "Rune Smith" 1
+snow
+
+selectmonster "Elder Rune Smith" 0
+snow
+
+selectmonster "Elder Rune Smith" 1
+snow
+
+selectmonster "Outdoor Dwarf" 0
+snow
+
+selectmonster "Outdoor Dwarf" 1
+snow
+
+selectmonster "Dwarf Arbalest" 0
+snow
+
+selectmonster "Dwarf Arbalest" 1
+snow
+
+selectmonster "Dwarf" 0
+snow
+
+selectmonster "Dwarf" 1
+snow
+
+selectmonster "Dwarf Warrior" 0
+snow
+
+selectmonster "Dwarf Warrior" 1
+snow
+
+selectmonster "Dwarf Guard" 0
+snow
+
+selectmonster "Dwarf Guard" 1
+snow
+
+selectmonster "Dwarf Commander" 0
+snow
+
+selectmonster "Dwarf Commander" 1
+snow
+
+selectmonster "Queen's Councilor" 0
+snow
+
+selectmonster "Queen's Councilor" 1
+snow
+
+selectmonster "Dwarven Ballista" 0
+snow
+
+selectmonster "Dwarven Ballista" 1
+snow
+
+selectmonster "Rime Warrior" 0
+snow
+
+selectmonster "Rime Warrior" 1
+snow
+
+selectmonster "Rime Guard" 0
+snow
+
+selectmonster "Rime Guard" 1
+snow
+
+selectmonster "Rime Brand Warrior" 0
+snow
+
+selectmonster "Rime Brand Warrior" 1
+snow
+
+selectmonster "Rime Brand Guard" 0
+snow
+
+selectmonster "Rime Brand Guard" 1
+snow
+
+selectmonster "Rime Branded Arbalest" 0
+snow
+
+selectmonster "Rime Branded Arbalest" 1
+snow
+
+selectmonster "Rime Branded Ballista" 0
+snow
+
+selectmonster "Rime Branded Ballista" 1
+snow
+
+selectmonster "Furnace Warrior" 0
+snow
+
+selectmonster "Furnace Warrior" 1
+snow
+
+selectmonster "Furnace Guard" 0
+snow
+
+selectmonster "Furnace Guard" 1
+snow
+
+selectmonster "Flame Brand Warrior" 0
+snow
+
+selectmonster "Flame Brand Warrior" 1
+snow
+
+selectmonster "Flame Brand Guard" 0
+snow
+
+selectmonster "Flame Brand Guard" 1
+snow
+
+selectmonster "Flame Branded Arbalest" 0
+snow
+
+selectmonster "Flame Branded Arbalest" 1
+snow
+
+selectmonster "Flame Branded Ballista" 0
+snow
+
+selectmonster "Flame Branded Ballista" 1
+snow
+
+selectmonster "Dvalin's Warrior" 0
+snow
+
+selectmonster "Dvalin's Warrior" 1
+snow
+
+selectmonster "Council Guard" 0
+snow
+
+selectmonster "Council Guard" 1
+snow
+
+selectmonster "Dvalin's Best" 0
+snow
+
+selectmonster "Dvalin's Best" 1
+snow
+
+selectmonster "Queen's Guard" 0
+snow
+
+selectmonster "Queen's Guard" 1
+snow
+
+selectmonster "Defender of the Halls" 0
+snow
+
+selectmonster "Defender of the Halls" 1
+snow
+
+selectmonster "Earth Branded Ballista" 0
+snow
+
+selectmonster "Earth Branded Ballista" 1
+snow
+
+selectmonster "Chosen of Dvalin" 0
+snow
+
+selectmonster "Chosen of Dvalin" 1
+snow
+
+selectmonster "Chosen of Dvalin" 0
+snow
+
+selectmonster "Chosen of Dvalin" 1
+snow
+
+selectmonster "Troll King" 0
+snow
+
+selectmonster "Troll King" 1
+snow
+
+selectmonster "Troll" 0
+snow
+
+selectmonster "Troll" 1
+snow
+
+selectmonster "Forest Troll" 0
+snow
+
+selectmonster "Forest Troll" 1
+snow
+
+selectmonster "Rock Troll" 0
+snow
+
+selectmonster "Rock Troll" 1
+snow
+
+selectmonster "Old Troll" 0
+snow
+
+selectmonster "Old Troll" 1
+snow
+
+selectmonster "Ancient Troll" 0
+snow
+
+selectmonster "Ancient Troll" 1
+snow
+
+selectmonster "Troll Shaman" 0
+snow
+
+selectmonster "Troll Shaman" 1
+snow
+
+selectmonster "Troll Witch Doctor" 0
+snow
+
+selectmonster "Troll Witch Doctor" 1
+snow
+
+selectmonster "Elder Troll Shaman" 0
+snow
+
+selectmonster "Elder Troll Shaman" 1
+snow
+
+selectmonster "Forest Giant" 0
+snow
+
+selectmonster "Forest Giant" 1
+snow
+
+selectmonster "Hill Giant" 0
+snow
+
+selectmonster "Hill Giant" 1
+snow
+
+selectmonster "Ettin" 0
+snow
+
+selectmonster "Ettin" 1
+snow
+
+selectmonster "Ogre" 0
+snow
+
+selectmonster "Ogre" 1
+snow
+
+selectmonster "Ogre Chief" 0
+snow
+
+selectmonster "Ogre Chief" 1
+snow
+
+selectmonster "Goblin King" 0
+snow
+
+selectmonster "Goblin King" 1
+snow
+
+selectmonster "Goblin Hero" 0
+snow
+
+selectmonster "Goblin Hero" 1
+snow
+
+selectmonster "Wolf Kin Reaver" 0
+snow
+
+selectmonster "Wolf Kin Reaver" 1
+snow
+
+selectmonster "Goblin Chieftain" 0
+snow
+
+selectmonster "Goblin Chieftain" 1
+snow
+
+selectmonster "Goblin" 0
+snow
+
+selectmonster "Goblin" 1
+snow
+
+selectmonster "Goblin Spearman" 0
+snow
+
+selectmonster "Goblin Spearman" 1
+snow
+
+selectmonster "Goblin Archer" 0
+snow
+
+selectmonster "Goblin Archer" 1
+snow
+
+selectmonster "Goblin Shaman" 0
+snow
+
+selectmonster "Goblin Shaman" 1
+snow
+
+selectmonster "Goblin Witch Doctor" 0
+snow
+
+selectmonster "Goblin Witch Doctor" 1
+snow
+
+selectmonster "Wolf Kin" 0
+snow
+
+selectmonster "Wolf Kin" 1
+snow
+
+selectmonster "Goblin Murderer" 0
+snow
+
+selectmonster "Goblin Murderer" 1
+snow
+
+selectmonster "Elder Dragon" 0
+snow
+
+selectmonster "Elder Dragon" 1
+snow
+
+selectmonster "Dragon" 0
+snow
+
+selectmonster "Dragon" 1
+snow
+
+selectmonster "Dragon Hatchling" 0
+snow
+
+selectmonster "Dragon Hatchling" 1
+snow
+
+selectmonster "King Of The Deep" 0
+snow
+
+selectmonster "King Of The Deep" 1
+snow
+
+selectmonster "Pale One" 0
+snow
+
+selectmonster "Pale One" 1
+snow
+
+selectmonster "Pale One Scout" 0
+snow
+
+selectmonster "Pale One Scout" 1
+snow
+
+selectmonster "Pale One Soldier" 0
+snow
+
+selectmonster "Pale One Soldier" 1
+snow
+
+selectmonster "Cavern Guard" 0
+snow
+
+selectmonster "Cavern Guard" 1
+snow
+
+selectmonster "Pale One Commander" 0
+snow
+
+selectmonster "Pale One Commander" 1
+snow
+
+selectmonster "Ancient Commander" 0
+snow
+
+selectmonster "Ancient Commander" 1
+snow
+
+selectmonster "Ancient Pale One" 0
+snow
+
+selectmonster "Ancient Pale One" 1
+snow
+
+selectmonster "Seal Guard" 0
+snow
+
+selectmonster "Seal Guard" 1
+snow
+
+selectmonster "Ancient Hurler" 0
+snow
+
+selectmonster "Ancient Hurler" 1
+snow
+
+selectmonster "Earth Reader" 0
+snow
+
+selectmonster "Earth Reader" 1
+snow
+
+selectmonster "Earth Mind" 0
+snow
+
+selectmonster "Earth Mind" 1
+snow
+
+selectmonster "Oracle of Subterranean Fires" 0
+snow
+
+selectmonster "Oracle of Subterranean Fires" 1
+snow
+
+selectmonster "Oracle of Rhuax" 0
+snow
+
+selectmonster "Oracle of Rhuax" 1
+snow
+
+selectmonster "Oracle of Subterranean Waters" 0
+snow
+
+selectmonster "Oracle of Subterranean Waters" 1
+snow
+
+selectmonster "Oracle of Apsu" 0
+snow
+
+selectmonster "Oracle of Apsu" 1
+snow
+
+selectmonster "Oracle of the Dead" 0
+snow
+
+selectmonster "Oracle of the Dead" 1
+snow
+
+selectmonster "Oracle of Allatu" 0
+snow
+
+selectmonster "Oracle of Allatu" 1
+snow
+
+selectmonster "Troglodyte" 0
+snow
+
+selectmonster "Troglodyte" 1
+snow
+
+selectmonster "Penumbral" 0
+snow
+
+selectmonster "Penumbral" 1
+snow
+
+selectmonster "Umbral" 0
+snow
+
+selectmonster "Umbral" 1
+snow
+
+selectmonster "Sentinel" 0
+snow
+
+selectmonster "Sentinel" 1
+snow
+
+selectmonster "Granite Guardian" 0
+snow
+
+selectmonster "Granite Guardian" 1
+snow
+
+selectmonster "Marble Oracle" 0
+snow
+
+selectmonster "Marble Oracle" 1
+snow
+
+selectmonster "Onyx Oracle" 0
+snow
+
+selectmonster "Onyx Oracle" 1
+snow
+
+selectmonster "Cavern Wight" 0
+snow
+
+selectmonster "Cavern Wight" 1
+snow
+
+selectmonster "Sepulchral" 0
+snow
+
+selectmonster "Sepulchral" 1
+snow
+
+selectmonster "Tomb Oracle" 0
+snow
+
+selectmonster "Tomb Oracle" 1
+snow
+
+selectmonster "Olm" 0
+snow
+
+selectmonster "Olm" 1
+snow
+
+selectmonster "Olm Sage" 0
+snow
+
+selectmonster "Olm Sage" 1
+snow
+
+selectmonster "Olm Farseer" 0
+snow
+
+selectmonster "Olm Farseer" 1
+snow
+
+selectmonster "Cave Grub" 0
+snow
+
+selectmonster "Cave Grub" 1
+snow
+
+selectmonster "Cave Cow" 0
+snow
+
+selectmonster "Cave Cow" 1
+snow
+
+selectmonster "Magma Child" 0
+snow
+
+selectmonster "Magma Child" 1
+snow
+
+selectmonster "God Vessel" 0
+snow
+
+selectmonster "God Vessel" 1
+snow
+
+selectmonster "God Vessel" 0
+snow
+
+selectmonster "God Vessel" 1
+snow
+
+selectmonster "Penumbral" 0
+snow
+
+selectmonster "Penumbral" 1
+snow
+
+selectmonster "God Vessel" 0
+snow
+
+selectmonster "God Vessel" 1
+snow
+
+selectmonster "Legion of Gods" 0
+snow
+
+selectmonster "Legion of Gods" 1
+snow
+
+selectmonster "Dai Bakemono" 0
+snow
+
+selectmonster "Dai Bakemono" 1
+snow
+
+selectmonster "Bakemono General" 0
+snow
+
+selectmonster "Bakemono General" 1
+snow
+
+selectmonster "Dai Bakemono Archer" 0
+snow
+
+selectmonster "Dai Bakemono Archer" 1
+snow
+
+selectmonster "Bakemono Sorceror" 0
+snow
+
+selectmonster "Bakemono Sorceror" 1
+snow
+
+selectmonster "Bakemono Great Sorceror" 0
+snow
+
+selectmonster "Bakemono Great Sorceror" 1
+snow
+
+selectmonster "Bakemono Kunshu" 0
+snow
+
+selectmonster "Bakemono Kunshu" 1
+snow
+
+selectmonster "Bakemono O Kunshu" 0
+snow
+
+selectmonster "Bakemono O Kunshu" 1
+snow
+
+selectmonster "O Bakemono" 0
+snow
+
+selectmonster "O Bakemono" 1
+snow
+
+selectmonster "Bakemono Sho" 0
+snow
+
+selectmonster "Bakemono Sho" 1
+snow
+
+selectmonster "Bakemono Spearman" 0
+snow
+
+selectmonster "Bakemono Spearman" 1
+snow
+
+selectmonster "Bakemono Bowman" 0
+snow
+
+selectmonster "Bakemono Bowman" 1
+snow
+
+selectmonster "Bakemono Soldier" 0
+snow
+
+selectmonster "Bakemono Soldier" 1
+snow
+
+selectmonster "Bakemono Swordsman" 0
+snow
+
+selectmonster "Bakemono Swordsman" 1
+snow
+
+selectmonster "Bakemono Archer" 0
+snow
+
+selectmonster "Bakemono Archer" 1
+snow
+
+selectmonster "Bakemono Shaman" 0
+snow
+
+selectmonster "Bakemono Shaman" 1
+snow
+
+selectmonster "Bakemono Witch Doctor" 0
+snow
+
+selectmonster "Bakemono Witch Doctor" 1
+snow
+
+selectmonster "Shuten Doji" 0
+snow
+
+selectmonster "Shuten Doji" 1
+snow
+
+selectmonster "Uba" 0
+snow
+
+selectmonster "Uba" 1
+snow
+
+selectmonster "Ghost Cat" 0
+snow
+
+selectmonster "Ghost Cat" 1
+snow
+
+selectmonster "Kappa" 0
+snow
+
+selectmonster "Kappa" 1
+snow
+
+selectmonster "Kappa Shaman" 0
+snow
+
+selectmonster "Kappa Shaman" 1
+snow
+
+selectmonster "Mezu" 0
+snow
+
+selectmonster "Mezu" 1
+snow
+
+selectmonster "Gozu" 0
+snow
+
+selectmonster "Gozu" 1
+snow
+
+selectmonster "Karasu Tengu" 0
+snow
+
+selectmonster "Karasu Tengu" 1
+snow
+
+selectmonster "Konoha Tengu" 0
+snow
+
+selectmonster "Konoha Tengu" 1
+snow
+
+selectmonster "Tengu Warrior" 0
+snow
+
+selectmonster "Tengu Warrior" 1
+snow
+
+selectmonster "Dai Tengu" 0
+snow
+
+selectmonster "Dai Tengu" 1
+snow
+
+selectmonster "Tengu Weapon Master" 0
+snow
+
+selectmonster "Tengu Weapon Master" 1
+snow
+
+selectmonster "Mujina" 0
+snow
+
+selectmonster "Mujina" 1
+snow
+
+selectmonster "Shikome" 0
+snow
+
+selectmonster "Shikome" 1
+snow
+
+selectmonster "Kitsune" 0
+snow
+
+selectmonster "Kitsune" 1
+snow
+
+selectmonster "Fox Spirit" 0
+snow
+
+selectmonster "Fox Spirit" 1
+snow
+
+selectmonster "Nushi" 0
+snow
+
+selectmonster "Nushi" 1
+snow
+
+selectmonster "Hannya" 0
+snow
+
+selectmonster "Hannya" 1
+snow
+
+selectmonster "Ao Oni" 0
+snow
+
+selectmonster "Ao Oni" 1
+snow
+
+selectmonster "Spectral Oni" 0
+snow
+
+selectmonster "Spectral Oni" 1
+snow
+
+selectmonster "Aka Oni" 0
+snow
+
+selectmonster "Aka Oni" 1
+snow
+
+selectmonster "Spectral Oni" 0
+snow
+
+selectmonster "Spectral Oni" 1
+snow
+
+selectmonster "Kuro Oni" 0
+snow
+
+selectmonster "Kuro Oni" 1
+snow
+
+selectmonster "Spectral Oni General" 0
+snow
+
+selectmonster "Spectral Oni General" 1
+snow
+
+selectmonster "Dai Oni" 0
+snow
+
+selectmonster "Dai Oni" 1
+snow
+
+selectmonster "Spectral Oni King" 0
+snow
+
+selectmonster "Spectral Oni King" 1
+snow
+
+selectmonster "Burgmeister" 0
+snow
+
+selectmonster "Burgmeister" 1
+snow
+
+selectmonster "Horticulturist" 0
+snow
+
+selectmonster "Horticulturist" 1
+snow
+
+selectmonster "Garden Master" 0
+snow
+
+selectmonster "Garden Master" 1
+snow
+
+selectmonster "Horologist" 0
+snow
+
+selectmonster "Horologist" 1
+snow
+
+selectmonster "Clockwork Master Crafter" 0
+snow
+
+selectmonster "Clockwork Master Crafter" 1
+snow
+
+selectmonster "Hoburg Militia" 0
+snow
+
+selectmonster "Hoburg Militia" 1
+snow
+
+selectmonster "Hoburg Slinger" 0
+snow
+
+selectmonster "Hoburg Slinger" 1
+snow
+
+selectmonster "Hoburg Soldier" 0
+snow
+
+selectmonster "Hoburg Soldier" 1
+snow
+
+selectmonster "Hoburg Defender" 0
+snow
+
+selectmonster "Hoburg Defender" 1
+snow
+
+selectmonster "Hoburg Crossbow" 0
+snow
+
+selectmonster "Hoburg Crossbow" 1
+snow
+
+selectmonster "Hoburg Pikeneer" 0
+snow
+
+selectmonster "Hoburg Pikeneer" 1
+snow
+
+selectmonster "Burgmeister Guard" 0
+snow
+
+selectmonster "Burgmeister Guard" 1
+snow
+
+selectmonster "Hog Knight" 0
+snow
+
+selectmonster "Hog Knight" 1
+snow
+
+selectmonster "Hogmeister" 0
+snow
+
+selectmonster "Hogmeister" 1
+snow
+
+selectmonster "Ruby Clockwork Soldier" 0
+snow
+
+selectmonster "Ruby Clockwork Soldier" 1
+snow
+
+selectmonster "Sapphire Clockwork Soldier" 0
+snow
+
+selectmonster "Sapphire Clockwork Soldier" 1
+snow
+
+selectmonster "Diamond Clockwork Soldier" 0
+snow
+
+selectmonster "Diamond Clockwork Soldier" 1
+snow
+
+selectmonster "Emerald Clockwork Soldier" 0
+snow
+
+selectmonster "Emerald Clockwork Soldier" 1
+snow
+
+selectmonster "Ruby Clockwork Horror" 0
+snow
+
+selectmonster "Ruby Clockwork Horror" 1
+snow
+
+selectmonster "Sapphire Clockwork Horror" 0
+snow
+
+selectmonster "Sapphire Clockwork Horror" 1
+snow
+
+selectmonster "Diamond Clockwork Horror" 0
+snow
+
+selectmonster "Diamond Clockwork Horror" 1
+snow
+
+selectmonster "Emerald Clockwork Horror" 0
+snow
+
+selectmonster "Emerald Clockwork Horror" 1
+snow
+
+selectmonster "Ruby Iron Dragon" 0
+snow
+
+selectmonster "Ruby Iron Dragon" 1
+snow
+
+selectmonster "Sapphire Iron Dragon" 0
+snow
+
+selectmonster "Sapphire Iron Dragon" 1
+snow
+
+selectmonster "Diamond Iron Dragon" 0
+snow
+
+selectmonster "Diamond Iron Dragon" 1
+snow
+
+selectmonster "Emerald Iron Dragon" 0
+snow
+
+selectmonster "Emerald Iron Dragon" 1
+snow
+
+selectmonster "Iron Spider" 0
+snow
+
+selectmonster "Iron Spider" 1
+snow
+
+selectmonster "Iron Fly" 0
+snow
+
+selectmonster "Iron Fly" 1
+snow
+
+selectmonster "Iron Ant" 0
+snow
+
+selectmonster "Iron Ant" 1
+snow
+
+selectmonster "Iron Scorpion" 0
+snow
+
+selectmonster "Iron Scorpion" 1
+snow
+
+selectmonster "Markgraf" 0
+snow
+
+selectmonster "Markgraf" 1
+snow
+
+selectmonster "Malefic Markgraf" 0
+snow
+
+selectmonster "Malefic Markgraf" 1
+snow
+
+selectmonster "Malefic Master" 0
+snow
+
+selectmonster "Malefic Master" 1
+snow
+
+selectmonster "Malefic Markmeister" 0
+snow
+
+selectmonster "Malefic Markmeister" 1
+snow
+
+selectmonster "Ghoul Baron" 0
+snow
+
+selectmonster "Ghoul Baron" 1
+snow
+
+selectmonster "Ghoulgraf" 0
+snow
+
+selectmonster "Ghoulgraf" 1
+snow
+
+selectmonster "Nekromant" 0
+snow
+
+selectmonster "Nekromant" 1
+snow
+
+selectmonster "Grand Nekromant" 0
+snow
+
+selectmonster "Grand Nekromant" 1
+snow
+
+selectmonster "Corpse Nekromant" 0
+snow
+
+selectmonster "Corpse Nekromant" 1
+snow
+
+selectmonster "Wight Nekromant" 0
+snow
+
+selectmonster "Wight Nekromant" 1
+snow
+
+selectmonster "Small Ghost" 0
+snow
+
+selectmonster "Small Ghost" 1
+snow
+
+selectmonster "Ghost Nekromant" 0
+snow
+
+selectmonster "Ghost Nekromant" 1
+snow
+
+selectmonster "Hoburg Thrall" 0
+snow
+
+selectmonster "Hoburg Thrall" 1
+snow
+
+selectmonster "Hobmark Soldier" 0
+snow
+
+selectmonster "Hobmark Soldier" 1
+snow
+
+selectmonster "Hobmark Defender" 0
+snow
+
+selectmonster "Hobmark Defender" 1
+snow
+
+selectmonster "Hobmark Crossbow" 0
+snow
+
+selectmonster "Hobmark Crossbow" 1
+snow
+
+selectmonster "Hobmark Hammerer" 0
+snow
+
+selectmonster "Hobmark Hammerer" 1
+snow
+
+selectmonster "Hobmark Pikeneer" 0
+snow
+
+selectmonster "Hobmark Pikeneer" 1
+snow
+
+selectmonster "Markgraf Guard" 0
+snow
+
+selectmonster "Markgraf Guard" 1
+snow
+
+selectmonster "Hog Hussar" 0
+snow
+
+selectmonster "Hog Hussar" 1
+snow
+
+selectmonster "Markmeister" 0
+snow
+
+selectmonster "Markmeister" 1
+snow
+
+selectmonster "Little Longdead" 0
+snow
+
+selectmonster "Little Longdead" 1
+snow
+
+selectmonster "Little Longdead" 0
+snow
+
+selectmonster "Little Longdead" 1
+snow
+
+selectmonster "Little Longdead" 0
+snow
+
+selectmonster "Little Longdead" 1
+snow
+
+selectmonster "Little Soulless" 0
+snow
+
+selectmonster "Little Soulless" 1
+snow
+
+selectmonster "Little Ghoul" 0
+snow
+
+selectmonster "Little Ghoul" 1
+snow
+
+selectmonster "Ghoul Guardian" 0
+snow
+
+selectmonster "Ghoul Guardian" 1
+snow
+
+selectmonster "Councilor" 0
+snow
+
+selectmonster "Councilor" 1
+snow
+
+selectmonster "Werewolf" 0
+snow
+
+selectmonster "Werewolf" 1
+snow
+
+selectmonster "Spearman" 0
+snow
+
+selectmonster "Spearman" 1
+snow
+
+selectmonster "Werebear" 0
+snow
+
+selectmonster "Werebear" 1
+snow
+
+selectmonster "Levy" 0
+snow
+
+selectmonster "Levy" 1
+snow
+
+selectmonster "Minotaur" 0
+snow
+
+selectmonster "Minotaur" 1
+snow
+
+selectmonster "Witch Doctor" 0
+snow
+
+selectmonster "Witch Doctor" 1
+snow
+
+selectmonster "Tribal Queen" 0
+snow
+
+selectmonster "Tribal Queen" 1
+snow
+
+selectmonster "Lion King" 0
+snow
+
+selectmonster "Lion King" 1
+snow
+
+selectmonster "Lion Tribe Warrior" 0
+snow
+
+selectmonster "Lion Tribe Warrior" 1
+snow
+
+selectmonster "Hyena Tribe Warrior" 0
+snow
+
+selectmonster "Hyena Tribe Warrior" 1
+snow
+
+selectmonster "Pygmy" 0
+snow
+
+selectmonster "Pygmy" 1
+snow
+
+selectmonster "Crystal Sorceress" 0
+snow
+
+selectmonster "Crystal Sorceress" 1
+snow
+
+selectmonster "Crystal Priestess" 0
+snow
+
+selectmonster "Crystal Priestess" 1
+snow
+
+selectmonster "Crystal Amazon" 0
+snow
+
+selectmonster "Crystal Amazon" 1
+snow
+
+selectmonster "Garnet Sorceress" 0
+snow
+
+selectmonster "Garnet Sorceress" 1
+snow
+
+selectmonster "Garnet Priestess" 0
+snow
+
+selectmonster "Garnet Priestess" 1
+snow
+
+selectmonster "Garnet Amazon" 0
+snow
+
+selectmonster "Garnet Amazon" 1
+snow
+
+selectmonster "Jade Sorceress" 0
+snow
+
+selectmonster "Jade Sorceress" 1
+snow
+
+selectmonster "Jade Priestess" 0
+snow
+
+selectmonster "Jade Priestess" 1
+snow
+
+selectmonster "Jade Amazon" 0
+snow
+
+selectmonster "Jade Amazon" 1
+snow
+
+selectmonster "Onyx Sorceress" 0
+snow
+
+selectmonster "Onyx Sorceress" 1
+snow
+
+selectmonster "Onyx Priestess" 0
+snow
+
+selectmonster "Onyx Priestess" 1
+snow
+
+selectmonster "Onyx Amazon" 0
+snow
+
+selectmonster "Onyx Amazon" 1
+snow
+
+selectmonster "Nahualli" 0
+snow
+
+selectmonster "Nahualli" 1
+snow
+
+selectmonster "Old Nahualli" 0
+snow
+
+selectmonster "Old Nahualli" 1
+snow
+
+selectmonster "Smoking Mirror" 0
+snow
+
+selectmonster "Smoking Mirror" 1
+snow
+
+selectmonster "Sun Temple Attendant" 0
+snow
+
+selectmonster "Sun Temple Attendant" 1
+snow
+
+selectmonster "Priest King" 0
+snow
+
+selectmonster "Priest King" 1
+snow
+
+selectmonster "High Priest of the Sun" 0
+snow
+
+selectmonster "High Priest of the Sun" 1
+snow
+
+selectmonster "Blood Temple Attendant" 0
+snow
+
+selectmonster "Blood Temple Attendant" 1
+snow
+
+selectmonster "Priest of the Bloody Mother" 0
+snow
+
+selectmonster "Priest of the Bloody Mother" 1
+snow
+
+selectmonster "High Priest of the Bloody Mother" 0
+snow
+
+selectmonster "High Priest of the Bloody Mother" 1
+snow
+
+selectmonster "Sky Temple Attendant" 0
+snow
+
+selectmonster "Sky Temple Attendant" 1
+snow
+
+selectmonster "Sky Priest" 0
+snow
+
+selectmonster "Sky Priest" 1
+snow
+
+selectmonster "High Priest of the Sky" 0
+snow
+
+selectmonster "High Priest of the Sky" 1
+snow
+
+selectmonster "Rain Temple Attendant" 0
+snow
+
+selectmonster "Rain Temple Attendant" 1
+snow
+
+selectmonster "Rain Priest" 0
+snow
+
+selectmonster "Rain Priest" 1
+snow
+
+selectmonster "High Priest of the Rain" 0
+snow
+
+selectmonster "High Priest of the Rain" 1
+snow
+
+selectmonster "Moon Temple Attendant" 0
+snow
+
+selectmonster "Moon Temple Attendant" 1
+snow
+
+selectmonster "Moon Priest" 0
+snow
+
+selectmonster "Moon Priest" 1
+snow
+
+selectmonster "High Priest of the Night" 0
+snow
+
+selectmonster "High Priest of the Night" 1
+snow
+
+selectmonster "Death Temple Attendant" 0
+snow
+
+selectmonster "Death Temple Attendant" 1
+snow
+
+selectmonster "Priest of the Dead" 0
+snow
+
+selectmonster "Priest of the Dead" 1
+snow
+
+selectmonster "High Priest of the Dead" 0
+snow
+
+selectmonster "High Priest of the Dead" 1
+snow
+
+selectmonster "Tribal King" 0
+snow
+
+selectmonster "Tribal King" 1
+snow
+
+selectmonster "Slave" 0
+snow
+
+selectmonster "Slave" 1
+snow
+
+selectmonster "Tribal Warrior" 0
+snow
+
+selectmonster "Tribal Warrior" 1
+snow
+
+selectmonster "Jungle Warrior" 0
+snow
+
+selectmonster "Jungle Warrior" 1
+snow
+
+selectmonster "Feathered Warrior" 0
+snow
+
+selectmonster "Feathered Warrior" 1
+snow
+
+selectmonster "Jaguar Warrior" 0
+snow
+
+selectmonster "Jaguar Warrior" 1
+snow
+
+selectmonster "Eagle Warrior" 0
+snow
+
+selectmonster "Eagle Warrior" 1
+snow
+
+selectmonster "Moon Warrior" 0
+snow
+
+selectmonster "Moon Warrior" 1
+snow
+
+selectmonster "Sun Warrior" 0
+snow
+
+selectmonster "Sun Warrior" 1
+snow
+
+selectmonster "Jaguar" 0
+snow
+
+selectmonster "Jaguar" 1
+snow
+
+selectmonster "Ozelotl" 0
+snow
+
+selectmonster "Ozelotl" 1
+snow
+
+selectmonster "Balam" 0
+snow
+
+selectmonster "Balam" 1
+snow
+
+selectmonster "Teotl of War" 0
+snow
+
+selectmonster "Teotl of War" 1
+snow
+
+selectmonster "Tlahuelpuchi" 0
+snow
+
+selectmonster "Tlahuelpuchi" 1
+snow
+
+selectmonster "Plumed Serpent" 0
+snow
+
+selectmonster "Plumed Serpent" 1
+snow
+
+selectmonster "Teteo Inan" 0
+snow
+
+selectmonster "Teteo Inan" 1
+snow
+
+selectmonster "Turkey Spirit Double" 0
+snow
+
+selectmonster "Turkey Spirit Double" 1
+snow
+
+selectmonster "Coatl" 0
+snow
+
+selectmonster "Coatl" 1
+snow
+
+selectmonster "Great Macaw" 0
+snow
+
+selectmonster "Great Macaw" 1
+snow
+
+selectmonster "Chaac of the East" 0
+snow
+
+selectmonster "Chaac of the East" 1
+snow
+
+selectmonster "Chaac of the South" 0
+snow
+
+selectmonster "Chaac of the South" 1
+snow
+
+selectmonster "Chaac of the West" 0
+snow
+
+selectmonster "Chaac of the West" 1
+snow
+
+selectmonster "Chaac of the North" 0
+snow
+
+selectmonster "Chaac of the North" 1
+snow
+
+selectmonster "Teotl of the Sky" 0
+snow
+
+selectmonster "Teotl of the Sky" 1
+snow
+
+selectmonster "Toad Warrior" 0
+snow
+
+selectmonster "Toad Warrior" 1
+snow
+
+selectmonster "Toad Warrior" 0
+snow
+
+selectmonster "Toad Warrior" 1
+snow
+
+selectmonster "Rain Warrior" 0
+snow
+
+selectmonster "Rain Warrior" 1
+snow
+
+selectmonster "Toad Priest" 0
+snow
+
+selectmonster "Toad Priest" 1
+snow
+
+selectmonster "King of Rain" 0
+snow
+
+selectmonster "King of Rain" 1
+snow
+
+selectmonster "Tlaloque of the East" 0
+snow
+
+selectmonster "Tlaloque of the East" 1
+snow
+
+selectmonster "Tlaloque of the South" 0
+snow
+
+selectmonster "Tlaloque of the South" 1
+snow
+
+selectmonster "Tlaloque of the West" 0
+snow
+
+selectmonster "Tlaloque of the West" 1
+snow
+
+selectmonster "Tlaloque of the North" 0
+snow
+
+selectmonster "Tlaloque of the North" 1
+snow
+
+selectmonster "Teotl of Rain" 0
+snow
+
+selectmonster "Teotl of Rain" 1
+snow
+
+selectmonster "Beast Bat" 0
+snow
+
+selectmonster "Beast Bat" 1
+snow
+
+selectmonster "Tzitzimitl" 0
+snow
+
+selectmonster "Tzitzimitl" 1
+snow
+
+selectmonster "Onaqui" 0
+snow
+
+selectmonster "Onaqui" 1
+snow
+
+selectmonster "Teotl of the Night" 0
+snow
+
+selectmonster "Teotl of the Night" 1
+snow
+
+selectmonster "Civateteo" 0
+snow
+
+selectmonster "Civateteo" 1
+snow
+
+selectmonster "Bolon-Ti-Ku" 0
+snow
+
+selectmonster "Bolon-Ti-Ku" 1
+snow
+
+selectmonster "Teotl of the Underworld" 0
+snow
+
+selectmonster "Teotl of the Underworld" 1
+snow
+
+selectmonster "Kaiser" 0
+snow
+
+selectmonster "Kaiser" 1
+snow
+
+selectmonster "Malefic Kaiser" 0
+snow
+
+selectmonster "Malefic Kaiser" 1
+snow
+
+selectmonster "Leibwache" 0
+snow
+
+selectmonster "Leibwache" 1
+snow
+
+selectmonster "Iron Grafted Golem" 0
+snow
+
+selectmonster "Iron Grafted Golem" 1
+snow
+
+selectmonster "Dark Emperor" 0
+snow
+
+selectmonster "Dark Emperor" 1
+snow
+
+selectmonster "God Emperor of the Underworld" 0
+snow
+
+selectmonster "God Emperor of the Underworld" 1
+snow
+
+selectmonster "Statue of the Underworld" 0
+snow
+
+selectmonster "Statue of the Underworld" 1
+snow
+
+selectmonster "Imperial Spirit" 0
+snow
+
+selectmonster "Imperial Spirit" 1
+snow
+
+selectmonster "Void Hound" 0
+snow
+
+selectmonster "Void Hound" 1
+snow
+
+selectmonster "Yithian" 0
+snow
+
+selectmonster "Yithian" 1
+snow
+
+selectmonster "Yithian Sage" 0
+snow
+
+selectmonster "Yithian Sage" 1
+snow
+
+selectmonster "Elder Thing" 0
+snow
+
+selectmonster "Elder Thing" 1
+snow
+
+selectmonster "Strange Thing" 0
+snow
+
+selectmonster "Strange Thing" 1
+snow
+
+selectmonster "Formless Spawn" 0
+snow
+
+selectmonster "Formless Spawn" 1
+snow
+
+selectmonster "Star Oak" 0
+snow
+
+selectmonster "Star Oak" 1
+snow
+
+selectmonster "Animated Tools" 0
+snow
+
+selectmonster "Animated Tools" 1
+snow
+
+selectmonster "Dancing Tools" 0
+snow
+
+selectmonster "Dancing Tools" 1
+snow
+
+selectmonster "Animated Ballista" 0
+snow
+
+selectmonster "Animated Ballista" 1
+snow
+
+selectmonster "Vessel of Iron Lore" 0
+snow
+
+selectmonster "Vessel of Iron Lore" 1
+snow
+
+selectmonster "Vessel of Silver Lore" 0
+snow
+
+selectmonster "Vessel of Silver Lore" 1
+snow
+
+selectmonster "Vessel of Golden Lore" 0
+snow
+
+selectmonster "Vessel of Golden Lore" 1
+snow
+
+selectmonster "Vessel of Iron Arcana" 0
+snow
+
+selectmonster "Vessel of Iron Arcana" 1
+snow
+
+selectmonster "Vessel of Silver Arcana" 0
+snow
+
+selectmonster "Vessel of Silver Arcana" 1
+snow
+
+selectmonster "Vessel of Golden Arcana" 0
+snow
+
+selectmonster "Vessel of Golden Arcana" 1
+snow
+
+selectmonster "Living Boulder" 0
+snow
+
+selectmonster "Living Boulder" 1
+snow
+
+selectmonster "Giant Ant Queen" 0
+snow
+
+selectmonster "Giant Ant Queen" 1
+snow
+
+selectmonster "Bandit King" 0
+snow
+
+selectmonster "Bandit King" 1
+snow
+
+selectmonster "Rat" 0
+snow
+
+selectmonster "Rat" 1
+snow
+
+selectmonster "Giant Rat" 0
+snow
+
+selectmonster "Giant Rat" 1
+snow
 
+selectmonster "Debug Sensei" 0
+snow
 
+selectmonster "Debug Sensei" 1
+snow
