@@ -1,5 +1,5 @@
 icon "MovementOne/banner.tga"
-description "This mod just makes all terrain only cost 1 movement."
+description "This mod just makes all terrain only cost 1 movement.  Gives all unit snow move."
 
 selectterr 1
 apcost 1
